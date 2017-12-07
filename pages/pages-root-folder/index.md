@@ -8,7 +8,7 @@
 layout: frontpage
 header:
   image_fullwidth: 8155665827_08680a7ca1_o.jpg
-  title: Technologies of Text, Spring 2017
+  # title: Technologies of Text, Spring 2017
   caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
   caption_url: https://flic.kr/p/dqFVj4
 widget1:
