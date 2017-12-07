@@ -42,7 +42,7 @@ urlimg: 'http://s18tot.ryancordell.org/images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "logo.png"
+logo: "logo.png"
 
 # Gems
 gems:
