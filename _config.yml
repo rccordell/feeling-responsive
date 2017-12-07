@@ -25,7 +25,7 @@ author: Ryan Cordell
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://s18tot.ryancordell.org'
+url: 'http://s18tot.ryancordell.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://s18tot.ryancordell.org/images/'
+urlimg: 'http://s18tot.ryancordell.org/images/'
 
 
 # Logo size is 600x80 pixels
@@ -192,8 +192,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: ryancordell
+    # facebook: 
 
 
 #        ____  _
@@ -205,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+# disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -229,7 +229,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+# google_analytics_tracking_id: UA-60112281-1
 
 
 
