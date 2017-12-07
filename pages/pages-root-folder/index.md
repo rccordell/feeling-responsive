@@ -1,4 +1,5 @@
 ---
+
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
@@ -6,7 +7,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: 8155665827_08680a7ca1_o.jpg
+  title: Technologies of Text, Spring 2017
+  caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
+  caption_url: https://flic.kr/p/dqFVj4
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -42,6 +46,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
