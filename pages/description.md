@@ -1,13 +1,26 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Course Description
 permalink: /description/
 header:
   image_fullwidth: Le_diverse_et_artificiose_machine-banner.jpg
   caption: A bookwheel from Agostino Ramelli's <em>Le diverse et artifiose machine</em> (1588), via Wikipedia
   caption_url: https://en.wikipedia.org/wiki/Bookwheel
-sidebar: right
 ---
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Basic Logistics
 
@@ -44,3 +57,6 @@ By the end of this course, you will:
 4. Examine interplays, both thematic and material, between literary works and contemporaneous technological innovations;
 5. Draw parallels between literary studies and diverse fields such as information science, computer science, communications, and media studies;
 6. and Create original, public, creative research projects that consciously use media to convey their messages. 
+
+</div>
+</div>
