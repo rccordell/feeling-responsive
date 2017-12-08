@@ -4,7 +4,7 @@ title: Course Description
 permalink: /description/
 header:
   image_fullwidth: Le_diverse_et_artificiose_machine-banner.jpg
-  caption: A bookwheel from Agostino Ramelli's <em>Le diverse et artifiose machine</em> (1588), via <a href="https://en.wikipedia.org/wiki/Bookwheel" target="_blank">Wikipedia</a>
+  caption: A bookwheel from Agostino Ramelli's <em>Le diverse et artifiose machine</em> (1588), via Wikipedia
   caption_url: https://en.wikipedia.org/wiki/Bookwheel
 ---
 
