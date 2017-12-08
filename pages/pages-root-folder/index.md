@@ -16,6 +16,13 @@ widget1:
   image: Le_diverse_et_artificiose_machine.jpg
   text: 'In this course we will develop ideas about the ways that new media technologies shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
 widget2:
+  title: "Assignments"
+  url: '/assignments/'
+  video: '<div class="flex-video">
+        <iframe width="302" height="302" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen></iframe>
+        </div>'
+  text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing & hands-on experimentation…'
+widget3:
   title: "Course Details & Policies"
   url: '/policies/'
   text: 'Location: Barrs Room (472 Holmes Hall)<br />
@@ -30,13 +37,7 @@ widget2:
   Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>
   <hr>'
   image: IMG_5651-302x182.jpg
-widget3:
-  title: "Assignments"
-  url: '/assignments/'
-  video: '<div class="flex-video">
-        <iframe width="302" height="302" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen></iframe>
-        </div>'
-  text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing & hands-on experimentation…'
+
 #
 # Use the call for action to show a button on the frontpage
 #
