@@ -13,12 +13,12 @@ header:
 widget1:
   title: "Description & Learning Objectives"
   url: '/description/       '
-  image: widget-1-302x182.jpg
+  image: Le_diverse_et_artificiose_machine.jpg
   text: 'Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
 widget2:
   title: "Course Policies"
   url: '/policies/'
-  text: 'What will you need to do in order to succeed in Technologies of Text?'
+  text: 'What do I expect from students in Technologies of Text, and what can they expect from me in turn?'
   image: IMG_5651-302x182.jpg
 widget3:
   title: "Assignments"
