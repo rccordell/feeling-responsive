@@ -36,7 +36,7 @@ widget3:
   video: '<div class="flex-video">
         <iframe width="302" height="302" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen></iframe>
         </div>'
-  text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing, making, and hands-on experimentation…'
+  text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing & hands-on experimentation…'
 #
 # Use the call for action to show a button on the frontpage
 #
