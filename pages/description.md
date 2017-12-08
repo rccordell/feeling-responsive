@@ -7,26 +7,40 @@ permalink: /description/
 ## Basic Course Details
 
 ### Both Sections
-+ Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu) 
-+ Office: Nightingale Hall 415
-+ Office Hours: TBA
++ Location: Barrs Room (472 Holmes Hall)
++ Professor: [Ryan Cordell](http://ryancordell.org)
++ Cordell Email: [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) 
++ Cordell Office: Nightingale Hall 415
++ Cordell Office Hours: TBA
 
 ### Section 1
 + Tuesday-Friday 9:50-11:30am
 + Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
-+ Practicum Office Hours: TBA
++ Quinn Office Hours: TBA
 
 ### Section 2
 + Tuesday-Friday 1:35-3:15
 + Practicum Student: [David Medina](mailto:medina.d@husky.neu.edu)
-+ Practicum Office Hours: TBA
++ Medina Office Hours: TBA
+
+Location: Barrs Room (472 Holmes Hall)<br />
+  Teacher: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />
+  Cordell Office: 415 Nightingale<br />
+  Cordell Office Hours: TBA
+  <hr>
+  Section 1: Tuesday-Friday 9:50-11:30am<br />
+  Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a>
+  <hr>
+  Section 2: Tuesday-Friday 1:35-3:15<br />
+  Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>
+  <hr>
 
 # Course Description
 
 > We are all mired in historical circumstance. Some of us are knee-deep, and some of us are neck-deep. If you want to think seriously about the future, you have to think historically. There isn't any other way to do it. Otherwise you'll mistake the accidents of our current situation for some iron-clad law of the cosmos. You need to be aware of longer-term trends, how things play out. History never repeats itself, but it does kind of rhyme.
 > Bruce Sterling, [LoneStarCon 2 interview](https://www.sfsite.com/09a/bru16.htm) (1997)
 
-When you hear the word “technology,” you may think of your computer or smart phone. You probably don’t think of the alphabet, the book, or the printing press: but each of these was a technological innovation that changed dramatically how we communicate and perhaps even how we think. Literature has always developed in tandem—and often in direct response to—the development of new media technologies—e.g. moveable type, the steam press, the telegraph, radio, film, television, the internet. Our primary objective in this course will be to develop ideas about the ways that such innovations shape our understanding of texts (both classic and contemporary) and the human beings that write, read, and interpret them. We will compare our historical moment with previous periods of textual and technological upheaval. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature. Through the semester we will get hands-on experience with textual technologies new and old through labs in letterpress printing, bibliography, digital editing, and computational text analysis, including during field trips to museums, libraries, and archives in the Boston area.
+When you hear the word “technology,” you may think of your computer or smart phone. You probably don’t think of the alphabet, the book, or the printing press: but each of these was a technological innovation that changed dramatically how we communicate and perhaps even how we think. Literature has always developed in tandem—and often in direct response to—the development of new media technologies—e.g. moveable type, the steam press, the telegraph, radio, film, television, the internet. Our primary objective in Technologies of Text will be to develop ideas about the ways that such innovations shape our understanding of classic and contemporary texts, as well as the people who write, read, and interpret them. We will compare our historical moment with previous periods of textual and technological upheaval. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature. Through the semester we will get hands-on experience with textual technologies new and old through labs in letterpress printing, bibliography, digital editing, and computational text analysis, including through field trips to museums, libraries, and archives in the Boston area.
 
 # Course Objectives
 
