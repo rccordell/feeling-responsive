@@ -6,14 +6,8 @@ header:
   image_fullwidth: Le_diverse_et_artificiose_machine-banner.jpg
   caption: A bookwheel from Agostino Ramelli's <em>Le diverse et artifiose machine</em> (1588), via Wikipedia
   caption_url: https://en.wikipedia.org/wiki/Bookwheel
+sidebar: right
 ---
-
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
 
 ## Basic Logistics
 
@@ -24,13 +18,11 @@ header:
 + Cordell Office: Nightingale Hall 415
 + Cordell Office Hours: TBA
 
-### Section 1
-+ Tuesday-Friday 9:50-11:30am
+### Section 1, Tuesday-Friday 9:50-11:30am
 + Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
 + Quinn Office Hours: TBA
 
-### Section 2
-+ Tuesday-Friday 1:35-3:15
+### Section 2, Tuesday-Friday 1:35-3:15
 + Practicum Student: [David Medina](mailto:medina.d@husky.neu.edu)
 + Medina Office Hours: TBA
 
