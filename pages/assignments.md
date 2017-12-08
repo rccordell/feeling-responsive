@@ -41,8 +41,7 @@ header:
             <figcaption><a href="https://commons.wikimedia.org/wiki/File:Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247.jpg" target="_blank">Photo via Wikimedia</a></figcaption>
         </figure>
     </div>  
-  </div>
-  <div class="small-6 columns">
+    <div class="small-6 columns">
         <a href="/assignments/unessay/"><h3>Unessays (30%)</h3></a>
         <figure>
             <a href="/assignments/unessay/">
@@ -52,4 +51,3 @@ header:
         </figure>
     </div>  
   </div>
-</div>
