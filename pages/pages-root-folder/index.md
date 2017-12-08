@@ -35,7 +35,6 @@ widget3:
   url: '/assignments/'
   video: '<video width="302" height="302" controls autoplay loop muted>
   <source src="/images/zoetrope.mp4" type="video/mp4">
-  Your browser does not support the video tag
   </video>'
   <!-- video: '<div class="flex-video">
         <iframe width="302" height="302" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen volume=0></iframe>
