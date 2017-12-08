@@ -10,11 +10,6 @@ header:
   image_fullwidth: 8155665827_08680a7ca1_o.jpg
   caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
   caption_url: https://flic.kr/p/dqFVj4
-callforaction:
-  url: /schedule/
-  text: Go right to the daily schedule! ›
-  style: alert
-permalink: /index.html  
 widget1:
   title: "Description & Learning Objectives"
   url: '/description/       '
@@ -40,6 +35,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+callforaction:
+  url: /schedule/
+  text: Go right to the daily schedule! ›
+  style: alert
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -47,6 +47,21 @@ widget3:
 homepage: true
 
 ---
+
+## Basic Course Details
+
+### Both Sections
++ Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu) 
++ Office: Nightingale Hall 415
++ Office Hours: TBA
+
+### Section 1
++ Tuesday-Friday 9:50-11:30am
++ Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
++ Practicum Office Hours: TBA
+
+### Section 2
++ Tuesday-Friday 
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

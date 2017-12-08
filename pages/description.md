@@ -4,12 +4,6 @@ title: Course Description
 permalink: /description/
 ---
 
-# Basics
-
-ENGL 3340: Technologies of Text \| Monday-Thursday 11:45-1:25 \| Holmes Hall 400B
-
-Professor [Ryan Cordell](mailto:r.cordell@northeastern.edu) \| Office: Nightingale Hall 415 \| Office Hours: TBA
-
 # Course Description
 
 > We are all mired in historical circumstance. Some of us are knee-deep, and some of us are neck-deep. If you want to think seriously about the future, you have to think historically. There isn't any other way to do it. Otherwise you'll mistake the accidents of our current situation for some iron-clad law of the cosmos. You need to be aware of longer-term trends, how things play out. History never repeats itself, but it does kind of rhyme.
@@ -26,4 +20,4 @@ By the end of this course, you will:
 3. Experiment with a range of textual technologies, both historical and modern;
 4. Examine interplays, both thematic and material, between literary works and contemporaneous technological innovations;
 5. Draw parallels between literary studies and diverse fields such as information science, computer science, communications, and media studies;
-6. and Create original, public, creative research projects that consciously use media to convey their messages.
+6. and Create original, public, creative research projects that consciously use media to convey their messages. 
