@@ -18,7 +18,8 @@ header:
             <img src="/images/Scriptorium-monk-at-work-small.jpg" alt="Scriptorium Monk at Work." />
             </a>
             <a href="/assignments/inclasswork/">
-            <figcaption>In-Class Work (20%)</figcaption>
+            <figcaption>Scriptorium Monk at Work <a href="https://commons.wikimedia.org/wiki/File:Scriptorium-monk-at-work.jpg" target="_blank">via Wikimedia</a></figcaption>
+            <h3>In-Class Work (20%)</h3>
             </a>
         </figure>
     </div>
