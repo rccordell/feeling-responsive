@@ -23,7 +23,7 @@ widget2:
 widget3:
   title: "Assignments"
   url: '/assignments/'
-  image: IMG_4638.jpg
+  image: IMG_4638-302x182.jpg
   text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between)…'
 #
 # Use the call for action to show a button on the frontpage
