@@ -18,7 +18,7 @@ widget1:
 widget2:
   title: "Course Details & Policies"
   url: '/policies/'
-  text: 'Professor: <a href="mailto:r.cordell@northeastern.edu" target="_blank">Ryan Cordell</a><br />Meets in the Barrs Room (472 Holmes Hall)<br />Section 1: Tuesday-Friday 9:50-11:30am<br />Section 2: Tuesday-Friday 1:35-3:15'
+  text: 'Professor: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />Instructor Office: 415<br />Instructor Office Hours: TBA<br />Class Location: Barrs Room (472 Holmes Hall)<br />Section 1: Tuesday-Friday 9:50-11:30am<br />Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a><br />Section 2: Tuesday-Friday 1:35-3:15<br />Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>'
   image: IMG_5651-302x182.jpg
 widget3:
   title: "Assignments"
