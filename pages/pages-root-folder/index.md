@@ -14,7 +14,7 @@ widget1:
   title: "Description & Learning Objectives"
   url: '/description/       '
   image: Le_diverse_et_artificiose_machine.jpg
-  text: 'In this course we will develop new ideas about the ways that new media technologies shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
+  text: 'In this course we will develop ideas about the ways that new media technologies shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
 widget2:
   title: "Course Details & Policies"
   url: '/policies/'
@@ -27,7 +27,8 @@ widget2:
   Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a>
   <hr>
   Section 2: Tuesday-Friday 1:35-3:15<br />
-  Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a><br />'
+  Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>
+  <hr>'
   image: IMG_5651-302x182.jpg
 widget3:
   title: "Assignments"
