@@ -42,5 +42,14 @@ header:
         </figure>
     </div>  
   </div>
-  <div class="small-6 columns">...</div>
+  <div class="small-6 columns">
+        <a href="/assignments/unessay/"><h3>Unessays (30%)</h3></a>
+        <figure>
+            <a href="/assignments/unessay/">
+            <img src="/images/IMG_4638.jpg" alt="An altered book project by a former ToT student." />
+            </a>
+            <figcaption>Unessay by former ToT student Laura Packard</figcaption>
+        </figure>
+    </div>  
+  </div>
 </div>
