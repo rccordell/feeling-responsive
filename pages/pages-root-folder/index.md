@@ -18,11 +18,10 @@ widget1:
 widget2:
   title: "Course Details & Policies"
   url: '/policies/'
-  text: 'Instructor: Assistant Professor <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />
-  Instructor Office: 415<br />
-  Instructor Office Hours: TBA
-  <hr>
-  Class Location: Barrs Room (472 Holmes Hall)
+  text: 'Location: Barrs Room (472 Holmes Hall)<br />
+  Teacher: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />
+  Cordell Office: 415 Nightingale<br />
+  Cordell Office Hours: TBA
   <hr>
   Section 1: Tuesday-Friday 9:50-11:30am<br />
   Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a>
