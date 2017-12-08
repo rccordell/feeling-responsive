@@ -28,6 +28,7 @@ header:
             <img src="/images/14934283002_9663bae608_k-small.jpg" alt="A field book standing on end" />
             </a>
             <figcaption><a href="https://flic.kr/p/oKG72Y" target="_blank">Creative Commons licensed photograph "Field book, Raffles Lighthouse museum" by Flickr user Jnzl's Photos</a></figcaption>
+        </figure>
     </div>
 </div>
 <div class="row">
