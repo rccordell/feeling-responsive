@@ -16,9 +16,9 @@ widget1:
   image: Le_diverse_et_artificiose_machine.jpg
   text: 'Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
 widget2:
-  title: "Course Policies"
+  title: "Course Details & Policies"
   url: '/policies/'
-  text: 'What do I expect from students in Technologies of Text, and what can they expect from me in turn?'
+  text: 'Professor: <a href="mailto:r.cordell@northeastern.edu" target="_blank">Ryan Cordell</a><br />Meets in the Barrs Room (472 Holmes Hall)<br />Section 1: Tuesday-Friday 9:50-11:30am<br />Section 2: Tuesday-Friday 1:35-3:15'
   image: IMG_5651-302x182.jpg
 widget3:
   title: "Assignments"
@@ -47,21 +47,6 @@ permalink: /index.html
 homepage: true
 
 ---
-
-## Basic Course Details
-
-### Both Sections
-+ Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu) 
-+ Office: Nightingale Hall 415
-+ Office Hours: TBA
-
-### Section 1
-+ Tuesday-Friday 9:50-11:30am
-+ Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
-+ Practicum Office Hours: TBA
-
-### Section 2
-+ Tuesday-Friday 
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

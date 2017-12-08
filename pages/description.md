@@ -4,6 +4,23 @@ title: Course Description
 permalink: /description/
 ---
 
+## Basic Course Details
+
+### Both Sections
++ Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu) 
++ Office: Nightingale Hall 415
++ Office Hours: TBA
+
+### Section 1
++ Tuesday-Friday 9:50-11:30am
++ Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
++ Practicum Office Hours: TBA
+
+### Section 2
++ Tuesday-Friday 1:35-3:15
++ Practicum Student: [David Medina](mailto:medina.d@husky.neu.edu)
++ Practicum Office Hours: TBA
+
 # Course Description
 
 > We are all mired in historical circumstance. Some of us are knee-deep, and some of us are neck-deep. If you want to think seriously about the future, you have to think historically. There isn't any other way to do it. Otherwise you'll mistake the accidents of our current situation for some iron-clad law of the cosmos. You need to be aware of longer-term trends, how things play out. History never repeats itself, but it does kind of rhyme.
