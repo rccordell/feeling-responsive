@@ -2,6 +2,10 @@
 layout: page
 title: Course Description
 permalink: /description/
+header:
+  image_fullwidth: Le_diverse_et_artificiose_machine-banner.jpg
+  caption: A bookwheel from Agostino Ramelli's <em>Le diverse et artifiose machine</em> (1588), via <a href="https://en.wikipedia.org/wiki/Bookwheel" target="_blank">Wikipedia</a>
+  caption_url: https://en.wikipedia.org/wiki/Bookwheel
 ---
 
 ## Basic Course Details
@@ -23,17 +27,6 @@ permalink: /description/
 + Practicum Student: [David Medina](mailto:medina.d@husky.neu.edu)
 + Medina Office Hours: TBA
 
-Location: Barrs Room (472 Holmes Hall)<br />
-  Teacher: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />
-  Cordell Office: 415 Nightingale<br />
-  Cordell Office Hours: TBA
-  <hr>
-  Section 1: Tuesday-Friday 9:50-11:30am<br />
-  Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a>
-  <hr>
-  Section 2: Tuesday-Friday 1:35-3:15<br />
-  Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>
-  <hr>
 
 # Course Description
 
