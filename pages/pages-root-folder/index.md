@@ -46,7 +46,7 @@ widget3:
 #
 callforaction:
   url: /schedule/
-  text: Go right to the daily schedule! ›
+  text: Go directly to the daily schedule! ›
   style: alert
 permalink: /index.html
 #
