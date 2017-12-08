@@ -6,8 +6,6 @@ header:
   image_fullwidth: IMG_5651-banner.JPG
 ---
 
-# Overview of Assignment Grading
-
 + [In-Class Work](/assignments/inclasswork/): 20%
 + [ToT Fieldbook](/assignments/fieldbook): 40%
 + [Dead Media Poster Presentation](/assignments/deadmedia): 10%
