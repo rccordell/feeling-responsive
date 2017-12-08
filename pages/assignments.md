@@ -13,17 +13,22 @@ header:
 
 <div class="row">
     <div class="small-6 columns">
+        <a href="/assignments/inclasswork/"><h3>In-Class Work (20%)</h3></a>
         <figure>
             <a href="/assignments/inclasswork/">
             <img src="/images/Scriptorium-monk-at-work-small.jpg" alt="Scriptorium Monk at Work." />
             </a>
-            <a href="/assignments/inclasswork/">
-            <figcaption>Scriptorium Monk at Work <a href="https://commons.wikimedia.org/wiki/File:Scriptorium-monk-at-work.jpg" target="_blank">via Wikimedia</a></figcaption>
-            <h3>In-Class Work (20%)</h3>
-            </a>
+            <figcaption><a href="https://commons.wikimedia.org/wiki/File:Scriptorium-monk-at-work.jpg" target="_blank">Scriptorium Monk at Work via Wikimedia</a></figcaption>
         </figure>
     </div>
-  <div class="small-6 columns">...</div>
+    <div class="small-6 columns">
+        <a href="/assignments/inclasswork/"><h3>ToT Fieldbook (40%)</h3></a>
+        <figure>
+            <a href="/assignments/fieldbook/">
+            <img src="/images/14934283002_9663bae608_k-small.jpg" alt="A field book standing on end" />
+            </a>
+            <figcaption><a href="https://flic.kr/p/oKG72Y" target="_blank">Creative Commons licensed photograph "Field book, Raffles Lighthouse museum" by Flickr user Jnzl's Photos</a></figcaption>
+    </div>
 </div>
 <div class="row">
   <div class="small-6 columns">...</div>
