@@ -8,7 +8,14 @@ header:
   caption_url: https://en.wikipedia.org/wiki/Bookwheel
 ---
 
-## Basic Course Details
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
+## Basic Logistics
 
 ### Both Sections
 + Location: Barrs Room (472 Holmes Hall)
