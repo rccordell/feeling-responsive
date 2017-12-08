@@ -34,9 +34,7 @@ widget3:
   title: "Assignments"
   url: '/assignments/'
   mediaplayer: true
-  video: '<video autoplay controls class="player" id="player1" height="360"
-	width="100%" loop muted preload="none" src="/images/zoetrope.m4v"
-	style="max-width: 320" tabindex="0" title="MediaElement">'
+  video: '<video autoplay controls height="302" width="302" loop muted src="/images/zoetrope.m4v">'
 </video>'
   <!-- video: '<div class="flex-video">
   <iframe width="302" height="302" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen></iframe>
