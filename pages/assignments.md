@@ -6,11 +6,6 @@ header:
   image_fullwidth: IMG_5651-banner.JPG
 ---
 
-+ [In-Class Work](/assignments/inclasswork/): 20%
-+ [ToT Fieldbook](/assignments/fieldbook): 40%
-+ [Dead Media Poster Presentation](/assignments/deadmedia): 10%
-+ [Unessay Projects](assignments/unessay): 30%
-
 <div class="row">
     <div class="small-6 columns">
         <a href="/assignments/inclasswork/"><h3>In-Class Work (20%)</h3></a>
