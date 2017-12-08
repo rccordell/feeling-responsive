@@ -10,6 +10,11 @@ header:
   image_fullwidth: 8155665827_08680a7ca1_o.jpg
   caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
   caption_url: https://flic.kr/p/dqFVj4
+callforaction:
+  url: /schedule/
+  text: Go right to the daily schedule! ›
+  style: alert
+permalink: /index.html  
 widget1:
   title: "Description & Learning Objectives"
   url: '/description/       '
@@ -35,11 +40,6 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: /schedule/
-  text: Go right to the daily schedule! ›
-  style: alert
-permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
