@@ -25,13 +25,22 @@ header:
         <a href="/assignments/inclasswork/"><h3>ToT Fieldbook (40%)</h3></a>
         <figure>
             <a href="/assignments/fieldbook/">
-            <img src="/images/14934283002_9663bae608_k-small.jpg" alt="A field book standing on end" />
+            <img src="/images/14934283002_9663bae608_k.jpg" alt="A field book standing on end" />
             </a>
             <figcaption><a href="https://flic.kr/p/oKG72Y" target="_blank">Creative Commons licensed photograph "Field book, Raffles Lighthouse museum" by Flickr user Jnzl's Photos</a></figcaption>
         </figure>
     </div>
 </div>
 <div class="row">
-  <div class="small-6 columns">...</div>
+  <div class="small-6 columns">
+        <a href="/assignments/deadmediaposter/"><h3>Dead Media Poster (10%)</h3></a>
+        <figure>
+            <a href="/assignments/deadmediaposter/">
+            <img src="/images/Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247.jpg" alt="A messenger pigeon released from a British tank during World War I" />
+            </a>
+            <figcaption><a href="https://commons.wikimedia.org/wiki/File:Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247.jpg" target="_blank">Photo via Wikimedia</a></figcaption>
+        </figure>
+    </div>  
+  </div>
   <div class="small-6 columns">...</div>
 </div>
