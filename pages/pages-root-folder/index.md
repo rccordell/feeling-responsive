@@ -11,7 +11,7 @@ header:
   caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
   caption_url: https://flic.kr/p/dqFVj4
 widget1:
-  title: "Description & Learning Objectives"
+  title: "Course Description"
   url: '/description/       '
   image: Le_diverse_et_artificiose_machine.jpg
   text: 'In this course we will develop ideas about the ways that new media technologies shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
@@ -23,7 +23,7 @@ widget2:
         </div>'
   text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing & hands-on experimentation…'
 widget3:
-  title: "Course Details & Policies"
+  title: "Course Policies"
   url: '/policies/'
   text: 'Location: Barrs Room (472 Holmes Hall)<br />
   Teacher: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />

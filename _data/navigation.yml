@@ -5,6 +5,10 @@
 - title: Description
   url: "/description/"
   side: left
+
+- title: Learning Objectives
+  url: "/objectives/"
+  side: left
   
 - title: Policies
   url: "/policies/"
