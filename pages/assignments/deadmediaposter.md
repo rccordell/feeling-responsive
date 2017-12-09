@@ -4,7 +4,7 @@ title: Dead Media Poster Presentation
 permalink: /assignments/deadmediaposter/
 header:
   image_fullwidth: Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247-banner.jpg
-  caption: A messenger pigeon released from a British tank during World War I
+  caption: Messenger pigeon released from a British tank during WWI
   caption_url: https://commons.wikimedia.org/wiki/File:Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247.jpg
 ---
 
