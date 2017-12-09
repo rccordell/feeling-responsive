@@ -14,16 +14,17 @@ header:
 + Students generally work individually, though I am open to collaborative proposals. 
 + Unessay 1 due TBA
 + Unessay 2 due TBA
++ 30% of total grade
 
-## Details: 
+## The Nitty-Gritty 
 
-Twice during the semester you will develop an unessay project.
+As your final assignment this semester you will develop an unessay project.
 
 1. I *highly prize* creative takes on this assignment. Before jumping into typical paper writing mode, consider other media, presentation styles, and modes of critical engagement you might employ instead.
-2. This is a hands-on course about media and technology: I would be thrilled to see unessays that do rather than simply describe. Consider using your unessay assignment to get your hands dirty (perhaps literally) with one of the mediums we discuss in class.
+2. This is a hands-on course about media and technology: I would be thrilled to see unessays that *do* rather than (only) *describe*. Consider using your unessay assignments to get your hands dirty (perhaps literally) with some of the media we discuss in class.
 3. Take advantage of my advice and help as you develop your unessay ideas. That's what I'm here for!
 
-You may complete your unessays on your own schedule, but it must be turned in by Monday, February 20. I would strongly advise you not to put the assignment off. To motivate you to work earlier, I am happy to review, comment on, and allow revisions for any unessays turned in at least two weeks before the February 20 deadline. Your final unessay will be due by 8pm on Monday April 17. In that case, too, I would be happy to review, comment on, and allow revisions of unessay projects submitted in advance of that final deadline. 
+You may complete your unessays on your own schedule, but they must be turned in by the listed due dates. I would strongly advise you not to put the assignment off. To motivate you to work earlier, I am happy to offer feedback on drafts submitted at least one week in advance of a given deadline. We will also workshop ideas during class sessions well in advance of each deadline.
 
 I will also show you some stellar examples of unessays in the weeks leading up to the first deadline, and would be happy to show you others during office hours. I have a growing collection of stunning student unessay work that I love revisiting.
 
@@ -43,31 +44,30 @@ One result of this is that the essay form, which should be extremely free and fl
 
 By contrast, the unessay is an assignment that attempts to undo the damage done by this approach to teaching writing. It works by throwing out all the rules you have learned about essay writing in the course of your primary, secondary, and post secondary education and asks you to focus instead solely on your intellectual interests and passions. In an unessay you choose your own topic, present it any way you please, and are evaluated on how compelling and effective you are. Here are the guidelines:
 
-1. You choose your own topic
+1. You choose your own topic.  
+  
+  The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
 
-    The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
+2. You can present it any way you please. 
+  
+  There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your explanation of the topic.  
+Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project—in fact, many of the most compelling unessays I've seen have been entirely analog.
 
-2. You can present it any way you please
-
-    There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your explanation of the topic.
+3. You are evaluated on how compelling and effective you are. 
+  
+  If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
+      
+  An unessay is compelling when it shows some combination of the following:
     
-    Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project. Do you want to think through letterpress using letterpress? This assignment encourages you to do just that. 
-
-3. Be evaluated on how compelling and effective you are
-
-    If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
-    
-An unessay is compelling when it shows some combination of the following:
-    
-+ it is as interesting as its topic and approach allows
-+ it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored)
-+ it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented)  
-    
-In terms of presentation, an unessay is effective when it shows some combination of these attributes:
+  + it is as interesting as its topic and approach allows
+  + it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored)
+  + it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented)  
+      
+  In terms of presentation, an unessay is effective when it shows some combination of these attributes:
    
-+ it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
-+ it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
-+ it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
+  + it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
+  + it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
+  + it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
 
 ### Why Unessays Are Not a Waste of Your Time
 
@@ -81,7 +81,7 @@ But even more importantly, the things you will be doing in an unessay will help 
 
 ## Model Unessays
 
-I will bring some physical model unessays to class to discuss, or you can peruse them during office hours. Below are some fantastic digital unessays that students have submitted. These examples don’t necessarily model the *content* of your assignments, as some were completed for classes covering very different topics, but hopefully they will give you a sense of what kinds of work you might complete.
+Below are some fantastic digital unessays that students have submitted. These examples don’t necessarily model the *content* of your assignments, as some were completed for classes covering very different topics, but hopefully they will give you a sense of what kinds of work you might complete.
 
 + [Operation Critique](http://operation-critique.tumblr.com/)
 + [Beyond the Words: Text in Art](https://textart.blog)
@@ -94,3 +94,59 @@ I will bring some physical model unessays to class to discuss, or you can peruse
 + [Skeuomorphic](http://skeuomorphs-f14tot.tumblr.com/)
 + [Graffiti and New Media](http://graffitiandnewmedia.tumblr.com/)
 + [Which Text(s) Work(s)?](https://damoren.wordpress.com/)
+
+I have also added some pictures of some elements of physical unessays students have submitted. Most of these were accompanied by written components which I don't reproduce here, but I'm happy to talk about them. I will bring these and some other physical model unessays to class to discuss, or you can peruse them during office hours.
+
+<div class="row">
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4445.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4445.jpg" alt="Model of Renaissance bookwheel" />
+        </a>
+        <figcaption>A working model of a Renaissance bookwheel</figcaption>
+        </figure>
+    </div>
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4504.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4504.jpg" alt="A page written in code" />
+        </a>
+        <figcaption>One page from a larger project about coded language and written in a code devised by the student</figcaption>
+        </figure>
+    </div>
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4638.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4638.jpg" alt="An altered book project" />
+        </a>
+        <figcaption>An altered book artwork about memory and preservation in <em>Station Eleven</em></figcaption>
+        </figure>
+    </div>
+</div>
+       
+<div class="row">
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4541.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4541.jpg" alt="An imagined letter from Ada Lovelace to Joseph Marie Jacquard" />
+        </a>
+        <figcaption>An imagined letter from Ada Lovelace to Joseph Marie Jaquard; part of a larger project on Lovelace</figcaption>
+        </figure>
+    </div>
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4543.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4543.jpg" alt="A loom punchcard and woven Ada Lovelace" />
+        </a>
+        <figcaption>A model Jacquard loom punchcard and a woven figure of Ada Lovelace partly drawn from the pattern encoded in these cards.</figcaption>
+        </figure>
+    </div>
+    <div class="small-4 columns">
+        <figure>
+        <a href="/images/unessays/IMG_4642.jpg" target="_blank">
+        <img src="/images/unessays/IMG_4642.jpg" alt="An annotated map of New York City" />
+        </a>
+        <figcaption>An annotated map about the textuality of space and place in New York City</figcaption>
+        </figure>
+    </div>
+</div> 

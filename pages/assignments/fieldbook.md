@@ -14,6 +14,7 @@ header:
 + Entries due 1 week after the final lab session for a given lab
 + Entries will be posted on the course website and be available under [Class Updates](/updates/)
 + At least 3 entries due by Monday, February 19
++ 40% of total grade
 
 ## Details:
 
