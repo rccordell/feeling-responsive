@@ -1,9 +1,19 @@
+---
+layout: page-fullwidth
+title: The Unessay
+permalink: /assignments/unessay/
+header:
+  image_fullwidth: IMG_4638-banner.jpg
+  caption: Field book photo by Flickr user Jnzl's Photos
+  caption_url: https://flic.kr/p/oKG72Y
+---
+
 ## Assignment Overview:
 
 + Form can vary *widely!!*
 + Students generally work individually, though I am open to collaborative proposals. 
-+ Unessay 1 due Monday, February 20 by 8pm
-+ Unessay 2 due Monday, April 17 by 8pm
++ Unessay 1 due TBA
++ Unessay 2 due TBA
 
 ## Details: 
 
