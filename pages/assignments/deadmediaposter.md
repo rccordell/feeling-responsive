@@ -1,9 +1,20 @@
+---
+layout: page-fullwidth
+title: Dead Media Poster Presentation
+permalink: /assignments/deadmediaposter/
+header:
+  image_fullwidth: Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247-banner.jpg
+  caption: A messenger pigeon released from a British tank during World War I
+  caption_url: https://commons.wikimedia.org/wiki/File:Messenger_pigeon_released_from_British_tank_1918_IWM_Q_9247.jpg
+---
+
 ## Assignment Overview:
 
 + A [research poster](http://en.wikipedia.org/wiki/Poster_session) presentated in class
 + Students should work together in pairs
-+ Due on Monday, February 6
++ Due on TBA
 + Claim your dead medium by [signing up here.](https://docs.google.com/spreadsheets/d/18z6TStZPIb5IEvOMqlUiPH2oHCesw_jOFiuh66YFBnM/edit?usp=sharing)
++ 10% of total grade
 
 ## Details:
 
@@ -21,4 +32,4 @@ You and your partner will prepare a conference-style poster to present your “d
 
 You should not attempt on your poster to tell us everything that you might say about your chosen medium in a written paper nor explain its every nuance. When designing think CONCISE, INFORMATIVE, and CREATIVE. The idea here is that the form’s restriction (paradoxically) promotes your creativity, as some might argue the formal restrictions of certain poetic forms force the poet toward ever-more-deft feats of language.
 
-**We will hold our “dead media” poster session on Monday, February 6th.**
+**We will hold our “dead media” poster session on TBA.**
