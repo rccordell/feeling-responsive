@@ -4,7 +4,7 @@ title: Lab Fieldbook Entries
 permalink: /assignments/fieldbook/
 header:
   image_fullwidth: 14934283002_9663bae608_k-banner.jpg
-  caption: "Field book, Raffles Lighthouse museum" by Flickr user Jnzl's Photos
+  caption: Field book photo by Flickr user Jnzl's Photos
   caption_url: https://flic.kr/p/oKG72Y
 ---
 
