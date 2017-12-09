@@ -1,10 +1,19 @@
-# In-Class Work
+---
+layout: page-fullwidth
+title: In-Class Work
+permalink: /assignments/inclasswork/
+header:
+  image_fullwidth: Scriptorium-monk-at-work-banner.jpg
+  caption: Scriptorium Monk at Work via Wikimedia
+  caption_url: https://commons.wikimedia.org/wiki/File:Scriptorium-monk-at-work.jpg
+---
 
 ## Assignment Overview
 
 + Includes written reflections, quizzes, and/or group work
 + Students will sometimes work individually and sometimes with classmates
 + Due during most class periods
++ 20% of total grade
 
 ## The Nitty Gritty
 
