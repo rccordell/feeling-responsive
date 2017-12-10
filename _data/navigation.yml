@@ -6,7 +6,7 @@
   url: "/description/"
   side: left
 
-- title: Learning Objectives
+- title: Objectives
   url: "/objectives/"
   side: left
   
@@ -27,8 +27,11 @@
   - title: "Unessays"
     url: "/assignments/unessay/"
 
+- title: Schedule
+  url: "/schedule/"
+  side: left
 
-- title: Class Updates
+- title: Updates
   url: "/updates/"
   side: right
   dropdown:
@@ -39,6 +42,6 @@
   url: "/search/"
   side: right
   
-- title: Contact Prof. Cordell
+- title: Contact
   url: "mailto:r.cordell@neu.edu"
   side: right
