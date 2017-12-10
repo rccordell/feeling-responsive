@@ -12,6 +12,61 @@ Readings not freely available online are available in [a password-protect, zippe
 
 # Unit 1: Inscription
 
+## Tuesday, January 9
+
+## Friday, January 12
+
+## Tuesday, January 16
+
+## Friday, January 19
+Professor Cordell away
+
+## Tuesday, January 23
+
+## Friday, January 26
+
+## Tuesday, January 30
+
+## Friday, February 2
+
+## Tuesday, February 
+
+## Friday, February
+
+## Tuesday, February
+
+## Friday, February
+
+## Tuesday, February
+
+## Friday, February
+
+## Tuesday, February
+
+## Friday, February
+
+## Tuesday, January 9
+
+## Friday, January 12
+
+## Tuesday, January 9
+
+## Friday, January 12
+
+## Tuesday, January 9
+
+## Friday, January 12
+
+## Tuesday, January 9
+
+## Friday, January 12
+
+## Tuesday, January 9
+
+## Friday, January 12
+
+
+
 ## Monday, January 9: External Characters
 
 > Read (in class):
