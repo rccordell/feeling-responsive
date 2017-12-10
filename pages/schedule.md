@@ -4,7 +4,7 @@ title: Class Schedule
 permalink: /schedule/
 header:
   image_fullwidth: 8307024-banner.jpg
-  caption: "Massachusetts" by Harriet E. Baker (1819) via the David Rumsey Map Collection
+  caption: "Massachusetts" by Harriet E. Baker (1819) via David Rumsey
   caption_url: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~269845~90045151:Massachusetts;jsessionid=de59f09e-9a01-4414-88ef-5ee600ce64a5#
 ---
 
