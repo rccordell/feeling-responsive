@@ -50,7 +50,7 @@ widget3:
 #
 callforaction:
   url: /schedule/
-  text: Go to the daily schedule ☞
+  text: Go to the daily schedule &#9758;
   style: alert
 permalink: /index.html
 #
