@@ -3,7 +3,9 @@ layout: page-fullwidth
 title: Course Policies
 permalink: /policies/
 header:
-  image_fullwidth: IMG_5651-banner.JPG
+  image_fullwidth: 4917215160_85bfa9e75c_b-Banner.jpg
+  caption: Creative Commons licensed photograph of the Difference Engine by Flickr user Larry Johnson
+  caption_url: https://flic.kr/p/8uw1KJ
 ---
 
 <div class="row">

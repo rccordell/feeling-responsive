@@ -10,13 +10,30 @@ header:
 
 Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
 
-# Unit 1: Inscription
+Possible Labs: 
+Markdown
+MFA
+Scriptorium
+Paper Making
+Printing
+Special Collections Visit
+Text Analysis
+Building a Bot
+Multimodal Composition
+Wikipedia
 
-## Tuesday, January 9
+
+
+
+## Tuesday, January 9: Romancing the Book
+
+Introduction to the course and to each other
 
 ## Friday, January 12
 
 ## Tuesday, January 16
+
+Lab #1: Writing in Markdown
 
 ## Friday, January 19
 Professor Cordell away
@@ -29,43 +46,58 @@ Professor Cordell away
 
 ## Friday, February 2
 
-## Tuesday, February 
+## Tuesday, February 6
 
-## Friday, February
+## Friday, February 9
 
-## Tuesday, February
+## Tuesday, February 13
 
-## Friday, February
+## Friday, February 16
 
-## Tuesday, February
+## Tuesday, February 20
 
-## Friday, February
+## Friday, February 23
 
-## Tuesday, February
+## Tuesday, February 27
 
-## Friday, February
+## Friday, March 2
 
-## Tuesday, January 9
+## Spring Break, March 4-10
 
-## Friday, January 12
+## Tuesday, March 13
 
-## Tuesday, January 9
+## Friday, March 16
 
-## Friday, January 12
+## Tuesday, March 20
 
-## Tuesday, January 9
+## Friday, March 23
+Professor Cordell away
 
-## Friday, January 12
+## Tuesday, March 27
 
-## Tuesday, January 9
+## Friday, March 30
 
-## Friday, January 12
+## Tuesday, April 3
 
-## Tuesday, January 9
+## Friday, April 6
 
-## Friday, January 12
+## Tuesday, April 10
+
+## Friday, April 13
+
+Read:
+
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to the end of section 4, page 164)
+
+## Tuesday, April 17
+
+Read:
+
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
 
 
+
+# Unit 1: Inscription
 
 ## Monday, January 9: External Characters
 
@@ -75,7 +107,7 @@ Professor Cordell away
 
 ## Thursday, January 12: Writing Technologies
 
-**Important Note: Meet at the MFA's group entrance (in the back)**
+**Important Note: Meet at the MFA's group entrance (on the Museum Road side of the building; the left side if facing the MFA from Huntington)**
 
 Lab 1: MFA Visit
 
@@ -327,19 +359,3 @@ Lab 10b: Drafting History's Future
 Lab 10c: Contributing to Wikipedia
 
 Prof. Cordell away for Rhode Island Humanities Festival. No reading today; get started with [*Station Eleven*](http://amzn.to/2hSefIP) for next week!
-
-## Monday, April 10
-
-> Read:
-
-> + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to the end of section 4, page 164)
-
-## Thursday, April 13
-
-> Read:
-
-> + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
-
-## Monday, April 17
-
-** Due: Unessay 2**

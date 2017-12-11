@@ -36,7 +36,7 @@ widget3:
   Section 2: Tuesday-Friday 1:35-3:15<br />
   Practicum Student: <a href="mailto:medina.d@husky.neu.edu" target="_blank">David Medina</a>
   <hr>'
-  image: IMG_5651-302x182.jpg
+  image: 4917215160_85bfa9e75c_b-302x182.jpg
 
 #
 # Use the call for action to show a button on the frontpage
