@@ -21,7 +21,7 @@ widget2:
   video: '<div>
         <!-- <iframe width="182" height="182" src="/images/zoetrope2.mp4" frameborder="0" allowfullscreen></iframe> -->
         <video width="302" height="302" controls loop autoplay>
-            <source src="/images/zoetrope2.mp4" type="video/mp4">
+            <source src="/images/zoetrope.m4v" type="video/mp4">
         </video>
         </div>'
   text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (& much more in between)…'
