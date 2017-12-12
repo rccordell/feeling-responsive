@@ -3,9 +3,9 @@ layout: page-fullwidth
 title: Assignments
 permalink: /assignments/
 header:
-  image_fullwidth: 4917215160_85bfa9e75c_b-Banner.jpg
-  caption: Creative Commons licensed photograph of the Difference Engine by Flickr user Larry Johnson
-  caption_url: https://flic.kr/p/8uw1KJ
+  image_fullwidth: 8307024-banner.jpg
+  caption: Massachusetts by Harriet E. Baker (1819) via David Rumsey
+  caption_url: https://www.davidrumsey.com/luna/servlet/s/y763yx
 ---
 
 <div class="row">
