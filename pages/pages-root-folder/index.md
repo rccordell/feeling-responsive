@@ -36,7 +36,7 @@ widget3:
   url: '/assignments/'
   video: '<div>
         <!-- <iframe width="182" height="182" src="/images/zoetrope2.mp4" frameborder="0" allowfullscreen></iframe> -->
-        <video width="302" height="302" controls>
+        <video width="302" height="302" controls loop autoplay>
             <source src="/images/zoetrope2.mp4" type="video/mp4">
         </video>
         </div>'
