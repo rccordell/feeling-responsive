@@ -34,10 +34,9 @@ widget2:
 widget3:
   title: "Assignments"
   url: '/assignments/'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="/images/zoetrope2.mp4" width="302" height="182" alt=""/></a>'
-  <!-- video: '<div class="flex-video">
+  video: '<div class="flex-video">
         <iframe width="302" height="182" src="/images/zoetrope2.mp4"></iframe>
-        </div>'-->
+        </div>'
   text: 'Technologies of Text is an experiential, lab-based course. Students complete a wide range of assignments from setting type on a letterpress printer to coding a literary bot in the R programming language (and much more in between). The assignments in ToT will ask students to engage consciously with media and its many messages through writing & hands-on experimentation…'
 
 
@@ -64,9 +63,3 @@ homepage: true
 
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="720" height="720" src="/images/zoetrope.m4v" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
