@@ -11,10 +11,10 @@ header:
   caption: Creative Commons licensed photograph "Letterpress" by Flickr user Livy
   caption_url: https://flic.kr/p/dqFVj4
 widget1:
-  title: "Course Description"
-  url: '/description/       '
+  title: "Course Description and Objectives"
+  url: '/description/'
   image: Le_diverse_et_artificiose_machine.jpg
-  text: 'In this course we will develop ideas about the ways that new media technologies shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
+  text: 'In ToT we will study the long history of new media, asking how technologies should shape our understanding of texts and the people who write, read, and interpret them. Many debates that seem unique to the twenty-first century—over privacy, intellectual property, information overload, and textual authority—are but new iterations of familiar battles in the histories of technology, new media, and literature…'
 widget2:
   title: "Assignments"
   url: '/assignments/'

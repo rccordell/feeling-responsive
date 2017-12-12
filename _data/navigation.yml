@@ -2,12 +2,8 @@
   url: "/"
   side: left
 
-- title: Description
+- title: Description & Objectives
   url: "/description/"
-  side: left
-
-- title: Objectives
-  url: "/objectives/"
   side: left
   
 - title: Policies
