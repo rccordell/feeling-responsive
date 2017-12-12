@@ -2,16 +2,22 @@
   url: https://github.com/rccordell/s18tot
   class: icon-github
   title: The code for this site...
+  
+- name: Twitter
+  url: http://twitter.com/ryancordell
+  class: icon-twitter
+  title: "Prof. Cordell on Twitter"
+  
+- name: Email
+  url: mailto:r.cordell@northeastern.edu
+  class: icon-mail
+  title: "Email Prof. Cordell"
 
 # - name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Twitter
-  url: http://twitter.com/ryancordell
-  class: icon-twitter
-  title: "Prof. Cordell on Twitter"
 
 # - name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
