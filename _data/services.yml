@@ -1,8 +1,8 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "mailto:r.cordell@northeastern.edu"
-  title: "Contact"
+# - name: "Contact"
+#   url: "mailto:r.cordell@northeastern.edu"
+#   title: "Contact"
 
 - name: "RSS"
   url: "/feed.xml"
