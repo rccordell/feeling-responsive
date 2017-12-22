@@ -193,13 +193,13 @@ Read:
 + Herman Melville, ["Cetology" chapter of *Moby Dick*](http://www.powermobydick.com/Moby032.html)
 + Charles W. Chesnutt, "Baxter's Procustes"
 
+## Thursday, March 1: Unessay 1 Due by 5pm
+
 ## Friday, March 2: Annihilating Time & Space
 
 Read:
 
 + James Gleick, *The Information*, chapters 4-6 (pg. 78-203)
-
-**DUE: UNESSAY #1**
 
 # Spring Break, March 4-10
 
