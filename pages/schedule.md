@@ -23,8 +23,6 @@ header:
 
 Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
 
------
-
 # Preface &#9755; re:Mediation
 
 ## Tuesday, January 9: Romancing the Book
@@ -90,8 +88,6 @@ Read:
 
 + Bonnie Mak, "Architectures of the Page"
 + John Morph, ["The Page as Interface"](http://transliteracies.english.ucsb.edu/images/flash_projects/john-morph.html)
-
------
 
 # Chapter 2 &#9755; Impression
 
@@ -176,7 +172,7 @@ Read:
 + Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
 + Jorge Louis Borges, "The Library of Babel"
 
------
+
 
 # Chapter 3 &#9755; Read-Write-Execute
 
@@ -244,7 +240,7 @@ Read:
 
 ## Friday, March 30: OPEN DAY
 
------
+
 
 # Chapter 4 &#9755; Memory
 
