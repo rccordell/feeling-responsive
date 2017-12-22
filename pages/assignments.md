@@ -8,6 +8,8 @@ header:
   caption_url: https://www.davidrumsey.com/luna/servlet/s/y763yx
 ---
 
+**Grades will be posted on Blackboard**. The grade book and announcements are the only features of Blackboard we will use in Technologies of Text.
+
 <div class="row">
     <div class="small-6 columns">
         <a href="/assignments/inclasswork/"><h3>In-Class Work (20%)</h3></a>
