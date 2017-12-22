@@ -201,7 +201,7 @@ Read:
 
 + James Gleick, *The Information*, chapters 4-6 (pg. 78-203)
 
-# Spring Break, March 4-10
+## Spring Break, March 4-10
 
 ## Tuesday, March 13: A Pocket Universe
 
