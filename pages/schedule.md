@@ -20,7 +20,11 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+### A Note about Our Readings
+
 Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
+
+-----
 
 # Preface &#9755; re:Mediation
 
@@ -36,6 +40,8 @@ Read:
 
 + Tara Brabazon, ["Dead Media: Obsolescence and Redundancy in Media History"](http://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701)
 + Marshall McLuhan, “The Medium is the Message”
+
+-----
 
 # Chapter 1 &#9755; Inscription
 
@@ -86,6 +92,8 @@ Read:
 
 + Bonnie Mak, "Architectures of the Page"
 + John Morph, ["The Page as Interface"](http://transliteracies.english.ucsb.edu/images/flash_projects/john-morph.html)
+
+-----
 
 # Chapter 2 &#9755; Impression
 
@@ -170,6 +178,7 @@ Read:
 + Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
 + Jorge Louis Borges, "The Library of Babel"
 
+-----
 
 # Chapter 3 &#9755; Read-Write-Execute
 
@@ -239,6 +248,7 @@ Read:
 
 ## Friday, March 30: OPEN DAY
 
+-----
 
 # Chapter 4 &#9755; Memory
 
