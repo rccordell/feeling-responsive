@@ -246,11 +246,16 @@ Read:
 + Stephen Ramsay and Geoffrey Rockwell, [“Untitled Number 4: A Brechto-Socratic Dialogue”](http://www.geoffreyrockwell.com/publications/u4.4.pdf)
 + Annette Vee, "Understanding Computer Programming as Literacy"
 
-## Friday, March 30: OPEN DAY
-
 -----
 
 # Chapter 4 &#9755; Memory
+
+## Friday, March 30: Seriality
+
+Read:
+
++ TBD
+
 
 ## Tuesday, April 3: Obsolescence
 
@@ -299,6 +304,11 @@ Read:
 Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
+
+## TBD
+
+{% include alert warning='DUE: Unessay 2 by 5pm' %}
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
