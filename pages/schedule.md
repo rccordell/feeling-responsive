@@ -9,7 +9,6 @@ header:
 ---
 
 <div class="panel radius" markdown="1">
-**Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
@@ -25,7 +24,7 @@ Introduction to the course and to each other
 
 ## Friday, January 12: Media Messages
 
-**Lab #1: Markdown**
+{% include alert info='Lab #1: Markdown' %}
 
 Read:
 
@@ -60,8 +59,7 @@ Watch:
 
 ## Friday, January 26: Vivifying Media
 
-**Due: Dead Media Poster Presentations**
-
+{% include alert warning='DUE: Dead Media Poster Presentations in class' %}
 
 ## Tuesday, January 30: Orality & Literacy
 
@@ -183,7 +181,9 @@ Read:
 + Herman Melville, ["Cetology" chapter of *Moby Dick*](http://www.powermobydick.com/Moby032.html)
 + Charles W. Chesnutt, "Baxter's Procustes"
 
-## Thursday, March 1: Unessay 1 Due by 5pm
+## Thursday, March 1
+
+{% include alert warning='DUE: Unessay 1 by 5pm' %}
 
 ## Friday, March 2: Annihilating Time & Space
 
