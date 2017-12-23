@@ -30,26 +30,28 @@ Your fieldbook will be, essentially, a folder including a set of .md files, perh
 
 Your fieldbook entries will vary quite a bit from week to week. However, there are a few elements I will expect in each entry:
 
-1. Completion of any lab-specific activities. Most of our experiential activities will include a specific set of outcomes. For example, I might ask you to reflect on a set of questions about your experiences or challenge you to adapt the day's code to solve some practice problems, or you might produce a specific material product such as a letterpress printed sheet. The first task of any fieldbook entry will be to demonstrate completion of these tasks. In the case of a coding session, you will likely integrate code snippets directly into the .RMD file; for labs you might instead reference external proof of your work (and possibly submit that external evidence separately).
+1. Completion of any lab-specific activities. Most of our experiential activities will include a specific set of outcomes. For example, I might ask you to reflect on a set of questions about your experiences or challenge you to adapt the day's code to solve some practice problems, or you might produce a specific material product such as a letterpress printed sheet. The first task of any fieldbook entry will be to demonstrate completion of these tasks. In the case of a coding session, you will likely integrate code snippets directly into the .RMD file (more on this as those labs approach). For other labs you may instead reference external proof of your work (and possibly submit that external evidence separately).
 
 2. Prose that both describes the work done and reflects analytically on that work. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate our course readings into these reflections, often through direct quotation. Use your fieldbooks to explore ideas from the readings that you found particularly interesting, and especially ideas we did not have time to discuss in class. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class' Unessay projects.
 
 3. Evidence of your experiential work, particularly for code entries. One reason we will produce some entries in R Markdown is that Markdown provides a way to integrate executable code with prose that comments and reflects on that code. You needn't include every snippet of code you attempted (though keep in mind "failed" code can be interesting as a subject of reflection). Instead, you should include the most enlightening or intellectual productive bits of code that help illustrate the larger ideas you are working through in your fieldbook.
 
 4. A header that will allow me to publish your fieldbook easily on the course website and makes clear precisely which lab activity a given entry records. We will go over this header in our first lab, but I've included a model below you can simply copy, paste, and modify. As an example, you might include the following lines at the top of each file (or each entry if you're using a single file), modified to suit the specifics of each week:
-    ```
-    layout: page
-    title: "Your TITLE HERE"
-    author: "YOUR NAME or PSEUDONYM"
-    categories:
-        - LAB NUMBER
-        - LAB TOPIC
-    comments: false
+    ``` 
+    ---
+    layout: page  
+    title: "Your TITLE HERE"  
+    author: "YOUR NAME or PSEUDONYM"  
+    categories:  
+        - LAB NUMBER  
+        - LAB TOPIC  
+    comments: false  
     show_meta: true
     header:
         image_fullwidth: OPTIONAL-IMAGE-NAME.FILE-EXTENSION
         caption: OPTIONAL CAPTION FOR IMAGE WITH CITATION
         caption_url: OPTIONAL URL FOR IMAGE CITATION
+    ---
     ```
 If your file does not include these fields I will ask you to revise it before I can consider the entry complete.
 
@@ -57,7 +59,7 @@ If your file does not include these fields I will ask you to revise it before I 
 
 ### Flexibility
 
-ToT is a challenging and full class. The semester will include 10 labs. To give you some flexibility, you must complete a fieldbook entry for 8/10 labs over the semester. You may complete more than 10 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 8 entries, I will include only the strongest 8 in my gradebook (meaning you can make up for a weaker submission). 
+ToT is a challenging and full class. The semester will include 11 labs. To give you some flexibility, you must complete a fieldbook entry for 8/11 labs over the semester. You may complete more than 8 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 8 entries, I will include only the strongest 8 in my gradebook (meaning you can make up for a weaker submission). 
 
 ### Pacing Your Field Work
 

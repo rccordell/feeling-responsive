@@ -38,14 +38,14 @@ Introduction to the course and to each other
 
 Read:
 
-+ Tara Brabazon, ["Dead Media: Obsolescence and Redundancy in Media History"](http://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701)
 + Marshall McLuhan, “The Medium is the Message”
++ Octavia Bulter, "Speech Sounds"
 
 -----
 
 # Chapter 1 &#9755; Inscription
 
-## Tuesday, January 16: Old/New Media
+## Tuesday, January 16: 
 
 + James Gleick, *The Information*, prologue-chapter 1 (pg. 3-50)
 + Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
@@ -60,6 +60,7 @@ Professor Cordell away
 
 Read:
 
++ Bede, [“The Story of Cædmon”](http://www.heorot.dk/bede-caedmon.html)
 + Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/).
 + Geoffrey Chaucer, [“Chaucer’s Words to His Scrivener”](http://genius.com/Geoffrey-chaucer-chaucers-words-to-his-scrivener-annotated)
 + Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html)
@@ -78,7 +79,6 @@ Watch:
 Read:
 
 + Ellen Cushman, "The Cherokee Syllabary: A Writing System in Its Own Right"
-+ Octavia Butler, "Speech Sounds"
 
 (Optional) Listen:
 

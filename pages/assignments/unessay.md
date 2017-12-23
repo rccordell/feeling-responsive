@@ -12,13 +12,13 @@ header:
 
 + Form can vary *widely!!*
 + Students generally work individually, though I am open to collaborative proposals. 
-+ Unessay 1 due TBA
++ Unessay 1 due March 5 by 5pm
 + Unessay 2 due TBA
 + 30% of total grade
 
 ## The Nitty-Gritty 
 
-As your final assignment this semester you will develop an unessay project.
+Twice this semester you will develop unessay projects.
 
 1. I *highly prize* creative takes on this assignment. Before jumping into typical paper writing mode, consider other media, presentation styles, and modes of critical engagement you might employ instead.
 2. This is a hands-on course about media and technology: I would be thrilled to see unessays that *do* rather than (only) *describe*. Consider using your unessay assignments to get your hands dirty (perhaps literally) with some of the media we discuss in class.
@@ -32,13 +32,13 @@ I will also show you some stellar examples of unessays in the weeks leading up t
 
 Thanks to Daniel Paul O’Donnell for [this brilliant assignment](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay), which I’ve only slightly modified for our class. For more on the research behind the Unessay assignment, see [the work of Emma Dering and Matthew Galea](http://dpod.kakelbont.ca/category/research/unessay/).
 
-The essay is a wonderful and flexible tool for engaging with a topic intellectually. It is a very free format that can be turned to discuss any topic—works of literature, of course, but also autobiography, science, entertainment, history, and government, politics, and so on. There is often something provisional about the essay (its name comes from French essai, meaning a trial), and almost always something personal.
+The essay is a wonderful and flexible tool for engaging with a topic intellectually. It is a very free format that can be turned to discuss any topic—works of literature, of course, but also autobiography, science, entertainment, history, and government, politics, and so on. There is often something provisional about the essay (its name comes from French *essai*, meaning a trial), and almost always something personal.
 
 Unfortunately, however, [as Wikipedia notes](http://en.wikipedia.org/w/index.php?title=Essay&oldid=510540710),
 
 > In some countries (e.g., the United States and Canada), essays have become a major part of formal education. Secondary students are taught structured essay formats to improve their writing skills, and admission essays are often used by universities in selecting applicants and, in the humanities and social sciences, as a way of assessing the performance of students during final exams.
 
-One result of this is that the essay form, which should be extremely free and flexible, is instead often presented as a static and rule-bound monster that students must master in order not to lose marks (for a vigorous defence of the flexible essay, see software developer Paul Graham’s blog). Far from an opportunity to explore intellectual passions and interests in a personal style, the essay is transformed into a formulaic method for discussing set topics in five paragraphs: the compulsory figures of academia.
+One result of this is that the essay form, which should be extremely free and flexible, is instead often presented as a static and rule-bound monster that students must master in order not to lose marks (for a vigorous defense of the flexible essay, see software developer Paul Graham’s blog). Far from an opportunity to explore intellectual passions and interests in a personal style, the essay is transformed into a formulaic method for discussing set topics in five paragraphs: the compulsory figures of academia.
 
 ### Enter the Unessay
 
