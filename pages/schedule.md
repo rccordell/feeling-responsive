@@ -18,6 +18,8 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
 
 # Preface &#9755; re:Mediation
@@ -287,3 +289,6 @@ Read:
 Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
