@@ -44,7 +44,7 @@ Professor Cordell away
 
 ## Tuesday, January 23: Manuscript
 
-**Lab 2: Simulating the Scriptorium**
+{% include alert info='Lab 2: Simulating the Scriptorium' %}
 
 Read:
 
@@ -74,7 +74,7 @@ Read:
 
 ## Friday, February 2: Watermarks
 
-**Lab 3: Making Paper**
+{% include alert info='Lab 3: Making Paper' %}
 
 Read:
 
@@ -85,7 +85,7 @@ Read:
 
 ## Tuesday, February 6: Book Tech
 
-**Lab 4: Thinking with the Codex**
+{% include alert info='Lab 4: Thinking with the Codex' %}
 
 Read:
 
@@ -125,7 +125,7 @@ Optional, but quite useful:
 
 ## Tuesday, February 13: The Business of Print 
 
-**Lab 5: Preparing to Print**
+{% include alert info='Lab 5: Preparing to Print' %}
 
 Read: 
 
@@ -135,7 +135,7 @@ Read:
 
 ## Friday, February 16: Typecasting
 
-**Lab 6: Composing & Imposing**
+{% include alert info='Lab 6: Composing & Imposing' %}
 
 Read:
 
@@ -149,7 +149,7 @@ Read:
 
 ## Tuesday, February 20: A Mechanical Mind
 
-**Lab 7: Pulling the Press!**
+{% include alert info='Lab 7: Pulling the Press!' %}
 
 Read: 
 
@@ -165,12 +165,11 @@ Read:
 + Jorge Louis Borges, "The Library of Babel"
 
 
-
 # Chapter 3 &#9755; Read-Write-Execute
 
 ## Tuesday, February 27: Format
 
-**Lab 8: Deciphering Physical Books**
+{% include alert info='Lab 8: Deciphering Physical Books' %}
 
 Read:
 
@@ -195,7 +194,7 @@ Read:
 
 ## Tuesday, March 13: A Pocket Universe
 
-**Lab 8: Computational Reading I (words & ngrams)**
+{% include alert info='Lab 8: Computational Reading I (words & ngrams)' %}
 
 Read:
 
@@ -203,7 +202,7 @@ Read:
 
 ## Friday, March 16: Distant Reading
 
-**Lab 9: Computational Reading II (sentiments & topics)**
+{% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
 
 Read:
 
@@ -225,7 +224,7 @@ Professor Cordell away: **Open Lab** with practicum students to catch up with R 
 
 ## Tuesday, March 27: Machine Writing
 
-**Lab 10a: Building a Bot**
+{% include alert info='Lab 10: Building a Bot' %}
 
 Read:
 
@@ -233,7 +232,6 @@ Read:
 + Annette Vee, "Understanding Computer Programming as Literacy"
 
 ## Friday, March 30: OPEN DAY
-
 
 
 # Chapter 4 &#9755; Memory
@@ -257,6 +255,8 @@ Read:
 + [The Art of Google Books](http://theartofgooglebooks.tumblr.com/)
 
 ## Friday, April 6: The Book is Dead (Long Live the Book)
+
+{% include alert info='Lab 11: Experimental Books' %}
 
 Read:
 
