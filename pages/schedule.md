@@ -8,9 +8,12 @@ header:
   caption_url: https://cdh.princeton.edu/projects/the-victoria-press-circle/
 ---
 
-### Table of Contents
-*  Auto generated table of contents
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
 {:toc}
+</div>
 
 Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
 
