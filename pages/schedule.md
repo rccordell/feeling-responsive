@@ -39,20 +39,20 @@ Introduction to the course and to each other
 Read:
 
 + Marshall McLuhan, “The Medium is the Message”
-+ Octavia Bulter, "Speech Sounds"
++ Alan Liu, [“Imagining the New Media Encounter”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand)
 
 -----
 
 # Chapter 1 &#9755; Inscription
 
-## Tuesday, January 16: 
+{% include alert alert='During the week below I will be traveling from Thursday, January 18-Saturday, January 20. I will not hold my usual office hours this week. Our practicum students will lead the workshop on Friday, January 19.' %}
+
+## Tuesday, January 16: Orality & Literacy
 
 + James Gleick, *The Information*, prologue-chapter 1 (pg. 3-50)
-+ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
++ Octavia Butler, "Speech Sounds"
 
 ## Friday, January 19: Dead Media Poster Workshop
-
-Professor Cordell away
 
 ## Tuesday, January 23: Manuscript
 
@@ -69,12 +69,13 @@ Watch:
 
 + Getty Museum, ["Making Manuscripts"](https://youtu.be/nuNfdHNTv9o) (6:19)
 
+{% include alert alert='This week I will hold my usual Thursday office hours on Wednesday, January 24 from 10-12.' %}
 
 ## Friday, January 26: Vivifying Media
 
 {% include alert warning='DUE: Dead Media Poster Presentations in class' %}
 
-## Tuesday, January 30: Orality & Literacy
+## Tuesday, January 30: Zones of Encounter
 
 Read:
 
@@ -103,7 +104,8 @@ Read:
 
 Read:
 
-+ Lionel Casson, "From Roll to Codex"
+<!-- + Lionel Casson, "From Roll to Codex" -->
++ Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
 + Browse the following (pick 3-4 to focus on):
   + [Codex Sinaiticus](http://www.bl.uk/turning-the-pages/?id=b00f9a37-422c-4542-bfbd-b97bf3ce7d50&amp;type=book)
   + [Lindisfarne Gospel](http://www.bl.uk/turning-the-pages/?id=fdbcc772-3e21-468d-8ca1-9c192f0f939c&type=book)
@@ -124,6 +126,8 @@ Read:
 
 ## Friday, February 9: Into the Matrix
 
+{% include alert info='Lab 5a: Preparing to Print' %}
+
 Watch:
 
 + Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
@@ -139,7 +143,7 @@ Optional, but quite useful:
 
 ## Tuesday, February 13: The Business of Print 
 
-{% include alert info='Lab 5: Preparing to Print' %}
+{% include alert info='Lab 5b: Planning Your Print Project' %}
 
 Read: 
 
@@ -175,8 +179,8 @@ Read:
 ## Friday, February 23: Overload
 
 + Ann Blair, "Reading Strategies for Coping With Information Overload ca. 1550-1700"
-+ Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
 + Jorge Louis Borges, "The Library of Babel"
++ Steven Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
 
 -----
 
@@ -194,6 +198,8 @@ Read:
   + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
 + Herman Melville, ["Cetology" chapter of *Moby Dick*](http://www.powermobydick.com/Moby032.html)
 + Charles W. Chesnutt, "Baxter's Procustes"
+
+{% include alert alert='This week I will will be traveling from Tuesday, February 27 (at night) until Thursday, March 1. I will not hold my usual Thursday office hours this week.' %}
 
 ## Thursday, March 1
 
@@ -224,18 +230,18 @@ Read:
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-207)
 
 
-## Tuesday, March 20: Distant Reading
+## Tuesday, March 20: Circulation
 
 Read:
 
-+ Rebecca Onion, ["Going Viral in the Nineteenth Century"](http://www.laphamsquarterly.org/roundtable/going-viral-nineteenth-century)
 + James Gleick, *The Information*, chapter 11 (pg. 310-323)
-+ Read "Beautiful Snow" and 4 other verses of your chosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org). 
++ Rebecca Onion, ["Going Viral in the Nineteenth Century"](http://www.laphamsquarterly.org/roundtable/going-viral-nineteenth-century)
++ Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org). 
   + Read the poems and also look at the example newspaper printing linked at the top of each.
 
 ## Friday, March 23: Open Lab
 
-Professor Cordell away: **Open Lab** with practicum students to catch up with R activities
+Professor Cordell away: **Open Lab** with practicum students to catch up with R programming labs
 
 ## Tuesday, March 27: Machine Writing
 
@@ -243,21 +249,15 @@ Professor Cordell away: **Open Lab** with practicum students to catch up with R 
 
 Read:
 
-+ Stephen Ramsay and Geoffrey Rockwell, [“Untitled Number 4: A Brechto-Socratic Dialogue”](http://www.geoffreyrockwell.com/publications/u4.4.pdf)
+<!-- + Stephen Ramsay and Geoffrey Rockwell, [“Untitled Number 4: A Brechto-Socratic Dialogue”](http://www.geoffreyrockwell.com/publications/u4.4.pdf) -->
++ Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/)
 + Annette Vee, "Understanding Computer Programming as Literacy"
 
 -----
 
 # Chapter 4 &#9755; Memory
 
-## Friday, March 30: Seriality
-
-Read:
-
-+ TBD
-
-
-## Tuesday, April 3: Obsolescence
+## Friday, March 30: Obsolescence
 
 Watch:
 
@@ -275,7 +275,7 @@ Read:
 + Kenneth Goldsmith, ["The Artful Accidents of Google Books"](http://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
 + [The Art of Google Books](http://theartofgooglebooks.tumblr.com/)
 
-## Friday, April 6: The Book is Dead (Long Live the Book)
+## Tuesday, April 3: The Book is Dead (Long Live the Book)
 
 {% include alert info='Lab 11: Experimental Books' %}
 
@@ -285,12 +285,24 @@ Read:
 + Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
 + Jessica Pressman, ["The Aesthetics of Bookishness in Twenty-First-Century Literature"](http://hdl.handle.net/2027/spo.act2080.0048.402)
 
+## Friday, April 6: Processing Words
+
+{% include alert info='Lab 12a: Understanding Wikipedia' %}
+
+Read:
+
++ Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
++ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)
+
 
 ## Tuesday, April 10: An Index of All Knowledge
+
+{% include alert info='Lab 12b: Contributing to Wikipedia' %}
 
 Read: 
 
 + James Gleick, *The Information*, chapter 14-epilogue (pg. 373-426)
++ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
 
 ## Friday, April 13

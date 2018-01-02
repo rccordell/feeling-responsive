@@ -36,7 +36,7 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 + Professor: [Ryan Cordell](http://ryancordell.org)
 + Cordell Email: [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) 
 + Cordell Office: Nightingale Hall 415
-+ Cordell Office Hours: TBA
++ Cordell Office Hours: Thursday 10am-noon, Friday 11:30am-12:30pm, and by appointment
 
 ## 9:50-11:30am Section
 + Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
@@ -60,7 +60,7 @@ The majority of our readings will be available online or through a [password pro
  
 # Communication
 
-The best way to get in touch with me is to visit during my office hours. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please visit. During the Spring 2018 semester, I will be in my office (Nightingale 415) on TBA. I’m also happy to make appointments at other times—just [email me](mailto:r.cordell@northeastern.edu) with **at least three possible meeting times** for me to choose among. I can schedule in person or virtual meetings.
+The best way to get in touch with me is to visit during my office hours. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please visit. During the Spring 2018 semester, I will be in my office (Nightingale 415) on Thursday from 10am-noon and Friday from 11:30am-12:30pm. I’m also happy to make appointments at other times—just [email me](mailto:r.cordell@northeastern.edu) with **at least three possible meeting times** for me to choose among. I can schedule in person or virtual meetings.
 
 The next best way to get in touch with me is by [sending me an email](mailto:r.cordell@northeastern.edu). When you write to me: consider your tone and your audience. An email to your professor shouldn’t read the same as your emails to friends. For help, see [this guide to emailing your professors](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087). I will respond to an email within 48 hours. Often I will respond more quickly, but you should not send me an urgent email, for example, the night before an assignment is due. If for some reason I have not responded to your email within two days, please do follow up—my delay is likely inadvertent and I will welcome a reminder.
 
