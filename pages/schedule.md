@@ -20,9 +20,23 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-### A Note about Our Readings
+# Using this Schedule
 
-Readings not freely available online are available in [a password-protect, zipped course packet](#). I will give out the password in class on day 1.
+## Reading Due Dates
+
+You should complete the readings listed under a given class session before that class begins. Any [in-class assignments](http://s18tot.ryancordell.org/assignments/inclasswork/) we complete will assume you have fully prepared all required readings for that day.
+
+## Course Reading Packet
+
+Most of our readings this semester are freely available online. There are a few books you will need to purchase—see the [required texts](http://s18tot.ryancordell.org/policies/#required-texts)—a few you will need to donwload in [this password-protect, zipped course packet](#). I will give out the password in class on day 1. 
+
+## A Key to Alerts
+
+{% include alert alert='These red alert boxes signal a change of our typical schedule, such as meeting in a location outside the classroom or altered office hours during the week.' %}
+
+{% include alert warning='These orange alert boxes signal an assignment due date.' %}
+
+{% include alert info='These information boxes signal an in-class lab that we will work on together. As the semester progresses I will add links to the lab assignments to these boxes. Your fieldbook reports are due within a week of a lab session, or the final lab session for those which extend through multiple class sessions, as indicated by the presence of letters (e.g. 5a and 5b).' %}
 
 -----
 
@@ -178,9 +192,16 @@ Read:
 
 ## Friday, February 23: Overload
 
-+ Ann Blair, "Reading Strategies for Coping With Information Overload ca. 1550-1700"
-+ Jorge Louis Borges, "The Library of Babel"
+Read:
+
++ Ann Blair, ["Information Overload, the Early Years"](http://archive.boston.com/bostonglobe/ideas/articles/2010/11/28/information_overload_the_early_years/?page=full)
 + Steven Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
++ Jorge Louis Borges, "The Library of Babel"
+
+
+Optional, but useful for more depth:
+
++ Ann Blair, "Reading Strategies for Coping With Information Overload ca. 1550-1700"
 
 -----
 
