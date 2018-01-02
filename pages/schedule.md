@@ -326,13 +326,13 @@ Read:
 + Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
 
-## Friday, April 13
+## Friday, April 13: Because Survival is Insufficient
 
 Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to the end of section 4, page 164)
 
-## Tuesday, April 17: Survival is Insufficent
+## Tuesday, April 17: The Museum of Civilization
 
 Read:
 
