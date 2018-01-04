@@ -24,3 +24,8 @@ By the end of this course, you will:
 5. Draw parallels between literary studies and diverse fields such as information science, computer science, communications, and media studies;
 6. Develop emerging proficiency exploring textual data with the computer programming language R; 
 7. and Create original, public, creative research projects that consciously use media to convey their messages.
+
+## Acknowledgements
+
+This course has been developed over many years and for too long didn't include acknowledgements—which is to say I cannot trace all the teachers I should thank for their models. I owe many of the ideas here (and some of the lab assignments) to classes I've taken at the [Rare Book School](http://rarebookschool.org/) at the University of Virginia, and in particular Michael F. Suarez's ["Teaching the History of the Book"](http://rarebookschool.org/courses/history/h90/) course. I have also been inspired by syllabi from many other generous scholars, including [Whitney Trettien](https://hcommons.org/members/wtrettien/), Meredith McGill, [Kari Kraus](https://www.scribd.com/document/26087685/History-of-the-Book-syllabus), [Alan Liu](http://liu.english.ucsb.edu/literature-2/), Matthew Kirschenbaum, and [Lori Emerson](https://literaryinfrastructures.wordpress.com/). 
+

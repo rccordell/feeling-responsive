@@ -28,7 +28,7 @@ You should complete the readings listed under a given class session before that 
 
 ## Course Reading Packet
 
-Most of our readings this semester are freely available online. There are a few books you will need to purchase—see the [required texts](http://s18tot.ryancordell.org/policies/#required-texts)—a few you will need to donwload in [this password-protect, zipped course packet](#). I will give out the password in class on day 1. 
+Most of our readings this semester are freely available online. There are a few books you will need to purchase—see the [required texts](http://s18tot.ryancordell.org/policies/#required-texts)—a few you will need to donwload in [this password-protect, zipped course packet](https://www.dropbox.com/s/vhutbbha9ixu0kr/ToTreadings.zip?dl=0). I will share the password to expand this zip file in class on the first day of class. 
 
 ## A Key to Alerts
 
@@ -189,6 +189,7 @@ Read:
 
 Read: 
 
++ Ellen Cushman, "'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"
 + Articles about the [Victoria Press](https://en.wikipedia.org/wiki/Victoria_Press)
   + M. M. H., "A Ramble with Mrs. Grundy: A Visit to the Victoria Printing Press," *English Woman's Journal* (1860)
   + "The Victoria Press," *Illustrated London News* (15 June 1861)
@@ -215,8 +216,8 @@ Read:
   + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
   + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
   + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
-+ Herman Melville, ["Cetology" chapter of *Moby Dick*](http://www.powermobydick.com/Moby032.html)
 + Charles W. Chesnutt, "Baxter's Procustes"
++ Leah Price, "Introduction" to *How to Do Things with Books in Victorian Britain*
 
 {% include alert alert='This week I will will be traveling from Tuesday, February 27 (at night) until Thursday, March 1. I will not hold my usual Thursday office hours this week.' %}
 
@@ -339,9 +340,12 @@ Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
 
-# Epilogue &#9755; &#9755; &#9755; &#9755; &#9755; 
 
 ## Tuesday, April 17: Book Futures
+
++ Jorge Louis Borges, "The Library of Babel"
+
+# Epilogue &#9755; &#9755; &#9755; &#9755; &#9755; 
 
 ## Friday, April 20
 
