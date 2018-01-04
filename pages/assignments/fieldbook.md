@@ -9,9 +9,9 @@ header:
 
 ## Assignment Overview:
 
-+ A portfolio of at least 8 documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
++ A portfolio of at least 10 documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 + Individual work submitted; collaborative development encouraged
-+ Entries due 1 week after the final lab session for a given lab
++ Entries due 1 week after the final session for a given lab
 + Entries will be posted on the course website and be available under [Class Updates](/updates/)
 + At least 3 entries due by Monday, February 19
 + 40% of total grade
@@ -24,11 +24,11 @@ Your ToT fieldbook will constitute your central scholarly activity during the se
 
 ### Organizing Your Fieldbook
 
-Your fieldbook will be, essentially, a folder including a set of .md files, perhaps including supplemental files such as images referenced in the documents. We'll work on setting this up in our first code session, so you don't need to understand precisely what this means right now. Your fieldbooks will be posted to the [Class Updates](/updates/) section of the course website.
+Your fieldbook will be, essentially, a folder comprising at least 10 `.md` files, perhaps including supplemental files such as images referenced in the documents. We'll work on setting this up in our first code session, so you don't need to understand precisely what this means right now. Your fieldbooks will be posted to the [Class Updates](/updates/) section of the course website.
 
 ### Composition
 
-Your fieldbook entries will vary quite a bit from week to week. However, there are a few elements I will expect in each entry:
+Your fieldbook entries will vary quite a bit from lab to lab. However, there are a few elements I will expect in each entry:
 
 1. Completion of any lab-specific activities. Most of our experiential activities will include a specific set of outcomes. For example, I might ask you to reflect on a set of questions about your experiences or challenge you to adapt the day's code to solve some practice problems, or you might produce a specific material product such as a letterpress printed sheet. The first task of any fieldbook entry will be to demonstrate completion of these tasks. In the case of a coding session, you will likely integrate code snippets directly into the .RMD file (more on this as those labs approach). For other labs you may instead reference external proof of your work (and possibly submit that external evidence separately).
 
@@ -59,13 +59,13 @@ If your file does not include these fields I will ask you to revise it before I 
 
 ### Flexibility
 
-ToT is a challenging and full class. The semester will include 11 labs. To give you some flexibility, you must complete a fieldbook entry for 8/11 labs over the semester. You may complete more than 8 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 8 entries, I will include only the strongest 8 in my gradebook (meaning you can make up for a weaker submission). 
+ToT is a challenging and full class. The semester will include 12 labs. To give you some flexibility, you must complete a fieldbook entry for 10/12 labs over the semester. You may complete more than 10 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 10 entries, I will include only the strongest 10 in my grade book (meaning you can make up for a weaker submission). 
 
 ### Pacing Your Field Work
 
 Your fieldbook should be a developing record of your thinking about our class and its activities. Thus you should be working on it steadily, responding to the labs and code sessions in a timely manner, in part to keep your thinking fresh and in part to avoid falling too far behind as new labs and code sessions approach. 
 
-Unless otherwise noted, a fieldbook entry is due within 1 week of the associated lab or code session. If a particular lab or code session extends through multiple classes, its fieldbook entry is due within 1 week of the final classroom session devoted to that activity. You may not wait until late in the semester to complete fieldbook entries for activities earlier in the semester, and I will collect your fieldbooks periodically to ensure you are working steadily. The coding exercises, in particular, will build on each other and you will find it difficult to complete fieldbooks for sessions 3-7
+Unless otherwise noted, a fieldbook entry is due within 1 week of the associated lab session. If a particular lab session extends through multiple classes, its fieldbook entry is due within 1 week of the final classroom session devoted to it. You may not wait until late in the semester to complete fieldbook entries for activities earlier in the semester, and I will collect your fieldbooks periodically to ensure you are working steadily. The coding labs, in particular, will build on each other and you will find it difficult to complete fieldbooks for later coding labs if you do not complete earlier ones. 
 
 I regularly assign ongoing assignments in my classes and every semester I strongly urge students to start working early in order to complete the work. Each semester at least a few students ignore this urging, usually to their later dismay. Complications will almost certainly arise during the semester, and if you put off starting your fieldbook entries you will struggle to earn full credit on this assignment. In order to pressure you a bit toward responsibility: **you must complete at least 3 entries by President's Day, February 19**. I strongly recommend you complete more before this date, but I will not assess more than 5 entries completed after this date if at least 3 were not completed before. 
 
