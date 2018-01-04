@@ -32,7 +32,7 @@ widget3:
   text: 'Location: Barrs Room (472 Holmes Hall)<br />
   Teacher: <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (<a href="mailto:r.cordell@northeastern.edu" target="_blank">email</a>)<br />
   Cordell Office: 415 Nightingale<br />
-  Cordell Office Hours: TBA
+  Cordell Office Hours: Thursday 10am-noon, Friday 11:30am-12:30pm, and by appointment
   <hr>
   Section 1: Tuesday-Friday 9:50-11:30am<br />
   Practicum Student: <a href="mailto:quinn.wi@husky.neu.edu" target="_blank">Bill Quinn</a>

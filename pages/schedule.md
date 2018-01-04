@@ -63,12 +63,39 @@ Read:
 
 ## Tuesday, January 16: Orality & Literacy
 
-+ James Gleick, *The Information*, prologue-chapter 1 (pg. 3-50)
+Read:
+
++ James Gleick, *The Information*, prologue-chapter 2 (pg. 3-77)
 + Octavia Butler, "Speech Sounds"
 
-## Friday, January 19: Dead Media Poster Workshop
+## Friday, January 19: Making Language Visible
 
-## Tuesday, January 23: Manuscript
+Prof. Cordell away today; practicum students will lead this lab at the MFA.
+
+{% include alert info='Lab #2: Visible Language' %}
+
+{% include alert alert='Meet at the Museum of Fine Arts group entrance: off Museum Road on the west side of the building.' %}
+
+Read:
+
++ Christopher Woods, "Visible Language: The Earliest Writing Systems"
+
+## Tuesday, January 23: Containing Language
+
+Read:
+
++ Bonnie Mak, "Architectures of the Page"
++ William A. Johnson, "Bookrolls as Media"
+
+Browse:
+
++ John Morph, ["The Page as Interface"](http://transliteracies.english.ucsb.edu/images/flash_projects/john-morph.html)
+
+## Friday, January 26: Vivifying Media
+
+{% include alert warning='DUE: Dead Media Poster Presentations in class' %}
+
+## Tuesday, January 30: Manuscript
 
 {% include alert info='Lab 2: Simulating the Scriptorium' %}
 
@@ -83,30 +110,11 @@ Watch:
 
 + Getty Museum, ["Making Manuscripts"](https://youtu.be/nuNfdHNTv9o) (6:19)
 
-{% include alert alert='This week I will hold my usual Thursday office hours on Wednesday, January 24 from 10-12.' %}
+{% include alert alert='This week I will not hold my usual Thursday office hours. I will hold extra hours on Wednesday, January 24 from 10-12.' %}
 
-## Friday, January 26: Vivifying Media
 
-{% include alert warning='DUE: Dead Media Poster Presentations in class' %}
+## Friday, February 2: TBD
 
-## Tuesday, January 30: Zones of Encounter
-
-Read:
-
-+ Ellen Cushman, "The Cherokee Syllabary: A Writing System in Its Own Right"
-
-(Optional) Listen:
-
-+ ["Inventing Writing" episode](http://whatsnewpodcast.org/episode5/), *What's New* podcast (30 mins) 
-
-## Friday, February 2: Watermarks
-
-{% include alert info='Lab 3: Making Paper' %}
-
-Read:
-
-+ Bonnie Mak, "Architectures of the Page"
-+ John Morph, ["The Page as Interface"](http://transliteracies.english.ucsb.edu/images/flash_projects/john-morph.html)
 
 -----
 
@@ -146,9 +154,7 @@ Watch:
 
 + Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
 
-Read:
 
-+ James Gleick, *The Information*, chapter 2 (pg. 51-77)
 
 Optional, but quite useful:
 

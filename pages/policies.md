@@ -18,7 +18,6 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
-
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 -----
@@ -66,11 +65,13 @@ The next best way to get in touch with me is by [sending me an email](mailto:r.c
 
 -----
 
-# Participation
+# Class Engagement
 
-This course relies on active, engaged participation in class activities and discussions. There will be few lectures and we will not be building toward an exam. Instead, we will work together to build our facilities for thinking critically literature, new media, and technology. You should come to every class having read all of the required reading, watched the required videos, played the required games, and so forth. You should enter the classroom prepared to discuss these materials with colleagues and complete both individual and group [in-class assignments](http://f17rwda.ryancordell.org/assignments/in-class). 
+This experiential course requires active engagement in class activities and discussions. There will be few lectures and we will not be building toward an exam. Instead, we will work together to build our facilities for thinking critically about literature, new media, and technology. You should come to every class having read all of the required reading, watched the required videos, browsed the suggested resources, and so forth. You should enter the classroom prepared to discuss these materials with colleagues and complete both individual and group [in-class assignments](http://f17rwda.ryancordell.org/assignments/in-class). 
 
-I will not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through our in-class work, discussions, and related activities. In-class work will regularly be graded, while other contributions can influence that grade (see "Participation Bonus" below). There are many ways to participate in a college class. Just a few of the most valuable contributions are:
+## Participation
+
+I will not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through our in-class work, discussions, and related activities. [In-class work](http://s18tot.ryancordell.org/assignments/inclasswork/) will regularly be graded, while other contributions can influence that grade. There are many ways to participate in a college class. Just a few of the most valuable contributions are:
 
 1. Raising ideas from our assigned materials for class discussion, including directing our attention to specific moments you found evocative, inspiring, infuriating, or otherwise salient;
 2. Asking questions about materials or ideas you found puzzling or difficult (I cannot overstate how valuable good questions are to a thriving class, and how desperately I wish more students were courageous in asking them);
@@ -78,7 +79,9 @@ I will not explicitly grade participation in this course (i.e. “participation 
 4. Assisting classmates with lab assignments or other in-class work amenable to cooperation;
 5. Visiting during office hours to extend course conversations around subjects or questions you find particularly interesting.
 
-Maintaining an active class conversation requires that the class be present, both physically and mentally. To that end: you may miss two classes without penalty. “Attendance” does not simply mean that your body can be found in proximity to those of your classmates. You must also be mentally present, which means you must:
+## Attendance
+
+Maintaining an active class conversation requires that the class be present, both physically and mentally. “Attendance” does not simply mean that your body can be found in proximity to those of your classmates. You must also be mentally present, which means you must:
 
 1. Be awake and attentive to the conversation of the day;
 2. Prepare assigned texts before class begins;
@@ -88,7 +91,11 @@ Maintaining an active class conversation requires that the class be present, bot
 
 If you fail to meet these requirements, I will consider you mentally absent, though you may be physically present. 
 
-**Please note**: I make no distinction between excused and unexcused absences, so use your allotted absences wisely. You may not miss two classes early in the semester and then petition for additional excused absences afterward. When you must miss class, it is your responsibility to find out what you missed and to make up any pertinent assignments. You may not make up quizzes or in-class work. If you take one of your excused absences, I simply will not grade any in-class work you missed. If you miss a lab due to an excused absence you should attempt to make up the work. Once beyond your allotted absences you will receive a zero for any in-class work or labs missed.
+## Missing Class
+
+You may miss two classes without penalty. *I make no distinction between excused and unexcused absences*, so use your allotted absences wisely. You may not miss two classes early in the semester and then petition for additional excused absences afterward. When you must miss class, it is your responsibility to find out what you missed, get updates on upcoming assignments, and/or ensure that you are prepared for future classes. *You may not make up quizzes or in-class work*. If you miss a lab due to an excused absence you should attempt to make up the work, but I cannot promise that all lab activities can be completed outside their schedule time; some labs require travel, special equipment, or outside expertise that I cannot provide at other times than our scheduled class period. 
+
+Essentially, when you are absent you will receive a '0' for any in-class work assignments given on that day. At the end of the semester, I will drop the lowest two in-class grades, so that up to two 0's will be dropped (for your two allowed absences). Once beyond your allotted absences you will receive a zero for any in-class work or labs missed. If you miss fewer than two classes, then your lowest two in-class grades will be dropped, improving your overall grade.
 
 [![A picture of two buttons, the first labeled "Overload Relay Trip and the second labeled "Overload Relay & M.G. Set](https://c2.staticflickr.com/8/7179/6824250814_34fcd25d62_o.jpg)](https://flic.kr/p/bp351N)
 
@@ -104,10 +111,6 @@ I do understand that the semester can get hectic. The reading load for this clas
 4. You may not take an IO day to avoid completing on a major assignment. IO days will excuse you from reading quizzes, group work, or reflections, but nothing of more serious import. If you are unsure whether an assignment is "major," the syllabus is a good guide. If a given assignment has it's own "assignment" page on the course website, it is a major assignment.
 
 IO days are intended to help you manage the inevitable stresses of your individual semester. Use them wisely.
-
-## Attendance and Participation Bonus
-
-At the end of the semester, for an allowed absence and/or IO day you did not use, I will drop your lowest in-class work grade. So if you attended all sessions prepared and did not require an IO day, I would drop your two lowest in-class work grades from my final grade calculations. I will also drop one low grade to acknowledge exceptional engagement and participation through the semester.
 
 -----
 
@@ -164,5 +167,5 @@ If you have any questions about what constitutes academic integrity in this clas
 The Northeastern University Writing Center is located in 412 Holmes Hall and in Snell Library (for current hours call 617-373-4549 or see [http://www.northeastern.edu/english/writing-center/](http://www.northeastern.edu/english/writing-center/)) and offers free and friendly help for any level writer, including help with reading complex texts, conceptualizing a writing project, refining your writing process (i.e., planning, researching, organization, drafting, revising, and editing), and using sources effectively. You can receive feedback face-to-face during regular hours or via email/online response. I strongly recommend that you make appointments to go over drafts of your work—including your digital work—before turning it in. Questions about the Writing Center can be directed to [neuwritingcenter@gmail.com](mailto:neuwritingcenter@gmail.com).
 
 
-</div>
-</div>
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

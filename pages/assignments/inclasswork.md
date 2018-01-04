@@ -21,16 +21,23 @@ This course relies on active, engaged participation in class activities and disc
 
 ### In-class writing
 
-You should be prepared to write in any class session and have appropriate materials (e.g. paper, a table, a laptop) available to you. Not all in-class writing will be collected, but when it is such work will be graded on a five-point scale. I do not expect your responses to in-class writing exercises to reflect the same polish as papers. I do expect your writing exercises to reflect real thought about our course topics and readings. Entries will receive full credit if:
+You should be prepared to write in any class session and have appropriate materials (e.g. paper, a table, a laptop) available to you. Responses will require you to work with our readings for the day, so these must also be available to you. Not all in-class writing will be collected, but when it is such work will be graded on a five-point scale. I do not expect your responses to in-class writing exercises to reflect the same polish as papers. I do expect your writing exercises to evidence your careful reading our our class texts and to reflect critical thought about our course topics. In-class responses should:
     
-+ They refer to specific aspects of our assigned reading. The more specific you can be, the better. For instance, if you can quote or paraphrase from a course text to illustrate the point you hope to make, you should do so.
-+ They draw connections between the day’s assigned reading and the broader themes of the course, recent topics of class discussion, or your personal research.
++ Respond directly to the prompt or activity. Your thinking may wander in new and unexpected directions (this is *very good*) but its connection to the source assignment should be clear. 
++ Refer to *specific aspects* of our assigned reading. The more specific you can be, the better. For instance, if you can quote or paraphrase from a course text to illustrate the point you hope to make, you should do so.
 + They demonstrate depth of thought about the topics on hand.  
-+ Writing that demonstrates a firm command of the day's reading through summarizing its ideas will receive a 4/5 while writing that *connects ideas across readings* and *ventures creative (or even risky) interpretations* will receive 5/5. Lower marks are reserved for writing that does not demonstrate familiarity with the day's readings, fails to address the prompt, and/or lacks clarity.
 
 ### Individual and Group Work
 
 In addition to discussion of course texts, our classes will frequently ask you to complete small projects and exercises that will help you apply course concepts, learn new software, and/or contextualize course materials. For group exercises, I will ask each group member to assume a specific task related to the project; I expect each group member to contribute in significant ways to their team’s effort. The outcome of group work will be various and thus will be assessed in diverse ways.
+
+### Assessing In-class Work
+
+Here's a brief rubric for my assessment of in-class writing:
+
+| **1** | **2** | **3** | **4** | **5** |
+| --- | --- | ---- | ---- | ----- |
+| Response does not engage the prompt or the readings for the day, discussing something entirely unrelated, or is incoherent. | Response touches on the broad themes of the prompt but does not address the readings at all, save perhaps by mentioning their title(s) or the name(s) of their author(s). | Response touches on the broad themes of the prompt and engages in cursory ways with the readings, but few specifics are offered. | Response demonstrates a solid command of the day's reading through summarizing its ideas and relating these to the prompt. | Response connects ideas across readings and ventures creative (or even risky) interpretations in response to the prompt. Response demonstrates sophisticated analysis beyond comprehension. |
 
 ### Reading quizzes
 
