@@ -84,8 +84,9 @@ Read:
 
 Read:
 
-+ Bonnie Mak, "Architectures of the Page"
 + William A. Johnson, "Bookrolls as Media"
++ Lionel Casson, "From Roll to Codex"
++ Bonnie Mak, "Architectures of the Page"
 
 Browse:
 
@@ -97,7 +98,7 @@ Browse:
 
 ## Tuesday, January 30: Manuscript
 
-{% include alert info='Lab 2: Simulating the Scriptorium' %}
+{% include alert info='Lab 3: Simulating the Scriptorium' %}
 
 Read:
 
@@ -112,21 +113,16 @@ Watch:
 
 {% include alert alert='This week I will not hold my usual Thursday office hours. I will hold extra hours on Wednesday, January 24 from 10-12.' %}
 
-
-## Friday, February 2: TBD
-
-
 -----
 
 # Chapter 2 &#9755; Impression
 
-## Tuesday, February 6: Book Tech
+## Friday, February 2: Book Tech
 
 {% include alert info='Lab 4: Thinking with the Codex' %}
 
 Read:
 
-<!-- + Lionel Casson, "From Roll to Codex" -->
 + Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
 + Browse the following (pick 3-4 to focus on):
   + [Codex Sinaiticus](http://www.bl.uk/turning-the-pages/?id=b00f9a37-422c-4542-bfbd-b97bf3ce7d50&amp;type=book)
@@ -146,7 +142,7 @@ Read:
   + [Nature Printing](https://cudl.lib.cam.ac.uk/view/MS-ADD-10141/1)
   + [*Birds of America*](http://www.bl.uk/turning-the-pages/?id=6bf88002-53a1-41e2-bfc6-de66c674355a&amp;type=book)
 
-## Friday, February 9: Into the Matrix
+## Tuesday, February 6: Into the Matrix
 
 {% include alert info='Lab 5a: Preparing to Print' %}
 
@@ -154,14 +150,16 @@ Watch:
 
 + Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
 
+Read:
 
++ Ann Blair, "Introduction" from *Too Much To Know*
 
 Optional, but quite useful:
 
 + ["Letterpress Printing"](https://youtu.be/AHrLIVeH1KM)
 + ["How to Use a Composing Stick"](https://youtu.be/AHrLIVeH1KM)
 
-## Tuesday, February 13: The Business of Print 
+## Friday, February 9: The Business of Print 
 
 {% include alert info='Lab 5b: Planning Your Print Project' %}
 
@@ -171,7 +169,7 @@ Read:
 + Benjamin Franklin, *The Autobiography of Benjamin Franklin* (pg. 7-57, ending at "The affairs of the Revolution occasion'd the interruption.")
 + Lisa Gitelman, “Print Culture (Other Than Codex): Job Printing and Its Importance"
 
-## Friday, February 16: Typecasting
+## Tuesday, February 13: Typecasting
 
 {% include alert info='Lab 6: Composing & Imposing' %}
 
@@ -185,7 +183,7 @@ Read:
 
 + [*Helvetica* movie trailer](https://youtu.be/7JkpYgjbYRg)
 
-## Tuesday, February 20: A Mechanical Mind
+## Friday, February 16: A Mechanical Mind
 
 {% include alert info='Lab 7: Pulling the Press!' %}
 
@@ -196,24 +194,18 @@ Read:
   + "The Victoria Press," *Illustrated London News* (15 June 1861)
   + Emily Faithfull, "Women Compositors," *English Woman's Journal* (1861)
 
-## Friday, February 23: Overload
+## Tuesday, February 20: Media & Moral Panic
 
 Read:
 
-+ Ann Blair, ["Information Overload, the Early Years"](http://archive.boston.com/bostonglobe/ideas/articles/2010/11/28/information_overload_the_early_years/?page=full)
-+ Steven Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
-+ Jorge Louis Borges, "The Library of Babel"
++ Frank Furedi, [“The Media’s First Moral Panic”](http://www.historytoday.com/frank-furedi/media%E2%80%99s-first-moral-panic)
++ Anna North, [“When Novels Were Bad for You”](http://op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/?_r=0)
++ 19th-Century Commentaries on Novel Reading:
+    + [“On Novel Reading”](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
+    + [“Devouring Books”](http://www.merrycoz.org/books/DEVOURNG.xhtml) (from the *American Annals of Education*, 1835)
+    + M.M. Backus, [“Novel Writers and Publishers”](http://www.merrycoz.org/books/PARLOR.xhtml) (from *Christian Parlor Magazine*, 1844)
 
-
-Optional, but useful for more depth:
-
-+ Ann Blair, "Reading Strategies for Coping With Information Overload ca. 1550-1700"
-
------
-
-# Chapter 3 &#9755; Read-Write-Execute
-
-## Tuesday, February 27: Format
+## Friday, February 23: Format
 
 {% include alert info='Lab 8: Deciphering Physical Books' %}
 
@@ -228,36 +220,22 @@ Read:
 
 {% include alert alert='This week I will will be traveling from Tuesday, February 27 (at night) until Thursday, March 1. I will not hold my usual Thursday office hours this week.' %}
 
-## Thursday, March 1
+-----
 
-{% include alert warning='DUE: Unessay 1 by 5pm' %}
+# Chapter 3 &#9755; Read-Write-Execute
 
-## Friday, March 2: Annihilating Time & Space
+## Tuesday, February 27: Annihilating Time & Space
 
 Read:
 
 + James Gleick, *The Information*, chapters 4-6 (pg. 78-203)
++ Henry David Thoreau [on the telegraph](http://www.logicalpoetry.com/tech/thoreau.html)
 
-## Spring Break, March 4-10
+## Thursday, March 1
 
-## Tuesday, March 13: A Pocket Universe
+{% include alert warning='DUE: Unessay 1 by 5pm' %}
 
-{% include alert info='Lab 8: Computational Reading I (words & ngrams)' %}
-
-Read:
-
-+ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (beginning-pg. 90)
-
-## Friday, March 16: Distant Reading
-
-{% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
-
-Read:
-
-+ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-207)
-
-
-## Tuesday, March 20: Circulation
+## Friday, March 2: Circulation
 
 Read:
 
@@ -266,25 +244,44 @@ Read:
 + Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org). 
   + Read the poems and also look at the example newspaper printing linked at the top of each.
 
-## Friday, March 23: Open Lab
+## Spring Break, March 4-10
 
-Professor Cordell away: **Open Lab** with practicum students to catch up with R programming labs
+## Tuesday, March 13: A Pocket Universe
 
-## Tuesday, March 27: Machine Writing
-
-{% include alert info='Lab 10: Building a Bot' %}
+{% include alert info='Lab 9: Computational Reading I (words & ngrams)' %}
 
 Read:
 
-<!-- + Stephen Ramsay and Geoffrey Rockwell, [“Untitled Number 4: A Brechto-Socratic Dialogue”](http://www.geoffreyrockwell.com/publications/u4.4.pdf) -->
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (beginning-pg. 90)
+
+## Friday, March 16: Text as Data
+
+{% include alert info='Lab 10: Computational Reading II (sentiments & topics)' %}
+
+Read:
+
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-207)
+
+
+## Tuesday, March 20: Machine Writing
+
+{% include alert info='Lab 11: Computational Writing (Building a Bot)' %}
+
+Read:
+
 + Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/)
 + Annette Vee, "Understanding Computer Programming as Literacy"
+
+
+## Friday, March 23: Open Lab
+
+Professor Cordell away: **Open Lab** with practicum students to catch up with R programming labs
 
 -----
 
 # Chapter 4 &#9755; Memory
 
-## Friday, March 30: Obsolescence
+## Tuesday, March 27: Obsolescence
 
 Watch:
 
@@ -300,31 +297,28 @@ Read:
 (Optional) Read/Browse:
 
 + Kenneth Goldsmith, ["The Artful Accidents of Google Books"](http://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
-+ [The Art of Google Books](http://theartofgooglebooks.tumblr.com/)
++ [The Art of Google Books](http://theartofgooglebooks.tumblr.com/) 
 
-## Tuesday, April 3: The Book is Dead (Long Live the Book)
+## Friday, March 30: The Book is Dead (Long Live the Book)
 
-{% include alert info='Lab 11: Experimental Books' %}
+{% include alert info='Lab 12a: Interactive Fiction' %}
 
 Read:
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/)
 + Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
-+ Jessica Pressman, ["The Aesthetics of Bookishness in Twenty-First-Century Literature"](http://hdl.handle.net/2027/spo.act2080.0048.402)
 
-## Friday, April 6: Processing Words
+## Tuesday, April 3: Processing Words
 
-{% include alert info='Lab 12a: Understanding Wikipedia' %}
+{% include alert info='Lab 12b: Interactive Fiction' %}
 
 Read:
 
++ David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)
 + Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
 + ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)
 
-
-## Tuesday, April 10: An Index of All Knowledge
-
-{% include alert info='Lab 12b: Contributing to Wikipedia' %}
+## Friday, April 6: An Index of All Knowledge
 
 Read: 
 
@@ -332,19 +326,24 @@ Read:
 + Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
 
-## Friday, April 13: Because Survival is Insufficient
+## Tuesday, April 10: Because Survival is Insufficient
 
 Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to the end of section 4, page 164)
 
-## Tuesday, April 17: The Museum of Civilization
+
+## Friday, April 13: The Museum of Civilization
 
 Read:
 
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
 
-## TBD
+# Epilogue &#9755; &#9755; &#9755; &#9755; &#9755; 
+
+## Tuesday, April 17: Book Futures
+
+## Friday, April 20
 
 {% include alert warning='DUE: Unessay 2 by 5pm' %}
 
