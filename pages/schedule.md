@@ -111,6 +111,8 @@ Watch:
 
 + Getty Museum, ["Making Manuscripts"](https://youtu.be/nuNfdHNTv9o) (6:19)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuNfdHNTv9o?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 {% include alert alert='This week I will not hold my usual Thursday office hours. I will hold extra hours on Wednesday, January 24 from 10-12.' %}
 
 -----
@@ -151,6 +153,8 @@ Read:
 Watch:
 
 + Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
+
+<object width="410" height="341" id="veohFlashPlayer" name="veohFlashPlayer"><param name="movie" value="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1509&permalinkId=v18714625RMJnrG8x&player=videodetailsembedded&videoAutoPlay=0&id=anonymous"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1509&permalinkId=v18714625RMJnrG8x&player=videodetailsembedded&videoAutoPlay=0&id=anonymous" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="410" height="341" id="veohFlashPlayerEmbed" name="veohFlashPlayerEmbed"></embed></object><br /><font size="1">Watch <a href="http://www.veoh.com/watch/v18714625RMJnrG8x">Stephen Fry & The Machine That Made Us</a></font>
 
 Read:
 
@@ -290,6 +294,9 @@ Watch:
 
 + Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (30 mins)
 
+<iframe src="https://player.vimeo.com/video/127605643?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/127605643">Farewell - ETAOIN SHRDLU - 1978</a> from <a href="https://vimeo.com/user4747369">Linotype: The Film</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 Read:
 
 + Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, "File Not Found Series"
@@ -310,6 +317,13 @@ Read:
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/)
 + Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
+
+Watch:
+
++ ["Elektrobiblioteka / Electrolibrary"](https://vimeo.com/47656204)
+
+<iframe src="https://player.vimeo.com/video/47656204" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/47656204">Elektrobiblioteka / Electrolibrary</a> from <a href="https://vimeo.com/prtscr">printscreen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Tuesday, April 3: Processing Words
 
