@@ -121,6 +121,8 @@ Watch:
 
 {% include alert info='Lab 4: Thinking with the Codex' %}
 
+{% include alert alert='Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)' %}
+
 Read:
 
 + Adam J. Hooks, ["How to Read Like a Renaissance Reader"](http://www.adamghooks.net/2012/08/how-to-read-like-renaissance-reader.html)
@@ -302,7 +304,7 @@ Read:
 
 ## Friday, March 30: The Book is Dead (Long Live the Book)
 
-{% include alert info='Lab 12a: Interactive Fiction' %}
+{% include alert info='Lab 12a: Paper Circuits' %}
 
 Read:
 
@@ -311,7 +313,7 @@ Read:
 
 ## Tuesday, April 3: Processing Words
 
-{% include alert info='Lab 12b: Interactive Fiction' %}
+{% include alert info='Lab 12b: Paper Circuits' %}
 
 Read:
 
