@@ -28,7 +28,7 @@ You should complete the readings listed under a given class session before that 
 
 ## Course Reading Packet
 
-Most of our readings this semester are freely available online. There are a few books you will need to purchase—see the [required texts](http://s18tot.ryancordell.org/policies/#required-texts)—a few you will need to donwload in [this password-protect, zipped course packet](https://www.dropbox.com/s/f1aqdvvhqlhphj4/ToTcoursepacket.zip?dl=0). I will share the password to expand this zip file in class on the first day of class. 
+Most of our readings this semester are freely available online. There are a few books you will need to purchase—see the [required texts](http://s18tot.ryancordell.org/policies/#required-texts)—a few you will need to download in [this password-protect, zipped course packet](https://www.dropbox.com/s/f1aqdvvhqlhphj4/ToTcoursepacket.zip?dl=0). I will share the password to expand this zip file in class on the first day of class. 
 
 ## A Key to Alerts
 
