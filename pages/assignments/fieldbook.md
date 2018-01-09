@@ -1,12 +1,10 @@
 ---
-
 layout: page-fullwidth
 title: Lab Fieldbook Entries
 permalink: /assignments/fieldbook/
 header:
   image_fullwidth: 14934283002_9663bae608_k-banner.jpg
   caption: [Creative Commons licensed photograph "Field book, Raffles Lighthouse museum" by Flickr user Jnzl's Photos](https://flic.kr/p/oKG72Y)
-
 ---
 
 ## Assignment Overview:
