@@ -39,11 +39,9 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 
 ## 9:50-11:30am Section
 + Practicum Student: [Bill Quinn](mailto:quinn.wi@husky.neu.edu)
-+ Quinn Office Hours: TBA
 
 ## 1:35-3:15 Section
 + Practicum Student: [David Medina](mailto:medina.d@husky.neu.edu)
-+ Medina Office Hours: TBA
 
 -----
 
