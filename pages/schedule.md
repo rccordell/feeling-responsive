@@ -54,8 +54,10 @@ For this lab you will need a plain-text editor. These free editors are markdown-
 
 + [Macdown](http://macdown.uranusjr.com/) (Mac)
 + [Mou](http://25.io/mou/) (Mac)
-+ [Markdownpad](http://markdownpad.com/) (Windows)
-+ [Remarkable](https://remarkableapp.github.io/linux.html) (Linux)' %}
++ [Markdownpad](http://markdownpad.com/) (Windows XP-8)
++ [Markdown Edit](http://markdownedit.com/) (Windows)
++ [Ghostwriter](http://wereturtle.github.io/ghostwriter/) (Windows & Linux)
++ [Remarkable](https://remarkableapp.github.io/) (Linux)' %}
 
 Read:
 
@@ -163,20 +165,22 @@ Read:
 
 {% include alert info='Lab 6a: Preparing to Print' %}
 
-Watch:
-
-+ Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
-
-<object width="410" height="341" id="veohFlashPlayer" name="veohFlashPlayer"><param name="movie" value="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1509&permalinkId=v18714625RMJnrG8x&player=videodetailsembedded&videoAutoPlay=0&id=anonymous"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1509&permalinkId=v18714625RMJnrG8x&player=videodetailsembedded&videoAutoPlay=0&id=anonymous" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="410" height="341" id="veohFlashPlayerEmbed" name="veohFlashPlayerEmbed"></embed></object><br /><font size="1">Watch <a href="http://www.veoh.com/watch/v18714625RMJnrG8x">Stephen Fry & The Machine That Made Us</a></font>
-
 Read:
 
 + Ann Blair, "Introduction" from *Too Much To Know*
 
+Watch:
+
++ Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (This video is about 1 hour long; plan accordingly!)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8svE2AjQWYE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Optional, but quite useful:
 
-+ ["Letterpress Printing"](https://youtu.be/AHrLIVeH1KM)
-+ ["How to Use a Composing Stick"](https://youtu.be/AHrLIVeH1KM)
++ ["Letterpress Printing"](https://youtu.be/bPCiWiLu-W4)  
+    <iframe width="280" height="157" src="https://www.youtube.com/embed/bPCiWiLu-W4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
++ ["How to Use a Composing Stick"](https://youtu.be/AHrLIVeH1KM)  
+    <iframe width="280" height="157" src="https://www.youtube.com/embed/AHrLIVeH1KM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Friday, February 9: The Business of Print 
 
@@ -187,6 +191,12 @@ Read:
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/)
 + Benjamin Franklin, *The Autobiography of Benjamin Franklin* (pg. 7-57, ending at "The affairs of the Revolution occasion'd the interruption.")
 + Lisa Gitelman, “Print Culture (Other Than Codex): Job Printing and Its Importance"
+
+Watch (Optional)
+
++ [Tested Learns the Craft of Letterpress Printing](https://youtu.be/4pg8A0ab6S4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pg8A0ab6S4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Tuesday, February 13: Typecasting
 
@@ -200,7 +210,9 @@ Read:
 
 (Optional) Watch:
 
-+ [*Helvetica* movie trailer](https://youtu.be/7JkpYgjbYRg)
++ [*Helvetica* movie trailer](https://youtu.be/LL60GEGjj_Q)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LL60GEGjj_Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Friday, February 16: A Mechanical Mind
 
