@@ -56,7 +56,9 @@ You can also create headlines of descending sizes, lists (numbered or bulleted),
 
 ## Code Lab Assignment
 
-Your assignment for this coding session is pretty straightforward: create a document encoded in markdown that encodes (at least):
+Your assignment for this coding session is pretty straightforward. You will write a post in Markdown that uses it to reflect our our initial readings (McLuhan, Liu) on media. How does this medium shape the way you think about your messages (i.e. your writing)? 
+
+It will be perhaps artificial, but to practice writing in Markdown your post should include:
 
 + Some italicized text
 + Some bold text
@@ -65,7 +67,8 @@ Your assignment for this coding session is pretty straightforward: create a docu
 + Headlines for different sections
 + I won't require it, but *extra kudos* if you can include an image and/or a footnote. 
 
-If you have already drafted your Fieldbook entry for our lab at the MFA, you could mark it up for this assignment and kill two birds with one stone. 
+
+
 
 ## R Markdown
 
