@@ -47,7 +47,7 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 
 # Required Texts
  
-The majority of our readings will be available online or through a [password protected, digital course packet](#) (I will give you the password for this zip file in class). We will read a few books, however, which you will need to purchase:
+The majority of our readings will be available online or through a [password protected, digital course packet](https://www.dropbox.com/s/f1aqdvvhqlhphj4/ToTcoursepacket.zip?dl=0) (I will give you the password for this zip file in class). We will read a few books, however, which you will need to purchase:
  
 + James Gleick, [*The Information: A History, A Theory, A Flood*](http://amzn.to/2g3003b), Vintage (2012).
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage: The \(Mostly\) True Story of the First Computer*](http://amzn.to/2g311sc), Pantheon (2015).
