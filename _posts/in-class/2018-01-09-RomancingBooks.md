@@ -2,7 +2,6 @@
 layout: page
 subheadline: "thinking about books as media"
 title: "Romancing the Book"
-teaser: "It's day one—let's jump in!"
 categories:
     - in-class assignments
 comments: false
