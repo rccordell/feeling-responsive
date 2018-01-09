@@ -48,7 +48,14 @@ Introduction to the course and to each other
 
 ## Friday, January 12: Media Messages
 
-{% include alert info='Lab #1: Markdown' %}
+{% include alert info='Lab #1: Markdown
+
+For this lab you will need a plain-text editor. These free editors are markdown-aware:
+
++ [Macdown](http://macdown.uranusjr.com/) (Mac)
++ [Mou](http://25.io/mou/) (Mac)
++ [Markdownpad](http://markdownpad.com/) (Windows)
++ [Remarkable](https://remarkableapp.github.io/linux.html) (Linux)' %}
 
 Read:
 
