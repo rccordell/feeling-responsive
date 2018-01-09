@@ -67,7 +67,32 @@ It will be perhaps artificial, but to practice writing in Markdown your post sho
 + Headlines for different sections
 + I won't require it, but *extra kudos* if you can include an image and/or a footnote. 
 
+Your post must also be named correctly and include the header outlined in [the fieldbook assignment](http://s18tot.ryancordell.org/assignments/fieldbook).
 
+## File Name and Header
+
+The filename must follow a very specific convention in order to post correctly. Essentially, it lists the date (of submission) in Year, Month, Day format, followed by your last name (or pseudonym) and the lab number. Essentially, it should look like this: ```YYYY-MM-DD-NAME-LAB-NUMBER.md````.
+
+The file also needs a header that will allow me to publish your fieldbook easily on the course website and makes clear precisely which lab activity a given entry records. We will go over this header in our first lab, but I've included a model below you can simply copy, paste, and modify. As an example, you might include the following lines at the top of each file (or each entry if you're using a single file), modified to suit the specifics of each week:
+
+    ``` 
+    ---
+    layout: page  
+    title: "Your TITLE HERE"  
+    author: "YOUR NAME or PSEUDONYM"  
+    categories:  
+        - LAB NUMBER  
+        - LAB TOPIC  
+    comments: false  
+    show_meta: true
+    header:
+        image_fullwidth: OPTIONAL-IMAGE-NAME.FILE-EXTENSION
+        caption: OPTIONAL CAPTION FOR IMAGE WITH CITATION
+        caption_url: OPTIONAL URL FOR IMAGE CITATION
+    ---
+    ```
+    
+If your file does not include these fields I will ask you to revise it before I can consider the entry complete.
 
 
 ## R Markdown
