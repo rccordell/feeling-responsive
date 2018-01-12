@@ -48,7 +48,7 @@ Introduction to the course and to each other
 
 ## Friday, January 12: Media Messages
 
-{% include alert info='Lab #1: Markdown
+{% include alert info='[Lab #1: Markdown](http://s18tot.ryancordell.org/lab%20assignments/Lab1-Markdown/)
 
 For this lab you will need a plain-text editor. These free editors are markdown-aware:
 
