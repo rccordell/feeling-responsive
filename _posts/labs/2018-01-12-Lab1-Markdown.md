@@ -67,6 +67,7 @@ There are many dedicated Markdown composition applications with additional featu
 + [Ghostwriter](http://wereturtle.github.io/ghostwriter/) (Windows & Linux)
 + [Remarkable](https://remarkableapp.github.io/) (Linux)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==) (online) 
++ a bit more complicated to get started with, but [Atom](https://atom.io/) is more full-featured than some of those above (Mac, Windows, Linux)
 
 ## Markdown Syntax
 
