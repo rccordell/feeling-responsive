@@ -74,7 +74,7 @@ Read:
 
 Read:
 
-+ James Gleick, *The Information*, prologue-chapter 2 (pg. 3-77)
++ James Gleick, *The Information*, prologue-chapter 2 (pg. 3-50)
 + Octavia Butler, "Speech Sounds"
 
 ## Friday, January 19: Making Language Visible
@@ -167,7 +167,9 @@ Read:
 
 Read:
 
++ James Gleick, *The Information*, chapter 3 (pg. 51-77)
 + Ann Blair, "Introduction" from *Too Much To Know*
+
 
 Watch:
 
@@ -178,9 +180,12 @@ Watch:
 Optional, but quite useful:
 
 + ["Letterpress Printing"](https://youtu.be/bPCiWiLu-W4)  
-    <iframe width="280" height="157" src="https://www.youtube.com/embed/bPCiWiLu-W4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="280" height="157" src="https://www.youtube.com/embed/bPCiWiLu-W4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 + ["How to Use a Composing Stick"](https://youtu.be/AHrLIVeH1KM)  
-    <iframe width="280" height="157" src="https://www.youtube.com/embed/AHrLIVeH1KM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="280" height="157" src="https://www.youtube.com/embed/AHrLIVeH1KM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Friday, February 9: The Business of Print 
 
