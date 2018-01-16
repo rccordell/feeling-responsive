@@ -3,7 +3,7 @@ layout: page
 subheadline: "thinking about books as media"
 title: "Romancing the Book"
 categories:
-    - in-class assignments
+    - in-class-assignments
 comments: false
 show_meta: true
 header:

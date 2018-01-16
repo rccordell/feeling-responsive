@@ -3,7 +3,7 @@ layout: page
 title: "Speech Sounds and Information"
 subheadline: "Gleick and Butler"
 categories:
-    - in-class assignments
+    - in-class-assignments
 comments: false
 show_meta: true
 header:
