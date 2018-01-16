@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Speech Sounds and Information"
-subheadline: "Gleick and Bulter"
+subheadline: "Gleick and Butler"
 categories:
     - in-class assignments
 comments: false
