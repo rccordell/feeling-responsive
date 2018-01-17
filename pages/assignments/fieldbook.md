@@ -9,7 +9,7 @@ header:
 
 ## Assignment Overview:
 
-+ A portfolio of at least 10 documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
++ A portfolio of at least 9 documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 + Individual work submitted; collaborative development encouraged
 + Entries due 1 week after the final session for a given lab
 + Entries will be posted on the course website and be available under [Class Updates](/updates/)

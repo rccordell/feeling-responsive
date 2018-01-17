@@ -107,27 +107,15 @@ Watch:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuNfdHNTv9o?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-{% include alert alert='This week I will not hold my usual Thursday office hours. I will hold extra hours on Wednesday, January 24 from 10-12.' %}
+{% include alert alert='This week I will not hold my usual office hours. I will hold hours on Wednesday, January 24 from 10-12.' %}
 
-## Friday, January 26: Vivifying Media
+## Friday, January 26: Dead Media Workshop
+
+Prof. Cordell away; practicum students will supervise a work session for Dead Media projects.
+
+## Tuesday, January 30: Vivifying Media
 
 {% include alert warning='DUE: [Dead Media Poster Presentations](http://s18tot.ryancordell.org/assignments/deadmediaposter/) in class' %}
-
-## Tuesday, January 30: Containing Language
-
-{% include alert info='Lab #4: Making Paper' %}
-
-{% include alert alert='Meeting location TBA' %}
-
-Read:
-
-+ William A. Johnson, "Bookrolls as Media"
-+ Lionel Casson, "From Roll to Codex"
-+ Bonnie Mak, "Architectures of the Page"
-
-Browse:
-
-+ John Morph, ["The Page as Interface"](http://transliteracies.english.ucsb.edu/images/flash_projects/john-morph.html)
 
 
 -----
@@ -136,7 +124,7 @@ Browse:
 
 ## Friday, February 2: Book Tech
 
-{% include alert info='Lab 5: Thinking with the Codex' %}
+{% include alert info='Lab 4: Thinking with the Codex' %}
 
 {% include alert alert='Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)' %}
 
@@ -163,7 +151,7 @@ Read:
 
 ## Tuesday, February 6: Into the Matrix
 
-{% include alert info='Lab 6a: Preparing to Print' %}
+{% include alert info='Lab 5a: Preparing to Print' %}
 
 Read:
 
@@ -189,7 +177,7 @@ Optional, but quite useful:
 
 ## Friday, February 9: The Business of Print 
 
-{% include alert info='Lab 6b: Planning Your Print Project' %}
+{% include alert info='Lab 5b: Planning Your Print Project' %}
 
 Read: 
 
@@ -205,7 +193,7 @@ Watch (Optional)
 
 ## Tuesday, February 13: Typecasting
 
-{% include alert info='Lab 7a: Composing & Imposing' %}
+{% include alert info='Lab 6a: Composing & Imposing' %}
 
 Read:
 
@@ -221,7 +209,7 @@ Read:
 
 ## Friday, February 16: A Mechanical Mind
 
-{% include alert info='Lab 7b: Pulling the Press!' %}
+{% include alert info='Lab 6b: Pulling the Press!' %}
 
 Read: 
 
@@ -244,7 +232,7 @@ Read:
 
 ## Friday, February 23: Format
 
-{% include alert info='Lab 8: Deciphering Physical Books' %}
+{% include alert info='Lab 7: Deciphering Physical Books' %}
 
 Read:
 
@@ -285,7 +273,7 @@ Read:
 
 ## Tuesday, March 13: A Pocket Universe
 
-{% include alert info='Lab 9: Computational Reading I (words & ngrams)' %}
+{% include alert info='Lab 8: Computational Reading I (words & ngrams)' %}
 
 Read:
 
@@ -293,7 +281,7 @@ Read:
 
 ## Friday, March 16: Text as Data
 
-{% include alert info='Lab 10: Computational Reading II (sentiments & topics)' %}
+{% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
 
 Read:
 
@@ -302,7 +290,7 @@ Read:
 
 ## Tuesday, March 20: Machine Writing
 
-{% include alert info='Lab 11: Computational Writing (Building a Bot)' %}
+{% include alert info='Lab 10: Computational Writing (Building a Bot)' %}
 
 Read:
 
@@ -341,7 +329,7 @@ Read:
 
 ## Friday, March 30: The Book is Dead (Long Live the Book)
 
-{% include alert info='Lab 12a: Paper Circuits' %}
+{% include alert info='Lab 11a: Paper Circuits' %}
 
 Read:
 
@@ -357,7 +345,7 @@ Watch:
 
 ## Tuesday, April 3: Processing Words
 
-{% include alert info='Lab 12b: Paper Circuits' %}
+{% include alert info='Lab 11b: Paper Circuits' %}
 
 Read:
 
