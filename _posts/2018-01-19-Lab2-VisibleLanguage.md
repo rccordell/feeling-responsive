@@ -19,8 +19,6 @@ Museum of Fine Arts, Boston
 January 19, 2018
 
 
-# Lab 2: Visible Language
-
 ## Lab Introduction
 
 We begin our visit to the MFA by talking about the cuneiform tablet: the earliest known form of writing and one that help us think about what media mean in their infancy and how those meanings evolve. Cuneiform began as a medium for business, accounting, and even computing—recall "this is the procedure" from Gleick—and slowly *became* a medium for art and literature. Media are created for certain purposes, in other words, but are adopted and adapted for others.
