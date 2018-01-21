@@ -3,7 +3,7 @@ layout: page
 subheadline: "Lab #1"
 title: "Understanding Textual Structure with Markdown"
 categories:
-    - lab assignments
+    - lab-assignments
 comments: false
 show_meta: true
 header:
