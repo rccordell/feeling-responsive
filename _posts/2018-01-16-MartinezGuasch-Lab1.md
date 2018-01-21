@@ -9,7 +9,7 @@ show_meta: true
     
 ---
 
-#Lab 1 
+# Lab 1 
 
 >  As learned in the first Lab of Professor Cordell's Spring 2018, *Technology of Text* class, [Markdown](https://en.wikipedia.org/wiki/Markdown) is essentially a plain text system of encoding that directs the style of your writing. 
 
@@ -24,7 +24,7 @@ In regards to Markdown as the machine, my personal experience with this new medi
 3. **Technological Versatility:** Infallible across other platforms  
 
   
-##Human Involvement  
+## Human Involvement  
 
 Despite the lecture provided on some of the stylistic functions of Markdown, I found myself resorting to external online resources in order to expand my own knowledge about the program. Not only was I researching "codes" or "functions" to input successfully for stylistic purposes, but I was also researching the many ways Markdown can be used as a platform. 
 
@@ -32,19 +32,19 @@ This process in it of itself, made me realize how peculiar the amount of researc
 
 As a limitation perhaps becoming familiar with this new medium, subconsciously made me prioritize how I want to structure my writing rather than how I want to portray the message in my writing. 
 
-##Styling Autonomy  
+## Styling Autonomy  
 
 That being said, my curiosity allowed me to perceive my writing in a way that focuses on its content. Specifically, it allowed me to perceive my content in a way that is significantly shaped by how I want to structure my writing. 
 
 Throughout my learning experience, I learned by assisting the structure the content of my writing using specific codes, the the medium depicts my writing as something that is innate. 
 
-##Technological Versatility 
+## Technological Versatility 
 
 As a plain text system of encoding, one affordance of Markdown is that it is quite a simplistic medium. Another is that the medium is infallible across different platforms, which I encountered myself upon drafting this post. 
 
 When I had saved my draft into a folder and reopened the file to continue working on this lab, the file was opened in TexShop instead of MacDown because I had used the other medium in the past. Nonetheless, there was no issue in my original layout/content through this unintentional medium transfer. 
 
-###McLuhan & Liu
+### McLuhan & Liu
 
 In reference to McLuhan's article, my perception of Markdown has been formed by my experience learning the program, becoming familiar with its functions, and becoming confident with my ability to write with it. 
 

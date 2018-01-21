@@ -12,7 +12,7 @@ show_meta: true
      
 ![MacDown Logo](http://goo.gl/5HBRdm)
 
-#How Markdown affects my writing
+# How Markdown affects my writing
 
 After spending some time with MacDown, I quickly realized how different it is compared to other writing applications, lets say Microsoft Word. 
 
@@ -24,7 +24,7 @@ Please enjoy!
 
 ---
 
-##Writing with MacDown: my observations
+## Writing with MacDown: my observations
 
 Here is a list that has similarties with word
 
@@ -37,13 +37,13 @@ I think Liu would be interested in writing in the Markdown style because it comb
 
 ---
 
-###Affordances and Limitations 
+### Affordances and Limitations 
 
 As discussed in class, limitations and affordances are found in every medium, this is certainly the case with MacDown. 
 
 I'll begin with limitations.
 
-####Limitations
+#### Limitations
 
 Right off the bat a limitation of this application is the lack of user friendly toolbars that help you craft the document into something that looks pleasing or what you are looking for. While the syntax is something that you can Google -- this website is great: [MacDown Help](https://macdown.uranusjr.com/blog/macdown-help/) it does take some time to iron out any kinks and debug anything that looks off. 
 
@@ -51,7 +51,7 @@ Another limitation is that it might alienate certain social/age groups. This is 
 
 Personally, I think while MacDown certainly has its limitations but like with most applications, everything has a slight learning curve. As with all mediums there are affordances, which we will look at now.
 
-####Affordances
+#### Affordances
 
 An affordance is something that has a use or purpose that a thing can have. An in class example that we talked about was the cellphone. It allows the user to always be connected to the world, while some can argue this is a limitation, it is mainly seen as a positive trait. 
 
@@ -61,7 +61,7 @@ One last potential affordance writing in MacDown or other similar applications i
 
 ---
 
-###Conclusion
+### Conclusion
 
 Although this was a daunting task when first opening up the application and writing in Markdowns, it turned into a fun little challenge or project. Having the ability to see the finished product of a line of 'code' was something that felt satisfying. Although different than any other word applications, it became clear to me why people enjoy this style of text writing. Having the raw files of text make it easy to share and edit on another computer without worrying about compatibility issues. However for the time being, this most likely won't dethrone Microsoft Word as my preferred text editing software.
 
