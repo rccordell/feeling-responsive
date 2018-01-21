@@ -3,7 +3,7 @@ layout: page
 title: "Markdown"  
 author: "Nike Brannstrom"  
 categories:  
-    - fieldbook entries 
+    - fieldbook entries
 comments: false  
 show_meta: true
  

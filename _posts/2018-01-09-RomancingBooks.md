@@ -10,7 +10,6 @@ header:
   image_fullwidth: 4880254551_9a35151a0d_b-banner.jpg
   caption: Creative Commons licensed photograph, "Underwood," by Flickr user Canned Muffins
   caption_url: https://flic.kr/p/8rfzDR
-
 ---
 
 I've just handed out some books that I suspect you've never read before—though if you *have* read the book I handed to you, then let me know and we'll switch it out! Even though you've never read this book, however, I suspect you can learn a lot about it and its readers. 
