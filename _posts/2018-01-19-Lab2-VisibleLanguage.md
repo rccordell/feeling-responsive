@@ -3,7 +3,7 @@ layout: page
 subheadline: "Lab #2"
 title: "Visible Language"
 categories:
-    - lab assignments
+    - labs
 comments: false
 show_meta: true
 header:

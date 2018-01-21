@@ -4,7 +4,7 @@ title: "Writing in Markdown"
 subheadline: "affordances and limitations"
 author: "Alex Viehbacher"  
 categories:  
-    - fieldbook entries
+    - fieldbooks
 comments: false  
 show_meta: true
 ---
@@ -22,7 +22,7 @@ This lab posting will go into detail about my general observations about MacDown
 
 Please enjoy!
 
---
+---
 
 ##Writing with MacDown: my observations
 
@@ -35,7 +35,7 @@ And that's pretty much it. MacDown is such a unique writing experience in the se
 
 I think Liu would be interested in writing in the Markdown style because it combines the traditional way of writing with literal coding. Markdown relies heavily on coding to fully have control of the text and message the user is trying to convey. If anything, Markdown is helping to _preserve_ the old style of writing as it eliminates flashy text fonts, colors, and other heavily coded features in text writing these days.
 
---
+---
 
 ###Affordances and Limitations 
 
@@ -59,13 +59,14 @@ MacDown allows the user to really feel connected to their work, the words that a
 
 One last potential affordance writing in MacDown or other similar applications is that because its a plain text editor, anyone can access this. It allows for text to be shared regardless of location or whatever application it is opened with. Just like the cellphone, we are constantly connected with others.
 
---
+---
 
 ###Conclusion
 
 Although this was a daunting task when first opening up the application and writing in Markdowns, it turned into a fun little challenge or project. Having the ability to see the finished product of a line of 'code' was something that felt satisfying. Although different than any other word applications, it became clear to me why people enjoy this style of text writing. Having the raw files of text make it easy to share and edit on another computer without worrying about compatibility issues. However for the time being, this most likely won't dethrone Microsoft Word as my preferred text editing software.
 
---
+---
+
 Thanks for reading!
 
 

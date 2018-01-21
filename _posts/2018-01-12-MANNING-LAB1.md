@@ -3,7 +3,7 @@ layout: page
 title: "Lab 1"  
 author: "Manning"  
 categories:  
-    - fieldbook entries 
+    - fieldbooks
 comments: false  
 show_meta: true
 ---

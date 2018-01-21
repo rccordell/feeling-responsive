@@ -3,7 +3,7 @@ layout: page
 title: "Media Messages"
 subheadline: "Understanding McLuhan and Liu"
 categories:
-    - in-class assignments
+    - in-class
 comments: false
 show_meta: true
 header:

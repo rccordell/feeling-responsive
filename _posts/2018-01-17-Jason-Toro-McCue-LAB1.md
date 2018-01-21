@@ -3,7 +3,7 @@ layout: page
 title: McLuhan and Liu Reflection  
 author: Jason Toro-McCue  
 categories:  
-    - fieldbook entries
+    - fieldbooks
 comments: false  
 show_meta: true  
 header:
