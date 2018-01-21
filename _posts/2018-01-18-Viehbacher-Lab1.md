@@ -1,12 +1,14 @@
 ---
 layout: page  
-title: "Writing in Markdown affordances and limitations"
+title: "Writing in Markdown"
+subheadline: "affordances and limitations"
 author: "Alex Viehbacher"  
 categories:  
     - fieldbook entries
 comments: false  
 show_meta: true
 ---
+
      
 ![MacDown Logo](http://goo.gl/5HBRdm)
 
@@ -20,7 +22,7 @@ This lab posting will go into detail about my general observations about MacDown
 
 Please enjoy!
 
----
+--
 
 ##Writing with MacDown: my observations
 
