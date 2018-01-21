@@ -28,11 +28,15 @@
     url: "/assignments/unessay/"
 
 - title: Updates
-  url: "/updates/"
+  url: "/updates/archive/"
   side: right
   dropdown:
-  - title: "Updates Archive"
-    url: "/updates/archive/"
+  - title: "In-Class Assignments"
+    url: "/updates/in-class/"
+  - title: "Lab Assignments"
+    url: "/updates/labs/"
+  - title: "Student Fieldbooks"
+    url: "/updates/fieldbooks/"
 
 - title: Search
   url: "/search/"
