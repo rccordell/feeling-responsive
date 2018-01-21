@@ -1,15 +1,14 @@
 ---
 layout: page  
 title: "Writing in Markdown affordances and limitations"
-author: Alex Viehbacher  
+author: "Alex Viehbacher"  
 categories:  
     - fieldbook entries
 comments: false  
 show_meta: true
- 
 ---
      
-   ![MacDown Logo](http://goo.gl/5HBRdm)
+![MacDown Logo](http://goo.gl/5HBRdm)
 
 #How Markdown affects my writing
 
