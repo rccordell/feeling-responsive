@@ -1,14 +1,13 @@
- ---
- layout: page  
- title: "Writing in Markdown: affordances and limitations"
- author: Alex Viehbacher  
- categories:  
-     - Lab Number 1  
-     - LAB TOPIC: Understanding textual structure with MarkDown 
- comments: false  
- show_meta: true
+---
+layout: page  
+title: "Writing in Markdown: affordances and limitations"
+author: Alex Viehbacher  
+categories:  
+    - fieldbook entries
+comments: false  
+show_meta: true
  
- ---
+---
      
    ![MacDown Logo](http://goo.gl/5HBRdm)
 

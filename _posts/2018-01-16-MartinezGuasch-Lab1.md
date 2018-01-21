@@ -3,8 +3,7 @@ layout: page
 title: Lab 1 Title   
 author: Sofmister7   
 categories:  
-    - LAB 1  
-    - McLuhan & Liu  
+    - fieldbook entries
 comments: false  
 show_meta: true
     

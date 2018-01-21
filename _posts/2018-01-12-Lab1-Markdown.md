@@ -100,8 +100,7 @@ layout: page
 title: "Your TITLE HERE"  
 author: "Your NAME or PSEUDONYM"  
 categories:  
-    - LAB NUMBER  
-    - LAB TOPIC  
+    - fieldbook entries 
 comments: false  
 show_meta: true
 header:

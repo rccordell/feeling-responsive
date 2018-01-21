@@ -4,8 +4,7 @@ layout: page
 title: "Lab 1"  
 author: "Manning"  
 categories:  
-    - LAB 1  
-    - Understanding Textual Structure with Markdown  
+    - fieldbook entries 
 comments: false  
 show_meta: true
 ---
