@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: "Writing in Markdown: affordances and limitations"
+title: "Writing in Markdown affordances and limitations"
 author: Alex Viehbacher  
 categories:  
     - fieldbook entries
