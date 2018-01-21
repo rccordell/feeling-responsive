@@ -8,4 +8,4 @@ header:
 permalink: "/updates/fieldbooks/"
 ---
 
-{% include list-posts entries='10' offset='1' category='fieldbooks' %}
+{% include list-posts category='fieldbooks' %}

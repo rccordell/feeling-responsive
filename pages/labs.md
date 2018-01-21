@@ -8,4 +8,4 @@ header:
 permalink: "/updates/labs/"
 ---
 
-{% include list-posts entries='10' offset='1' category='labs' %}
+{% include list-posts category='labs' %}
