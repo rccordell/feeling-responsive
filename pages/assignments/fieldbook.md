@@ -43,8 +43,7 @@ Your fieldbook entries will vary quite a bit from lab to lab. However, there are
     title: "Your TITLE HERE"  
     author: "YOUR NAME or PSEUDONYM"  
     categories:  
-        - LAB NUMBER  
-        - LAB TOPIC  
+        - fieldbooks
     comments: false  
     show_meta: true
     header:

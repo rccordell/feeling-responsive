@@ -99,7 +99,7 @@ layout: page
 title: "Your TITLE HERE"  
 author: "Your NAME or PSEUDONYM"  
 categories:  
-    - fieldbook entries 
+    - fieldbooks
 comments: false  
 show_meta: true
 header:
