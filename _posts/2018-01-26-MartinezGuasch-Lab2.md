@@ -1,7 +1,7 @@
 ---
 layout: page  
-title: Textual Relationships in Ancient Egypt and Mesopotamia    
-author: Sofmister7   
+title: "Textual Relationships in Ancient Egypt and Mesopotamia"  
+author: "Sofmister7" 
 categories:  
     - fieldbooks   
 comments: false  

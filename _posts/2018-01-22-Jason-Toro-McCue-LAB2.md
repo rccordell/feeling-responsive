@@ -1,7 +1,7 @@
 ---
 layout: page  
-title: Ancient Texts, in Reflection  
-author: Jason Toro-McCue  
+title: "Ancient Texts, in Reflection"  
+author: "Jason Toro-McCue"  
 categories:  
     - fieldbooks
 comments: false  

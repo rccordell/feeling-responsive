@@ -43,7 +43,3 @@
 - title: Search
   url: "/search/"
   side: right
-  
-- title: Contact
-  url: "mailto:r.cordell@northeastern.edu"
-  side: right

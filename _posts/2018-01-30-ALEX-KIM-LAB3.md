@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: "Simulating the Scriptorium: Beowulf"  
+title: "Simulating the Scriptorium - Beowulf"  
 author: "Alex Kim"  
 categories:  
     - fieldbooks

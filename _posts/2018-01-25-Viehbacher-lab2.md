@@ -1,11 +1,12 @@
 ---
 layout: page  
-title: Lab 2: MFA  
-author: Alex Viehbacher  
+title: "Lab 2 MFA"  
+author: "Alex Viehbacher"
 categories:  
     - fieldbooks
 comments: false  
 show_meta: true
+
 ---
 
 # MFA artifact analysis 
