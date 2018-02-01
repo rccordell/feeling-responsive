@@ -35,10 +35,10 @@
     url: "/updates/in-class/"
   - title: "Lab Assignments"
     url: "/updates/labs/"
-  - title: "All Student Fieldbooks"
+  - title: "Student Fieldbooks"
     url: "/updates/fieldbooks/"
-  - title: "Model Student Fieldbooks"
-    url: "/updates/model-fieldbooks/"
+  - title: "Model Fieldbooks"
+    url: "/updates/models/"
 
 - title: Search
   url: "/search/"
