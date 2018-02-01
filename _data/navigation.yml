@@ -44,6 +44,6 @@
   url: "/search/"
   side: right
   
-# - title: Contact
-#  url: "mailto:r.cordell@neu.edu"
-#  side: right
+- title: Contact
+  url: "mailto:r.cordell@northeastern.edu"
+  side: right
