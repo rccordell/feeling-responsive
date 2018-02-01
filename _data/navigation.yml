@@ -38,7 +38,7 @@
   - title: "All Student Fieldbooks"
     url: "/updates/fieldbooks/"
   - title: "Model Fieldbooks"
-    url: "/updates/model-fieldbooks/"
+    url: "/updates/modelfieldbooks/"
 
 - title: Search
   url: "/search/"
