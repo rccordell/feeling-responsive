@@ -1,13 +1,13 @@
- ---
- layout: page  
- title: "Lab #3"  
- author: "Kimberly Dacorogna"  
- categories:  
-     - fieldbooks
- comments: false  
- show_meta: true
+---
+layout: page  
+title: "Lab #3"  
+author: "Kimberly Dacorogna"  
+categories:  
+    - fieldbooks
+comments: false  
+show_meta: true
  
- ---
+---
 
 #Lab 3 Beowulf
 

@@ -1,13 +1,13 @@
- ---
- layout: page  
- title: "Visible Language Lab 2"  
- author: "Alexander Pickering"  
- categories:  
-     - fieldbooks
- comments: false  
- show_meta: true
+---
+layout: page  
+title: "Visible Language Lab 2"  
+author: "Alexander Pickering"  
+categories:  
+    - fieldbooks
+comments: false  
+show_meta: true
  
- ---
+---
  
 # Visible Language Lab 2
 

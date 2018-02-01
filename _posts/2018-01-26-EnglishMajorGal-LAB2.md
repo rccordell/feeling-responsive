@@ -1,13 +1,13 @@
- ---
- layout: page  
- title: "Art as Communication"  
- author: "EnglishMajorGal"  
- categories:  
-     - fieldbooks
- comments: false  
- show_meta: true
+---
+layout: page  
+title: "Art as Communication"  
+author: "EnglishMajorGal"  
+categories:  
+    - fieldbooks
+comments: false  
+show_meta: true
 
- ---
+---
 
 # Art as Communication
 

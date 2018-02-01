@@ -1,13 +1,12 @@
- ---
- layout: page  
- title: "Text throughout the centuries"  
- author: "Samuel Kim"  
- categories:  
-     - fieldbooks  
- comments: false  
- show_meta: true  
-
- ---
+---
+layout: page  
+title: "Text throughout the centuries"  
+author: "Samuel Kim"  
+categories:  
+    - fieldbooks  
+comments: false  
+show_meta: true  
+---
 
 Lab / Fieldbook 2
 =======

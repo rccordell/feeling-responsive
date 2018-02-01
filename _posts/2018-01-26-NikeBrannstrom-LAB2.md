@@ -1,13 +1,12 @@
- ---
- layout: page  
- title: "Visible Language"  
- author: "Nike Brannstrom"  
- categories:  
-     - fieldbooks
- comments: false  
- show_meta: true
-
- ---
+---
+layout: page  
+title: "Visible Language"  
+author: "Nike Brannstrom"  
+categories:  
+    - fieldbooks
+comments: false  
+show_meta: true
+---
 
 # Lab 2: Visible Language 
 

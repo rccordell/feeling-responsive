@@ -1,5 +1,3 @@
-##Lost in Translation
-
 ---
 layout: page  
 title: "Lost in Translation"  
@@ -10,6 +8,8 @@ comments: false
 show_meta: true
 
 ---
+
+## Lost in Translation
 
 Our visit to the MFA and the Ancient Word Collections made me consider the various art I was observing as a medium of communication in which ideas and values could be transmitted without supplementary text. I then began to consider ancient plays from the Greek Empire and their ability to communicate certain messages without explicitly stating them. In other words, how did the playwrights convey their message to their audience through acting? What function did acting have in shaping the audiences’ understanding of the play? 
 
