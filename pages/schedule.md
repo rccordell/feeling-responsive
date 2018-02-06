@@ -183,6 +183,10 @@ Read:
 
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/)
 + Benjamin Franklin, *The Autobiography of Benjamin Franklin* (pg. 7-57, ending at "The affairs of the Revolution occasion'd the interruption.")
++ Herman Melville, ["The Tartarus of Maids"](https://victorianpersistence.files.wordpress.com/2016/06/the-paradise-of-bachelors-and-the-tartarus-of-maids.pdf)
+
+Read (optional): 
+
 + Lisa Gitelman, “Print Culture (Other Than Codex): Job Printing and Its Importance"
 
 Watch (Optional)
