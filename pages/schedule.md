@@ -260,10 +260,6 @@ Read:
 + James Gleick, *The Information*, chapters 4-6 (pg. 78-203)
 + Henry David Thoreau [on the telegraph](http://www.logicalpoetry.com/tech/thoreau.html)
 
-## Thursday, March 1
-
-{% include alert warning='DUE: Unessay 1 by 5pm' %}
-
 ## Friday, March 2: Circulation
 
 Read:
@@ -274,6 +270,10 @@ Read:
   + Read the poems and also look at the example newspaper printing linked at the top of each.
 
 ## Spring Break, March 4-10
+
+## Monday, March 12
+
+{% include alert warning='DUE: Unessay 1 by 5pm' %}
 
 ## Tuesday, March 13: A Pocket Universe
 
@@ -290,6 +290,10 @@ Read:
 Read:
 
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-207)
+
+Read (optional):
+
++ Mark C. Marino, ["Why We Must Read the Code: The Science Wars, Episode IV"](http://dhdebates.gc.cuny.edu/debates/text/64)
 
 
 ## Tuesday, March 20: Machine Writing
@@ -338,6 +342,7 @@ Read:
 Read:
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/)
++ Michael Harris, ["I Have Forgotten How to Read"](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 + Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
 
 Watch:
