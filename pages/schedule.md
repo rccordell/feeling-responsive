@@ -227,7 +227,7 @@ Read:
 
 Read:
 
-+ Frank Furedi, [“The Media’s First Moral Panic”](http://www.historytoday.com/frank-furedi/media%E2%80%99s-first-moral-panic)
++ Frank Furedi, [“The Media’s First Moral Panic”](http://www.frankfuredi.com/article/the_medias_first_moral_panic)
 + Anna North, [“When Novels Were Bad for You”](http://op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/?_r=0)
 + 19th-Century Commentaries on Novel Reading:
     + [“On Novel Reading”](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
