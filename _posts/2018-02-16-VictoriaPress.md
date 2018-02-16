@@ -14,4 +14,4 @@ header:
 
 ![The Victoria Press in the *Illustrated London News*](/images/IllustratedLondonNews-VictoriaPress.jpg)
 
-To begin class today, I would like you to work in pairs to read this image closely and in light of our other readings. How did the Victoria Press seek to challenge societal norms around print and labor during the period? In what ways did the operation seem to concede to societal expectations about women and labor? 
+To begin class today, I would like you to work in pairs to read this image closely and in light of our other readings. How did the Victoria Press seek to challenge societal norms around print and labor during the period? In what ways did the operation seem to concede to societal expectations about women and labor? What does the Victoria Press represent to the women who write about it, and why?
