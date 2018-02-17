@@ -44,30 +44,22 @@ One result of this is that the essay form, which should be extremely free and fl
 
 By contrast, the unessay is an assignment that attempts to undo the damage done by this approach to teaching writing. It works by throwing out all the rules you have learned about essay writing in the course of your primary, secondary, and post secondary education and asks you to focus instead solely on your intellectual interests and passions. In an unessay you choose your own topic, present it any way you please, and are evaluated on how compelling and effective you are. Here are the guidelines:
 
-1. You choose your own topic.  
-  
-  The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
-
-2. You can present it any way you please. 
-  
-  There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your explanation of the topic.  
-Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project—in fact, many of the most compelling unessays I've seen have been entirely analog.
-
-3. You are evaluated on how compelling and effective you are. 
-  
-  If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
+1. **You choose your own topic.** The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
+2. **You can present it any way you please.** There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your argument about the topic. Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project—in fact, many of the most compelling unessays I've seen have been entirely analog.
+3. **You are evaluated on how compelling and effective you are.** If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
       
-  An unessay is compelling when it shows some combination of the following:
-    
-  + it is as interesting as its topic and approach allows
-  + it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored)
-  + it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented)  
+An unessay is compelling when it shows some combination of the following:  
+
++ it is as interesting as its topic and approach allows
++ it is as complete as its topic and approach allows (it doesn’t leave the audience thinking that important points are being skipped over or ignored)
++ it is truthful (any questions, evidence, conclusions, or arguments you raise are honestly and accurately presented)  
++ it makes an argument, taking a particular point of view on the topic. A good unessay doesn't just describe, it *synthesizes* and *analyzes*.
       
-  In terms of presentation, an unessay is effective when it shows some combination of these attributes:
+In terms of presentation, an unessay is effective when it shows some combination of these attributes:
    
-  + it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
-  + it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
-  + it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
++ it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
++ it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
++ it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
 
 ### Why Unessays Are Not a Waste of Your Time
 
