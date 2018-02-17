@@ -57,9 +57,10 @@ An unessay is compelling when it shows some combination of the following:
       
 In terms of presentation, an unessay is effective when it shows some combination of these attributes:
    
-+ it is readable/watchable/listenable (i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation)
-+ it is appropriate (i.e. it uses a format and medium that suits its topic and approach)
-+ it is attractive (i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions).
++ it is readable/watchable/listenable: i.e. the production values are appropriately high and the audience is not distracted by avoidable lapses in presentation. 
++ it is well crafted: the assingment's invitation to write in different modes (using slang, etc.) does not mean the unessay needn't be copyedited. Deliberate stylistic choices can help convey your message, while needless errors will distract from your message.
++ it is appropriate: i.e. it uses a format and medium that suits its topic and approach.
++ it is attractive: i.e. it is presented in a way that leads the audience to trust the author and his or her arguments, examples, and conclusions.
 
 ### Why Unessays Are Not a Waste of Your Time
 
