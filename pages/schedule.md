@@ -342,7 +342,6 @@ Read:
 Read:
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/)
-+ Michael Harris, ["I Have Forgotten How to Read"](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 + Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
 
 Watch:
@@ -367,8 +366,7 @@ Read:
 Read: 
 
 + James Gleick, *The Information*, chapter 14-epilogue (pg. 373-426)
-+ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
-
++ Jorge Louis Borges, "The Library of Babel"
 
 ## Tuesday, April 10: Because Survival is Insufficient
 
@@ -384,9 +382,10 @@ Read:
 + Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
 
 
-## Tuesday, April 17: Book Futures
+## Tuesday, April 17: Textual Futures
 
-+ Jorge Louis Borges, "The Library of Babel"
++ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
+
 
 # Epilogue &#9755; &#9755; &#9755; &#9755; &#9755; 
 
@@ -396,4 +395,4 @@ Read:
 
 
 </div><!-- /.medium-8.columns -->
-</div><!-- /.row -->ß
+</div><!-- /.row -->
