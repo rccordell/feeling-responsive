@@ -342,7 +342,7 @@ Read:
 Read:
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/)
-+ Matthew Kirschenbaum, ["Books After the Death of the Book"](http://www.publicbooks.org/books-after-the-death-of-the-book/)
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649)
 
 Watch:
 
