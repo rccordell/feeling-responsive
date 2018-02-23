@@ -24,7 +24,7 @@ Your ToT fieldbook will constitute your central scholarly activity during the se
 
 ### Organizing Your Fieldbook
 
-Your fieldbook will be, essentially, a folder comprising at least 10 `.md` files, perhaps including supplemental files such as images referenced in the documents. We'll work on setting this up in our first code session, so you don't need to understand precisely what this means right now. Your fieldbooks will be posted to the [Class Updates](/updates/) section of the course website.
+Your fieldbook will be, essentially, a folder comprising at least 9 `.md` files, perhaps including supplemental files such as images referenced in the documents. We'll work on setting this up in our first code session, so you don't need to understand precisely what this means right now. Your fieldbooks will be posted to the [Class Updates](/updates/) section of the course website.
 
 ### Composition
 
@@ -58,7 +58,7 @@ If your file does not include these fields I will ask you to revise it before I 
 
 ### Flexibility
 
-ToT is a challenging and full class. The semester will include 12 labs. To give you some flexibility, you must complete a fieldbook entry for 10/12 labs over the semester. You may complete more than 10 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 10 entries, I will include only the strongest 10 in my grade book (meaning you can make up for a weaker submission). 
+ToT is a challenging and full class. The semester will include 12 labs. To give you some flexibility, you must complete a fieldbook entry for 9/12 labs over the semester. You may complete more than 9 entries over the semester, so long as you continue to meet the guidelines for timing and submission outlined below. If you complete more than 9 entries, I will include only the strongest 9 in my grade book (meaning you can make up for a weaker submission). 
 
 ### Pacing Your Field Work
 
