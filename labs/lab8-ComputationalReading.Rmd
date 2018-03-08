@@ -7,6 +7,14 @@ output: html_document
 
 # R Markdown
 
-This is an [R Markdown document](http://rmarkdown.rstudio.com/). R Markdown blends the markdown conventions you are learning in this class with a few customizations that let you embed snippets of code, as well as any outputs (e.g. graphs, maps) produced by that code into Markdown documents. This lets you weave together prose and code, so your readers can see the technical aspects of your work while reading about their interpretive significance. If you view this document on the course website you can see how the markdown syntax translates for presentation on the web. If you use Wordpress, you can enable Markdown for composing posts and pages by installing the Jetpack plugin.
+This is an [R Markdown document](http://rmarkdown.rstudio.com/) (RMD), hence the `.rmd` file extension. R Markdown blends the markdown conventions you are learning in this class with a few customizations that let you embed snippets of code, as well as any outputs (e.g. graphs, maps) produced by that code into Markdown documents. This lets you weave together prose and code, so your readers can see the technical aspects of your work while reading about their interpretive significance. If you [view this document on Github](https://github.com/rccordell/s18tot/blob/gh-pages/labs/lab8-ComputationalReading.Rmd) you can see how RMD translates for presentation on the web. If you use Wordpress, you can enable Markdown for composing posts and pages by installing the Jetpack plugin.
 
+# Running Code
 
+As an RMD file, however, this is more than a flat text document: it's a program that you can run in RStudio. R Markdown allows you to embed executable code into your writing. If you click the 'run' arrow in the gray box below, the code will run. You should see the results in your console window. Try that now.
+
+```{r}
+2+2
+5*32
+10^10
+```
