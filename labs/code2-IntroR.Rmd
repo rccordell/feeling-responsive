@@ -1,7 +1,7 @@
 ---
 title: "Intro to R"
 author: "Ryan Cordell"
-date: "1/23/2017"
+date: "2017-01-23"
 output: html_document
 ---
 
