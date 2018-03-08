@@ -1,0 +1,12 @@
+---
+title: "Lab 8 - Computational Reading"
+author: "Ryan Cordell"
+date: "3/8/2018"
+output: html_document
+---
+
+# R Markdown
+
+This is an [R Markdown document](http://rmarkdown.rstudio.com/). R Markdown blends the markdown conventions you are learning in this class with a few customizations that let you embed snippets of code, as well as any outputs (e.g. graphs, maps) produced by that code into Markdown documents. This lets you weave together prose and code, so your readers can see the technical aspects of your work while reading about their interpretive significance. If you view this document on the course website you can see how the markdown syntax translates for presentation on the web. If you use Wordpress, you can enable Markdown for composing posts and pages by installing the Jetpack plugin.
+
+

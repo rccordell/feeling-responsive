@@ -1,0 +1,418 @@
+---
+title: "Text as Data"
+author: "Ryan Cordell"
+date: "03/06/2017"
+output: html_document
+---
+# Lab 7a: A (Re)Introduction to R
+
+In this unit we are thinking about the relationships between the arts we associate with *literature*—reading and writing—and the arts we associate with *computation*—counting, building lists, and pattern finding. As our readings about Ada Lovelace perhaps begin to suggest, the line between texts and data is not so clear as we often believe, nor is the line between creativity and coding a solid one. 
+
+In this session, I would like to give you a taste of what becomes possible when we work with text as a kind of data: or, to echo some of the keywords in our Gleick reading, when writing and language are abstracted into *information* that can be understood as signals of underlying systems: e.g. semantic meaning, grammar, themes, topics. The code below will just begin to hint at possibilities: one of your tasks this semester will be to use the introductory kinds of analyses we will perform to imagine larger possibilities that could, with practice and persistence, become possible. 
+
+**Note**: The code below is liberally adapted (read: mostly stolen) from Julia Silge and David Robinson's [*Tidy Text Mining with R*](http://tidytextmining.com/), chapter 4, which would be a great resource to consult if you're unsure what's going on.
+
+## Text as Data
+
+So first, let's move from investigating one novella to a small "corpus," or collection of works. In this case, our corpus will be small(ish): the novels of Jane Austen. Enough people have wanted these novels for text analysis purposes that there is a R package with all the necessary data. Let's install that package and load it. Can you remember how to install a new package using the console?
+
+```{r}
+library(janeaustenr)
+library(tidyr)
+library(tidyverse)
+library(tidytext)
+library(mallet)
+library(plotly)
+library(stringr)
+library(tokenizers)
+```
+
+`janeaustenr` includes the words of all Jane Austen's novels, as well as some metadata (title, year of publication) for each. We will talk in broad strokes about what the code below is doing, but at this point I really just want to walk through some examples of where you might get later in the semester. It's okay if you don't understand precisely what's happening from this point on.
+
+```{r}
+
+austen <- as_data_frame(austen_books ()) %>%
+  filter(text != "") %>%
+  na.omit()
+
+book_words <- austen %>%
+  unnest_tokens(word, text) %>%
+  count(book, word, sort = TRUE)
+  
+total_words <- book_words %>%  
+  group_by(book) %>%
+  summarize(total=sum(n))
+
+book_words <- left_join(book_words, total_words)
+
+View(book_words)
+```
+
+Now that we've created a dataset of how often each word appears in Austen's novels, as well as the total number of words in each novel, we can see how common or rare particular words are in Austen's writing.
+
+```{r}
+
+book_words %>%
+  mutate(rarity = n / total)
+
+library(ggplot2)
+ggplot(book_words, aes(n/total, fill = book)) +
+  geom_histogram(bins = 50, show.legend = FALSE) +
+  xlim(NA, 0.0009) +
+  facet_wrap(~book, ncol = 2, scales = "free_y")
+```
+
+Those graphs are hard to read because of their long tails. In these texts, as with most, it turns out that the most common words are much, much more common than the least common words.There's a mathematical way to describe this: **Zipf's Law**: named for George Zipf, a twentieth-century American linguist. It says that words decrease logarithmically in frequency: the most common word is twice as common as the second most common word, three times as common as the third most common word, and so forth. That law results in a slope very like the one you see for word frequencies in Austen's novels.
+
+We perhaps don't want to look at all the words in Austen, but instead words that are important (read: relatively common) but not so common as to be semantically meaningless. Fortunately there's a fuction in `tidytext` that allows us to filter out "stop words":
+
+```{r}
+book_words <- book_words %>%
+  anti_join(stop_words)
+
+View(book_words)
+```
+
+If we arrange our words table to put the words with higher values at the top, we'll see those words that are, perhaps, characteristic of Austen's novels. What do you notice about them?
+
+```{r}
+book_words %>%
+  arrange(desc(n)) %>%
+  View()
+```
+
+
+We could also create a new column that calculates the ratio of word frequency to the overall words in the book:
+
+```{r}
+book_words <- ungroup(book_words) %>%
+  mutate(., ratio = n / total) %>%
+  arrange(desc(ratio))
+
+View(book_words)
+```
+
+
+We can plot these as well, either overall...
+
+```{r}
+plot_austen <- book_words %>%
+  arrange(desc(n)) %>%
+  mutate(word = factor(word, levels = rev(unique(word))))
+
+ggplot(plot_austen[1:20,], aes(word, n, fill = book)) +
+  geom_bar(stat = "identity") +
+  labs(x = NULL, y = "Frequent, Significant Words in Jane Austen's Novels") +
+  coord_flip()
+```
+
+Or grouped by book (you might have to expand your `Plots` pane to read these):
+
+```{r}
+plot_austen <- plot_austen %>% 
+  group_by(book) %>% 
+  top_n(30) 
+
+ggplot(plot_austen, aes(word, n, fill = book)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  labs(x = NULL, y = "Frequent, Significant Words in Jane Austen's Novels") +
+  facet_wrap(~book, ncol = 2, scales = "free") +
+  coord_flip()
+```
+
+Thus far we haven't even moved past simple word counts: the most basic kind of computational text analysis we can do in R. I hope this little peek begins to hint at how our own "wheelwork" of R studio might give allow us to look at writing in new ways. 
+
+## Building a Concordance
+
+```{r}
+
+austen_words <- austen %>%
+  unnest_tokens(word,text)
+
+```
+
+Our next experiment will create a concordance of Austen's novels. Of course, this process used to be the effort of entire scholarly careers, but we can do this by adding another column to the dataframe created above which is not just the first word, but the second. `dplyr` includes a `lag` and `lead` function that let you combine the next element. You specify by how many positions you want a vector to "lag" or "lead" another one. 
+
+Below we use `mutate()` again to add another new column, which we call `word2` and indicate that the value of that column should be the value of `word` led by 1.
+
+```{r}
+
+austen_words %>% mutate(word2 = lead(word,1)) %>% head
+
+```
+
+If we add multiple lead columns we can construct our concordance:
+
+```{r}
+
+austen_words <- austen_words %>% mutate(word2 = lead(word,1),word3=lead(word,2),word4=lead(word,3),word5=lead(word,4))
+
+```
+
+You can get context around a certain word as follows:
+
+```{r}
+
+austen_words %>% filter(word3=="she") %>%
+  View()
+
+```
+
+Feel free to change the word above and run the code again. What might building such corpora allow us to learn about a text, or a group of texts? 
+
+## Ngrams
+
+Words are one way to think about texts, but our concordance above suggests another: what are called in computer science Ngrams, or sequences of `n` words in length. You may have experimented with [the Google Books Ngrams Viewer](https://books.google.com/ngrams), which allows you to plot the proportional frequency of phrases over time from the Google Books corpus. 
+
+Once we begin working with books as textual data, we can choose our units of analysis on the fly. Above we used `unnest_tokens` to separate Jane Austen's novels into words, but here we separate into "4 grams," or sequences of 4 words. This allows us to plot the frequency of particular phrases across Austen's novels. Try out the code below to see what I mean (note: this code may take a few minutes to run). 
+
+```{r}
+book_ngrams <- austen %>% 
+  unnest_tokens(ngram,text,token = "ngrams", n = 4) %>%
+  group_by(book, ngram) %>% 
+  summarize(count = n()) %>%
+  arrange(desc(count))
+
+View(book_ngrams)
+```
+
+By "spreading" this data into two columns, we can more easily see which ngrams appear in each book.
+
+```{r}
+
+book_ngrams <- book_ngrams %>%
+  spread(book,count,fill=0)
+
+View(book_ngrams)
+
+```
+
+Feel free to change the ngram value above and rerun the code. How does changing the token unit change what you can learn?
+
+Now run the code below: what does it do? Can you begin to piece together how?
+
+```{r}
+row_sub <- apply(book_ngrams[2:7], 1, function(row) all(row !=0))
+shared_book_ngrams <- book_ngrams[row_sub,]  
+View(shared_book_ngrams)
+```
+
+In our subsequent coding sessions we'll delve into more advanced kinds of analyses. As we will learn about so many historical introductions of new media, the question is not whether computational analyses will replace more familiar forms of literary analysis, such as close reading. There is no future that's all text mining and no reading. The question is how these approaches might inform each other, whether through complementary work or even through tension.
+
+## Sentiment Analysis
+
+Next we're moving into more complex computational territory, though we're only dipping our toes. Sentiment analysis is a method for tracing the emotional valences of texts. It does this, at base, by assigning an emotional valence to each word in a given text from a menu of possibilities. There are different SA algorithms that construe these possibilities differently, and there's a robust debate in computer science and related fields about which of these best represent the realities of language that SA models. Like any field, there are competing theories and methods, from which we will experiment with a few. But you should not construe the analyses we will conduct below as the only possibilities within the sentiment analysis field. Remember that humans design, debate, and modify algorithms: they are expressions of human intentions and desire for understanding, not impersonal structures descended from on high. 
+
+Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the two hashtags (one on line 210 and the other on line 211) so that the line `filter(sentiment == "joy")` runs with the code. What has changed?
+
+```{r}
+
+nrcjoy <- get_sentiments("nrc") %>%
+  filter(sentiment == "joy")
+
+View(nrcjoy)
+
+```
+
+If we join the words in Austen with the "joy" words from the NRC set, we can see how often Austen uses these words in her fiction.
+
+```{r}
+austen_words %>%
+  semi_join(nrcjoy) %>%
+  count(word, sort = TRUE)
+
+```
+
+We could even ask which Austen novel is the most "joyful":
+
+```{r}
+
+austen_words %>% 
+  filter(word %in% nrcjoy$word) %>%
+  count(book, sort=TRUE) %>%
+  View()
+
+```
+
+In the following code, we will try to use sentiment analysis to plot an emotional trajectory for each of Austen's novels. This is pretty basic and there are more complex methods for doing this kind of work had we time. But generally, this is looking at every word's assigned emotion and assigning a general "positive" or "negative" valence to it. Then it's plotting the distribution of positivity vs. negativity through the course of each book and trying to create an overall graph that corresponds to the "highs" and "lows" of the plot. You probably want to expand these graphs. Are there any overall trends you notice? Any outliers?
+
+```{r}
+bing <- get_sentiments("bing")
+
+austen_sentiment <- austen_words %>%
+  inner_join(bing) %>%
+  count(book, index = as.numeric(rownames(.)) %/% 80, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative)
+
+ggplot(austen_sentiment, aes(index, sentiment, fill = book)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  facet_wrap(~book, ncol = 2, scales = "free_x")
+
+```
+
+
+## Topic Modeling
+
+For the last exercise today,we'll take on one of the more complex methods for modeling texts that has been extremely popular in recent digital humanities research: topic modeling (or, if you want to impress someone, *latent dirichlet allocation*, or LDA). Topic modeling is a technique that tends to work best on *longer* stretches of many *distinct* texts. In other words, we definitely need a corpus. Today we'll use Austen's relatively small corpus to experiment with LDA, but topic modeling works even better for modeling much larger collections of text.
+
+First, let's divide our books into chapters, which will give us a number of distinct but longer chunks of texts to model.
+
+```{r}
+
+austen_chunks <- austen %>%
+  group_by(book) %>%
+  summarise(text = paste(text, collapse=" "))
+
+austen_chunks <- chunk_text(austen_chunks$text, chunk_size = 1000, doc_id = austen_chunks$book) %>%
+  as_data_frame() %>%
+  gather(book, text)
+
+```
+
+Now we've got a dataframe organized by chunks of each book 1000 words long, with the text of each chunk stored in its own variable. Why do we do this? We assume that topics shift as a book progresses, and we want our model to be sensitive to these shifts. If we were really modeling a book for a more sustained analysis, we would likely experiment with what kinds of segmenting produce the most interesting results: chunks of n words length, as here, or some other divider like chapters. We could divide Austen into chapters with code like that below. If you want to use chapters for *your* topic model, you can replace the `austen_chunk` values in the code following with `austen_chapters`.
+
+```{r}
+austen_chapters <- austen %>%
+  group_by(book) %>%
+  mutate(chapter = cumsum(str_detect(text, regex("^chapter ", ignore_case = TRUE)))) %>%
+  ungroup() %>%
+  filter(chapter > 0) %>%
+  group_by(book, chapter) %>%
+  summarise(text = paste(text, collapse=" ")) %>%
+  unite(book_chapter, book, chapter)
+```
+
+Ok, on to topic modeling. 
+
+The code below will prepare and build the model. This will likely be the most opaque code we've run in our class. We will discuss some of the details today, while for others you may need to refer directly to Blei, Wallach and Mimno's papers about the topic modeling algorithm. The primary bits of this code that you might change as you move forward are few: likely only the input data (in this case `austen_chapters`) and `num.topics`, which determines...you guessed it...how many topics Mallet will sort the words in the corpus into.
+
+```{r}
+
+# Note: if you want to use chapters instead, replace the `austen_chunks$book` value in the parentheses below with `austen_chapters$book_chapter`. Everything else can stay the same.
+mallet.instances <- mallet.import(id.array = as.character(austen_chunks$book), 
+                                  text.array = as.character(austen_chunks$text), 
+                                  stoplist.file = "stopwords.txt")
+
+n.topics <- 20
+
+topic.model <- MalletLDA(num.topics=n.topics, alpha.sum = 1, beta = 0.1)
+topic.model$loadDocuments(mallet.instances)
+topic.model$setAlphaOptimization(20, 50)
+topic.model$train(500)
+topic.model$maximize(10)
+```
+
+Now you can look at the most common words at greater length.
+
+```{r}
+# What are the top words in topics 2, 3, and 4?
+topic.words <- mallet.topic.words(topic.model)
+
+mallet.top.words(topic.model, word.weights = topic.words[2,], num.top.words = 10)
+mallet.top.words(topic.model, word.weights = topic.words[3,], num.top.words = 10)
+mallet.top.words(topic.model, word.weights = topic.words[4,], num.top.words = 10)
+```
+
+And we can use the top words in the topic to make a human readable "label" for each one. Remember, though, that the label does not comprise the topic; it's just a subset.
+
+```{r}
+topic_labels <- rep("", n.topics)
+for (topic in 1:n.topics) {
+  topic_labels[topic] <- paste(
+    mallet.top.words(topic.model, topic.words[topic,], num.top.words=5)$words, collapse=" "
+)}
+
+```
+
+In the code below, we're going to gather some basic numbers about our derived topics, including the total vocabulary in the corpus, the frequency of words within each topic, and so forth. Can you spot where these kinds of things are being tallied? 
+
+Next, we're going to use the words in the corpus and the labels we created above to make more human readable table for browsing and visualizing the results of our model. What does the dataframe `wordFrame` show us, for instance?
+
+```{r}
+vocabulary <- topic.model$getVocabulary()
+word_freqs <- mallet.word.freqs(topic.model)
+
+wordFrame <- topic.words %>% as_data_frame()
+colnames(wordFrame) <- vocabulary
+rownames(wordFrame) <- topic_labels
+wordFrame <- wordFrame %>% rownames_to_column("tmodel")
+View(wordFrame)
+
+gatherWords <- wordFrame %>% gather(word, count, -tmodel) %>% filter(count!=0)
+
+```
+
+Now that we've generated these tables, we can begin to visualize aspects of our model. We can, for instance, see which topics particular words appear in, and to what proportion. 
+
+```{r}
+word2search <- "nice"
+
+gatherWords %>% filter(word == word2search) %>% 
+  ggplot() +
+  geom_bar(stat = "identity", aes(x=reorder(tmodel, count),y=count, fill=tmodel)) +
+  coord_flip() +
+  labs(x="Topic",y="Proportion") +
+  ggtitle(paste("Weight of the word", word2search, "in topics")) +
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=22, hjust=0.5)) 
+
+```
+
+We can also correlate topics with particular texts, which in our case means chunks of novels:
+
+```{r}
+
+#Gets a list of the documents and topics
+doc.topics <- mallet.doc.topics(topic.model, smoothed=T, normalized=T)
+rownames(doc.topics) = austen_chunks$book
+colnames(doc.topics) = topic_labels
+
+topicDF <- doc.topics %>%
+  as_data_frame() %>%
+  mutate(title = rownames(doc.topics)) %>%
+  gather(topic, proportion, -title)
+View(topicDF)
+
+# we could also arrange our table by title
+topicDF %>% 
+  arrange(title) %>%
+  View()
+
+```
+
+Now, there's something important to note before we go much farther. If you reran all of the topic modeling code above *without changing anything*, the topics derived would be similar, but *not identical* and *not listed in the same order*. This is because Mallet starts building the model using a random seed, meaning that it will not come to precisely the same conclusions in two subsequent analyses, even if all the parameters remain exactly the same. Let's talk a bit about the epistemelogical assumptions and consequences of that reality before we move on.
+
+### Visualizing Topic Models
+
+```{r}
+
+p = topicDF %>%
+  group_by(topic) %>%
+  mutate(id = 1:n()) %>% 
+  ggplot() + 
+  geom_tile(aes(x=id,y=topic,fill=proportion,text = paste("title:", title)))
+
+ggplotly(p)
+
+```
+
+```{r}
+
+t = ggplot(topicDF %>% 
+  separate(title, c("title","chunk"), sep="-")) + 
+  geom_point(aes(x=topic,y=proportion,text = paste("title:", title))) + 
+  coord_flip() + 
+  facet_grid(. ~ title)
+
+ggplotly(t)
+
+```
+
+Now, as we end our work, let's be sure to close our sessions on RStudio Server:
+```{r}
+q()
+```
+
+# Fieldbook Assignment
+
+Your fieldbook for coding session 7a-7b should be composed in RStudio, as a new RMD file (File --> New File --> R Markdown). You should include some of the code you found most interesting/enlightening/infuriating. You can copy and paste from the RMD files we used in class. Perhaps even try to tweak some of the code blocks to do new things. You can't break anything. If something goes wrong simply clear the environment (using that broom icon in the `Environment` pane) and start again. If something goes *really* wrong, re-download the files I provided and start again. Remember that when you run this code you're not making permanent changes to the actual data on the websites from which you imported it: you're bringing the data into the R environment where you can experiment and yes, even make mistakes. In your fieldbook, ruminate on the code and its relationship to some of the ideas in our readings, particularly the Gleick. Start thinking about how coding and writing could weave together. 
