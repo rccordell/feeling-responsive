@@ -1,7 +1,7 @@
 ---
 title: "Programming Literary Bots"
 author: "Ryan Cordell"
-date: "2018-03-12"
+date: "2017-03-20"
 output: html_document
 ---
 
@@ -181,7 +181,7 @@ The examples below all use this stanza from Edgar Allan Poe's "The Raven," which
 We begin with a function, also adapted slightly from [one written by Benjamin Schmidt](https://gist.github.com/bmschmidt/2c270ab7b373b6b4383a603afe828a48), that will help us call words of specific types from the Wordnik online dictionary. You will enter your own Wordnik key in the `my_wordnik_key` line below:
 
 ```{r}
-my_wordnik_key <- "d69c4ab1b7ce38d81d212b4f9990b90f6a60894c3b21f2ce8"
+my_wordnik_key <- "YOUR_API_KEY_GOES_HERE"
 
 #the line below will set the "default" part of speech for your calls to Wordnik, but you will be able to override this setting in later code.
 wordnik_pos = "adjective"
@@ -240,10 +240,10 @@ Now let's introduce Twitter into the mix by using its API to grab a random trend
 The code below establishes your Twitter credentials and then identifies trending topics based on a geographic location, which is established with the `woeid` variable. `2367105` is the WOEID for Boston, but you could [lookup another location](http://woeid.rosselliot.co.nz/) and use that code if you prefer. The code also filters out any trending topics that do not include hashtags, so that our poem will end with a hashtag, as all internet poems should.
 
 ```{r}
-setup_twitter_oauth("aSF8QehYl8xXeE9JOuEaaUuXk", 
-                    "Pf0JJ1na069RNuWXUtJ0AykQBg7qSFlNkU5idiPjb5BBVBPfF1", 
-                    '2871785039-DM9YqDX1pFNrrE7sgyFvVZxa0qmTxsUamAJc6Lv', 
-                    'TmlXr7aVqqTNTRyVmTAjCwLiwnXke7rYLv5cH5PbKj82O')
+setup_twitter_oauth("YOUR_CONSUMER_KEY_GOES_HERE", 
+                    "YOUR_CONSUMER_SECRET_GOES_HERE", 
+                    'YOUR_ACCESS_TOKEN_GOES_HERE', 
+                    'YOUR_ACCESS_SECRET_GOES_HERE')
 
 woeid <- "2367105"
 
@@ -259,14 +259,6 @@ The code below words almost identically to our first mad-lib poem, but instead o
 poem <- paste(c(poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition")," my ", poem_word("noun"), ", and ", poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition"), " my ", poem_word("noun"), '!" \nQuoth the Ravbot, "Never ', trend %>% sample_n(1), "!'"), collapse = "")
 
 cat(poem)
-```
-
-
-```{r}
-
-poem <- paste(c("Call me ", poem_word("proper-noun"), ". Some years ago, never mind how ", poem_word("preposition")), collapse = "")
-cat(poem)
-
 ```
 
 Then, so long as the resulting poem is less than 140 characters, we can post it to Twitter. The code below will check if the string `poem` is less than 140 characters and post if it is. If not, it will print a message asking you to rerun the poem generator. We could write this in a slightly more complicated way so the script would automatically rerun the poem generator until it created a poem short enough to tweet.

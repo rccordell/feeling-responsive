@@ -275,7 +275,13 @@ Read:
 
 {% include alert warning='DUE: Unessay 1 by 5pm' %}
 
-## Tuesday, March 13: A Pocket Universe
+## Tuesday, March 13: SNOW DAY<del>A Pocket Universe</del>
+
+<del>Read:
+
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (beginning-pg. 90)</del>
+
+## Friday, March 16: A Pocket Universe
 
 {% include alert info='Lab 8: Computational Reading I (words & ngrams)' %}
 
@@ -283,20 +289,26 @@ Read:
 
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (beginning-pg. 90)
 
-## Friday, March 16: Text as Data
+
+## Tuesday, March 20: Text as Data
 
 {% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
 
 Read:
 
-+ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-207)
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-257)
 
 Read (optional):
 
 + Mark C. Marino, ["Why We Must Read the Code: The Science Wars, Episode IV"](http://dhdebates.gc.cuny.edu/debates/text/64)
 
 
-## Tuesday, March 20: Machine Writing
+## Friday, March 23: Open Lab
+
+Professor Cordell away: **Open Lab** with practicum students to catch up with R programming labs
+
+
+## Tuesday, March 27: Machine Writing
 
 {% include alert info='Lab 10: Computational Writing (Building a Bot)' %}
 
@@ -305,16 +317,11 @@ Read:
 + Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/)
 + Annette Vee, "Understanding Computer Programming as Literacy"
 
-
-## Friday, March 23: Open Lab
-
-Professor Cordell away: **Open Lab** with practicum students to catch up with R programming labs
-
 -----
 
 # Chapter 4 &#9755; Memory
 
-## Tuesday, March 27: Obsolescence
+## Friday, March 30: Obsolescence
 
 Watch:
 
@@ -335,7 +342,7 @@ Read:
 + Kenneth Goldsmith, ["The Artful Accidents of Google Books"](http://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
 + [The Art of Google Books](http://theartofgooglebooks.tumblr.com/) 
 
-## Friday, March 30: The Book is Dead (Long Live the Book)
+## Tuesday, April 3: The Book is Dead (Long Live the Book) <del>Processing Words</del>
 
 {% include alert info='Lab 11a: Paper Circuits' %}
 
@@ -351,17 +358,15 @@ Watch:
 <iframe src="https://player.vimeo.com/video/47656204" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/47656204">Elektrobiblioteka / Electrolibrary</a> from <a href="https://vimeo.com/prtscr">printscreen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## Tuesday, April 3: Processing Words
-
-{% include alert info='Lab 11b: Paper Circuits' %}
-
-Read:
+<del>Read:
 
 + David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)
 + Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
-+ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)
++ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)</del>
 
 ## Friday, April 6: An Index of All Knowledge
+
+{% include alert info='Lab 11b: Paper Circuits' %}
 
 Read: 
 
