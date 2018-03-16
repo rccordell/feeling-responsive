@@ -22,7 +22,6 @@ As an RMD file, however, this is more than a flat text document: it's a program 
 As in most programming languages, you can do math in R: Charles Babbage would marvel at how easy it is!
 
 You create your own code blocks by typing the characters on the first and last line of the block above (using three backticks and including the {r} designator); the code you want to execute goes on the lines in between. Try creating a code block below with the line `print("Hello World!")` in it (do not type the backticks at the beginning and end of that phrase; they are the Markdown convention for separating out bits of code from regular text). 
-
 In addition to using the run buttons above, you can also run R code within a code block *one line* at a time by putting your cursor on the line and hitting `command-return` (on a Mac), `control-return`(in Windows or Linux). You can also execute a line of code not enclosed in an executable code block by highlighting the entire line or lines of code and pressing `command-return` or `control-return`. When you work with regular R documents—without the markdown—this is the primary way you run code. Try running the line of code just below by highlighting the entire line and hitting `command-return`/`control-return`:
 
 plot(1:100,(1:100)^2)

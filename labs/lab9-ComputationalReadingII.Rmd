@@ -30,7 +30,9 @@ For today's lab we'll work again with project Gutenberg. Instead of the works of
 
 # write.csv(books, file = "data/scifi.csv")
 
-books <- read.csv("data/scifi.csv", stringsAsFactors=FALSE)[,2:4]
+books <- read.csv("data/scifi.csv", stringsAsFactors=FALSE) %>%
+  group_by(title, author) %>%
+  summarise(text = paste(text, collapse = " "))
   
 books_words <- books %>%
   unnest_tokens(word, text) 
@@ -40,7 +42,7 @@ books_words <- books %>%
 
 Next we're moving into more complex computational territory, though we're only dipping our toes. Sentiment analysis is a method for tracing the emotional valences of texts. It does this, at base, by assigning an emotional valence to each word in a given text from a menu of possibilities. There are different SA algorithms that construe these possibilities differently, and there's a robust debate in computer science and related fields about which of these best represent the realities of language that SA models. Like any field, there are competing theories and methods, from which we will experiment with a few. But you should not construe the analyses we will conduct below as the only possibilities within the sentiment analysis field. Remember that humans design, debate, and modify algorithms: they are expressions of human intentions and desire for understanding, not impersonal structures descended from on high. 
 
-Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the two hashtags (one on line 210 and the other on line 211) so that the line `filter(sentiment == "anticipation")` runs with the code. What has changed?
+Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the two hashtags (one on line 210 and the other on line 211) so that the line `filter(sentiment == "anger")` runs with the code. What has changed?
 
 ```{r}
 sentiments <- get_sentiments("nrc") # %>% filter(sentiment == "anger")
@@ -65,24 +67,30 @@ books_words %>%
   View()
 ```
 
-In fact, let's create a new variable to store the 9 "angriest" books in our set to analyze more:
+In fact, let's create a new variable to store the 9 "angriest" books in our set to analyze further:
 
 ```{r}
 angry_books <- books_words %>% 
   filter(word %in% sentiments$word) %>%
   count(title, author, sort=TRUE) %>%
-  slice(1:12)
+  slice(1:9)
 ```
 
+Okay, in the box below add code to change the variable `sentiment` to focus on something other than anger. Then create a variable called `YOURSENTIMENT_books` (where `YOURSENTIMENT` is whatever sentiment you chose) that lists the 9 books that draw most heavily from words associated with your chosen sentiment.
+
+```{r}
+
+
+
+```
 
 In the following code, we will try to use sentiment analysis to plot an emotional trajectory for each of the novels in our data set. This is pretty basic and there are more complex methods for doing this kind of work had we time. But generally, this is looking at every word's assigned emotion and assigning a general "positive" or "negative" valence to it. Then it's plotting the distribution of positivity vs. negativity through the course of each book and trying to create an overall graph that corresponds to the "highs" and "lows" of the plot. You probably want to expand these graphs. Are there any overall trends you notice? Any outliers?
 
 ```{r}
-bing <- get_sentiments("bing")
 
 books_sentiment <- books_words %>%
-  inner_join(bing) %>%
-  count(title, author, index = as.numeric(rownames(.)) %/% 40, sentiment) %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(title, author, index = as.numeric(rownames(.)) %/% 80, sentiment) %>%
   spread(sentiment, n, fill = 0) %>%
   mutate(sentiment = positive - negative)
 
