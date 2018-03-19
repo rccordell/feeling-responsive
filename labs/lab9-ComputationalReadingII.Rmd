@@ -14,26 +14,42 @@ library(tidyverse)
 library(tidytext)
 library(gutenbergr)
 library(stringr)
-library(tokenizers)
+library(data.table)
 library(mallet)
 ```
 
-For today's lab we'll work again with project Gutenberg. Instead of the works of Jane Austen, however, let's import a slightly larger corpus: all of the science fiction books in the collection. I've put some code you could use to import those books from Project Gutenberg below, but it takes awhile so I've commented the code out. You can adapt it to import collections from [Gutenberg's various collections](https://www.gutenberg.org/wiki/Category:Bookshelf), which are called "Bookshelves." For today's lab, however, I've put the data into a CSV file, which you can import using the code that is not commented out. It still might take a minute or so to import--there are lots of books here!
+For today's lab we'll work again with project Gutenberg. Instead of the works of Jane Austen, however, let's import a slightly larger corpus: 150 of the longest science fiction books in the collection. I want to import a bigger corpus to give you a better sense of what kinds of questions scholars typically employ computational methods to answer. If you want to know about Jane Austen's vocabulary, you're probably best off reading Austen closely. If you're interested in trends across hundreds, thousands, or tens of thousands of books (or magazines or newspapers or websites), however, then you might need some help from computational methods. 
+
+I've put some code you could use to import those books from Project Gutenberg below, but it takes awhile so I've commented the code out. You can adapt it to import collections from [Gutenberg's various collections](https://www.gutenberg.org/wiki/Category:Bookshelf), which are called "Bookshelves." If you're curious, you could experiment later with importing other genres from other bookshelves. And though we'll be moving on to new code today, you could also copy and paste any of the code from Lab 8 (word counts, ngrams) and experiment with those analyses using these larger corpora.
+
+For today's lab, however, I've put the data into a CSV file, which you can import using the code that is not commented out. It still might take a minute or so to import--there are lots of books here!
 
 ```{r}
 # booklist <- gutenberg_works(gutenberg_bookshelf == "Science Fiction", languages = "en", only_text = TRUE)
-
 # books <- gutenberg_download(c(booklist$gutenberg_id), meta_fields = c("title","author"), strip = TRUE) %>%
-#  select(text, title, author) %>%
-#  filter(text != "") %>%
-#  na.omit()
+#   group_by(title, author) %>%
+#   summarise(text = paste(text, collapse = " ")) %>%
+#   ungroup() %>%
+#   select(text, title, author)
 
 # write.csv(books, file = "data/scifi.csv")
 
-books <- read.csv("data/scifi.csv", stringsAsFactors=FALSE) %>%
-  group_by(title, author) %>%
-  summarise(text = paste(text, collapse = " "))
-  
+# books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1") %>%
+#  group_by(title, author) %>%
+#  summarise(text = paste(text, collapse = " ")) %>%
+#  mutate(characters = nchar(text)) %>% 
+#  arrange(desc(characters)) %>%
+#  ungroup() %>%
+#  slice(1:150) %>%
+#  select(text, title, author)
+```
+
+For today's lab, however, I've put the data into a CSV file, which you can import using the code that is not commented out. It still might take a minute or so to import--there are lots of books here!
+
+```{r}
+books <- fread("data/scifi.csv", stringsAsFactors=FALSE, encoding="Latin-1") %>%
+  select(text, title, author)
+
 books_words <- books %>%
   unnest_tokens(word, text) 
 ```
@@ -42,7 +58,7 @@ books_words <- books %>%
 
 Next we're moving into more complex computational territory, though we're only dipping our toes. Sentiment analysis is a method for tracing the emotional valences of texts. It does this, at base, by assigning an emotional valence to each word in a given text from a menu of possibilities. There are different SA algorithms that construe these possibilities differently, and there's a robust debate in computer science and related fields about which of these best represent the realities of language that SA models. Like any field, there are competing theories and methods, from which we will experiment with a few. But you should not construe the analyses we will conduct below as the only possibilities within the sentiment analysis field. Remember that humans design, debate, and modify algorithms: they are expressions of human intentions and desire for understanding, not impersonal structures descended from on high. 
 
-Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the two hashtags (one on line 210 and the other on line 211) so that the line `filter(sentiment == "anger")` runs with the code. What has changed?
+Okay, with that preface let's experiment a bit. Run the code below first with the `filter` line commented out. The resulting table might give you a better idea of the building blocks for sentiment analysis. Once you do that, remove the hashtag before `%>%` so that `filter(sentiment == "anger")` runs with the code. What has changed?
 
 ```{r}
 sentiments <- get_sentiments("nrc") # %>% filter(sentiment == "anger")
@@ -87,7 +103,6 @@ Okay, in the box below add code to change the variable `sentiment` to focus on s
 In the following code, we will try to use sentiment analysis to plot an emotional trajectory for each of the novels in our data set. This is pretty basic and there are more complex methods for doing this kind of work had we time. But generally, this is looking at every word's assigned emotion and assigning a general "positive" or "negative" valence to it. Then it's plotting the distribution of positivity vs. negativity through the course of each book and trying to create an overall graph that corresponds to the "highs" and "lows" of the plot. You probably want to expand these graphs. Are there any overall trends you notice? Any outliers?
 
 ```{r}
-
 books_sentiment <- books_words %>%
   inner_join(get_sentiments("bing")) %>%
   count(title, author, index = as.numeric(rownames(.)) %/% 80, sentiment) %>%
@@ -104,19 +119,6 @@ ggplot(books_sentiment %>% filter(title %in% angry_books$title),
 
 For the last exercise today,we'll take on one of the more complex methods for modeling texts that has been extremely popular in recent digital humanities research: topic modeling (or, if you want to impress someone, *latent dirichlet allocation*, or LDA). Topic modeling is a technique that tends to work best on *longer* stretches of many *distinct* texts. In other words, we definitely need a corpus. Today we'll use our relatively small corpus of science fiction novels to experiment with LDA, but topic modeling works even better for modeling much larger collections of text.
 
-First, let's divide our books into chapters, which will give us a number of distinct but chunks of texts to model.
-
-```{r}
-books_chapters <- books %>%
-  group_by(title) %>%
-  mutate(chapter = cumsum(str_detect(text, regex("^chapter ", ignore_case = TRUE)))) %>%
-  ungroup() %>%
-  filter(chapter > 0) %>%
-  group_by(title, chapter) %>%
-  summarise(text = paste(text, collapse=" ")) %>%
-  unite(book_chapter, title, chapter)
-```
-
 Ok, on to topic modeling. 
 
 ## Preparing the model
@@ -124,9 +126,8 @@ Ok, on to topic modeling.
 The code below will prepare and build the model. This will likely be the most opaque code we've run in our class. We will discuss some of the details today, while for others you may need to refer directly to Blei, Wallach and Mimno's papers about the topic modeling algorithm. The primary bits of this code that you might change as you move forward are few: likely only the input data (in this case `books_chapters`) and `num.topics`, which determines...you guessed it...how many topics Mallet will sort the words in the corpus into.
 
 ```{r}
-
-mallet.instances <- mallet.import(id.array = as.character(books_chapters$book_chapter), 
-                                  text.array = as.character(books_chapters$text), 
+mallet.instances <- mallet.import(id.array = as.character(books$title), 
+                                  text.array = as.character(books$text), 
                                   stoplist.file = "data/stopwords.txt")
 
 n.topics <- 20
@@ -166,7 +167,7 @@ for (topic in 1:n.topics) {
 
 In the code below, we're going to gather some basic numbers about our derived topics, including the total vocabulary in the corpus, the frequency of words within each topic, and so forth. Can you spot where these kinds of things are being tallied? 
 
-Next, we're going to use the words in the corpus and the labels we created above to make more human readable table for browsing and visualizing the results of our model. What does the dataframe `wordFrame` show us, for instance?
+Next, we're going to use the words in the corpus and the labels we created above to make more human readable table for browsing and visualizing the results of our model. 
 
 ```{r}
 vocabulary <- topic.model$getVocabulary()
@@ -176,16 +177,16 @@ wordFrame <- topic.words %>% as_data_frame()
 colnames(wordFrame) <- vocabulary
 rownames(wordFrame) <- topic_labels
 wordFrame <- wordFrame %>% rownames_to_column("tmodel")
-View(wordFrame)
 
 gatherWords <- wordFrame %>% gather(word, count, -tmodel) %>% filter(count!=0)
 
+View(gatherWords)
 ```
 
 Now that we've generated these tables, we can begin to visualize aspects of our model. We can, for instance, see which topics particular words appear in, and to what proportion. 
 
 ```{r}
-word2search <- "nice"
+word2search <- "rocket"
 
 gatherWords %>% filter(word == word2search) %>% 
   ggplot() +
@@ -194,16 +195,14 @@ gatherWords %>% filter(word == word2search) %>%
   labs(x="Topic",y="Proportion") +
   ggtitle(paste("Weight of the word", word2search, "in topics")) +
   theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=22, hjust=0.5)) 
-
 ```
 
 We can also correlate topics with particular texts, which in our case means chunks of novels:
 
 ```{r}
-
 #Gets a list of the documents and topics
 doc.topics <- mallet.doc.topics(topic.model, smoothed=T, normalized=T)
-rownames(doc.topics) = austen_chunks$book
+rownames(doc.topics) = books$title
 colnames(doc.topics) = topic_labels
 
 topicDF <- doc.topics %>%
@@ -216,7 +215,6 @@ View(topicDF)
 topicDF %>% 
   arrange(title) %>%
   View()
-
 ```
 
 Now, there's something important to note before we go much farther. If you reran all of the topic modeling code above *without changing anything*, the topics derived would be similar, but *not identical* and *not listed in the same order*. This is because Mallet starts building the model using a random seed, meaning that it will not come to precisely the same conclusions in two subsequent analyses, even if all the parameters remain exactly the same. Let's talk a bit about the epistemelogical assumptions and consequences of that reality before we move on.
@@ -224,27 +222,15 @@ Now, there's something important to note before we go much farther. If you reran
 ### Visualizing Topic Models
 
 ```{r}
+library(plotly)
 
-p = topicDF %>%
+p <- topicDF %>%
   group_by(topic) %>%
   mutate(id = 1:n()) %>% 
   ggplot() + 
-  geom_tile(aes(x=id,y=topic,fill=proportion,text = paste("title:", title)))
+  geom_tile(aes(x=id,y=topic,fill=proportion))
 
 ggplotly(p)
-
-```
-
-```{r}
-
-t = ggplot(topicDF %>% 
-  separate(title, c("title","chunk"), sep="-")) + 
-  geom_point(aes(x=topic,y=proportion,text = paste("title:", title))) + 
-  coord_flip() + 
-  facet_grid(. ~ title)
-
-ggplotly(t)
-
 ```
 
 Now, as we end our work, let's be sure to close our sessions on RStudio Server:
