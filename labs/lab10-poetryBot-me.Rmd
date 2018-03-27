@@ -194,7 +194,7 @@ The examples below all use this stanza from Edgar Allan Poe's "The Raven," which
 We begin with a function, also adapted slightly from [one written by Benjamin Schmidt](https://gist.github.com/bmschmidt/2c270ab7b373b6b4383a603afe828a48), that will help us call words of specific types from the Wordnik online dictionary. You will enter your own Wordnik key in the `my_wordnik_key` line below:
 
 ```{r}
-my_wordnik_key <- "YOUR_API_KEY_GOES_HERE"
+my_wordnik_key <- "d69c4ab1b7ce38d81d212b4f9990b90f6a60894c3b21f2ce8"
 
 #the line below will set the "default" part of speech for your calls to Wordnik, but you will be able to override this setting in later code.
 wordnik_pos = "adjective"
@@ -236,8 +236,7 @@ poem_word <- function(x) {
 poem_word("interjection")
 ```
 
-
-Now we will use the `poem_word()` function to call words into specific places in our poem and *concatenate*, or combine, them with the parts of the poem we are leaving as originally written. Take a look at how this concatenation is structured below. When concatenating character strings, R combines precisely the strings it is given, meaning you must explicitly add spaces to the strings (within the quotation marks) where you want them to appear in the final output. To see the output of this code, run the line `cat(poem)`; the mad-lib poem will appear in your console.
+Now we will use the `poem_word()` function to call words into specific places in our poem and *concatenate*, or combine, them with the parts of the poem we are leaving as originally written. Take a look at how this concatenation is structured below. When concatenating character strings, R combines precisely the strings it is given, meaning you must explicitly add spaces to the strings (within the quotation marks) where you want them to appear in the final output. Alternatively, you could change the `collapse` argument to `collapse = " "` but this might add spaces where you don't want them. To see the output of this code, run the line `cat(poem)`; the mad-lib poem will appear in your console.
 
 ```{r}
 poem <- paste(c(poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition")," my ", poem_word("noun"), ", and ", poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition"), " my ", poem_word("noun"), "! \nQuoth the Ravbot, '", poem_word("interjection"), "!'"), collapse = "")
@@ -254,9 +253,9 @@ The code below establishes your Twitter credentials and then identifies trending
 
 ```{r}
 twitter_token <- create_token(
-  app = "YOUR TWITTER APP NAME",
-  consumer_key = "YOUR CONSUMER KEY",
-  consumer_secret = "YOUR CONSUMER SECRET")
+  app = "Rav_Bot",
+  consumer_key = "4bOSrI16hLUcO17CT6zjGJrMF",
+  consumer_secret = "M5wyn3oG4vf9ebwuET9Dtv4pPwPLKgs5ftQTpPz25Mx8OUGsI8")
 
 woeid <- "2367105"
 
@@ -297,13 +296,3 @@ Now, as we end our work, let's be sure to close our sessions on RStudio Server:
 ```{r}
 q()
 ```
-
-# Fieldbook Prompt
-
-For your lab 10 fieldbook, you should adapt the ideas above to create your own literary twitterbots (I'll leave it to you to intrepret "literary" as you please). Experiment with the form of your bot; have fun. In your fieldbook entry, you should reflect on this process of creation that blends the computational and the creative. The "poems" we created are simple substitution exercises, but we could easily imagine more complex programs that use ideas from collage, patische, and other modes of assemblage to create written works. 
-
-In [“Writing as Programming as Writing”](http://geoffreyrockwell.com/publications/u4.4.pdf)—which, unfortunately, we were not able to read for this class—Geoffrey Rockwell connects the question of whether coding is writing to Socrates’ dialogue with Phaedrus about the virtues and vices of writing itself:
-
-> we have a question which is suitable for this audience—a question which concerns code and whether code is in fact a form of textuality for which the rich tradition of the humanities around reading, dialectic, rhetoric, and reasoning are appropriate arts. Surely that is relevant to computing in the humanities—a discipline around the intersection of code and text—and, if we can determine the nature of code and text, we might then return to the issue of programming as writing. We could even agree, like Socrates and Phaedrus, that tomorrow we are going to reproach programmers who, like speech-writers, have forgotten wisdom for codes.
-
-After all we’ve read about coding in the past few weeks, where do you stand on this question? What relationship(s) do you see between coding and the activities we associate with humanistic study: writing, reading, discussion, and debate? What about between coding and artistic endeavor? Did engaging with more creative applications of coding toward generating art objects like our mad lib poetry (admittedly quite a simple kind of creative coding) change your perception of code? Do you see possibilities for creativity or critique in computation that you did not before? Is a poetry bot writing or creating or doing something else entirely? Beyond simple mad-libs style bots, what potential do you see for computer programs to contribute to culture?
