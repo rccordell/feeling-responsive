@@ -292,8 +292,6 @@ Read:
 
 ## Tuesday, March 20: Text as Data
 
-{% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
-
 Read:
 
 + Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage*](http://amzn.to/2iPqWRY) (pg. 147-257)
@@ -310,7 +308,7 @@ Professor Cordell away: **Open Lab** with practicum students to catch up with R 
 
 ## Tuesday, March 27: Machine Writing
 
-{% include alert info='Lab 10: Computational Writing (Building a Bot)' %}
+{% include alert info='Lab 9: Computational Reading II (sentiments & topics)' %}
 
 Read:
 
@@ -322,6 +320,8 @@ Read:
 # Chapter 4 &#9755; Memory
 
 ## Friday, March 30: Obsolescence
+
+{% include alert info='Lab 10: Computational Writing (Building a Bot)' %}
 
 Watch:
 
@@ -336,15 +336,29 @@ Read:
   + ["Ghosts in The Reels"](https://apps.sciencefriday.com/data/ghosts.html)
   + ["The Librarians Saving the Internet"](https://apps.sciencefriday.com/data/librarians.html)
   + ["Data Reawakening"](https://apps.sciencefriday.com/data/reawakening.html)
+ 
+
+## Tuesday, April 3:  An Index of All Knowledge <del>Processing Words</del>
+
+Read: 
+
++ James Gleick, *The Information*, chapter 14-epilogue (pg. 373-426)
++ Jorge Louis Borges, "The Library of Babel"
 
 (Optional) Read/Browse:
 
 + Kenneth Goldsmith, ["The Artful Accidents of Google Books"](http://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
-+ [The Art of Google Books](http://theartofgooglebooks.tumblr.com/) 
++ [The Art of Google Books](http://theartofgooglebooks.tumblr.com/)
 
-## Tuesday, April 3: The Book is Dead (Long Live the Book) <del>Processing Words</del>
+<del>Read:</del>
 
-{% include alert info='Lab 11a: Paper Circuits' %}
+<del>+ David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)
++ Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
++ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)</del>
+
+## Friday, April 6: The Book is Dead (Long Live the Book)
+
+{% include alert info='Lab 11: Electronic Books' %}
 
 Read:
 
@@ -358,20 +372,6 @@ Watch:
 <iframe src="https://player.vimeo.com/video/47656204" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/47656204">Elektrobiblioteka / Electrolibrary</a> from <a href="https://vimeo.com/prtscr">printscreen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<del>Read:
-
-+ David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)
-+ Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
-+ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)</del>
-
-## Friday, April 6: An Index of All Knowledge
-
-{% include alert info='Lab 11b: Paper Circuits' %}
-
-Read: 
-
-+ James Gleick, *The Information*, chapter 14-epilogue (pg. 373-426)
-+ Jorge Louis Borges, "The Library of Babel"
 
 ## Tuesday, April 10: Because Survival is Insufficient
 
