@@ -291,7 +291,7 @@ book_ngrams <- austen %>%
 
 View(book_ngrams)
 ```
-
+  
 By "spreading" this data into two columns, we can more easily see which ngrams appear in each book.
 
 ```{r}

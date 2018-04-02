@@ -352,9 +352,9 @@ Read:
 
 <del>Read:</del>
 
-<del>+ David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)
-+ Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
-+ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)</del>
+<del>+ David M. Berry and Jan Rybicki, ["The Author Signal, Nietzsche's Typewriter and Medium Theory"](https://stunlaw.blogspot.com/2012/12/the-author-signal-nietzsches-typewriter.html)</del>
+<del>+ Matthew Kirschenbaum, ["This Faithful Machine"](https://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)</del>
+<del>+ ——, ["Technology changes how authors write, but the big impact isn’t on their style"](https://theconversation.com/technology-changes-how-authors-write-but-the-big-impact-isnt-on-their-style-61955)</del>
 
 ## Friday, April 6: The Book is Dead (Long Live the Book)
 
@@ -377,19 +377,23 @@ Watch:
 
 Read:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to the end of section 4, page 164)
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to TBA)
 
 
 ## Friday, April 13: The Museum of Civilization
 
 Read:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to TBA)
 
 
 ## Tuesday, April 17: Textual Futures
 
-+ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
+Read:
+
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
+
+<del>+ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)</del>
 
 
 # Epilogue &#9755; &#9755; &#9755; &#9755; &#9755; 

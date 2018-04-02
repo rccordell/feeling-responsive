@@ -19,7 +19,7 @@ library(tidytext)
 library(tidyverse)
 library(gutenbergr)
 library(tokenizers)
-library(rtweet)
+library(twitteR)
 library(birdnik)
 ```
 
@@ -248,36 +248,37 @@ cat(poem)
 
 ### Tweet, tweet
 
-Now let's introduce Twitter into the mix by using its API to grab a random trending hashtag and insert it into our poem. You will need the consumer key and consumer secret, access token, and access secret from the Twitter application you set up at <https://apps.twitter.com>. For the code below to work, in the settings of your application (click the "settings tab" at the URL above), the `Callback URL` should be set to `http://127.0.0.1:1410`.  
+Now let's introduce Twitter into the mix by using its API to grab a random trending hashtag and insert it into our poem. You will need the consumer key, consumer secret, access token, and access secret from the Twitter application you set up in order to use this code. 
 
 The code below establishes your Twitter credentials and then identifies trending topics based on a geographic location, which is established with the `woeid` variable. `2367105` is the WOEID for Boston, but you could [lookup another location](http://woeid.rosselliot.co.nz/) and use that code if you prefer. The code also filters out any trending topics that do not include hashtags, so that our poem will end with a hashtag, as all internet poems should.
 
 ```{r}
-twitter_token <- create_token(
-  app = "YOUR TWITTER APP NAME",
-  consumer_key = "YOUR CONSUMER KEY",
-  consumer_secret = "YOUR CONSUMER SECRET")
+setup_twitter_oauth("YOUR_CONSUMER_KEY_GOES_HERE", 
+                    "YOUR_CONSUMER_SECRET_GOES_HERE", 
+                    'YOUR_ACCESS_TOKEN_GOES_HERE', 
+                    'YOUR_ACCESS_SECRET_GOES_HERE')
 
 woeid <- "2367105"
 
-trend <- get_trends(woeid)[,1] %>%
+trend <- getTrends(woeid)[,1] %>%
   as_data_frame() %>%
+  rename(trend = value) %>%
   filter(grepl("^#", trend))
 ```
 
-The code below words almost identically to our first mad-lib poem, but the poem is a bit longer (now that Twitter allows 280 characters) and instead of inserting a random interjection from Wordnik at the end, it instead samples one of the trending topics pulled from Twitter above and inserts that as the final word in the poem.
+The code below words almost identically to our first mad-lib poem, but instead of inserting a random interjection from Wordnik at the end, it instead samples one of the trending topics pulled from Twitter above and inserts that as the final word in the poem.
 
 ```{r}
-poem <- paste(c("Leave my ", poem_word("noun"), " unbroken!—quit the ", poem_word("noun"), " above my ", poem_word("noun"), "!\n", poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition")," my heart, and ", poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition"), " my ", poem_word("noun"), '!" \nQuoth the Ravbot, "Never ', trend %>% sample_n(1), "!'"), collapse = "")
+poem <- paste(c(poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition")," my ", poem_word("noun"), ", and ", poem_word("verb"), " thy ", poem_word("noun"), " from ", poem_word("preposition"), " my ", poem_word("noun"), '!" \nQuoth the Ravbot, "Never ', trend %>% sample_n(1), "!'"), collapse = "")
 
 cat(poem)
 ```
 
-Then, so long as the resulting poem is less than 280 characters, we can post it to Twitter. The code below will check if the string `poem` is less than 280 characters and post if it is. If not, it will print a message asking you to rerun the poem generator. We could write this in a slightly more complicated way so the script would automatically rerun the poem generator until it created a poem short enough to tweet.
+Then, so long as the resulting poem is less than 140 characters, we can post it to Twitter. The code below will check if the string `poem` is less than 140 characters and post if it is. If not, it will print a message asking you to rerun the poem generator. We could write this in a slightly more complicated way so the script would automatically rerun the poem generator until it created a poem short enough to tweet.
 
 ```{r}
-if(nchar(poem) < 280) {
-  post_tweet(poem)
+if(nchar(poem) < 140) {
+  tweet(poem)
   } else {
     print("The poem is too long. Please rerun the generator and try again!")
   }
