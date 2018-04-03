@@ -377,21 +377,21 @@ Watch:
 
 Read:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to TBA)
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (beginning-page 115)
 
 
 ## Friday, April 13: The Museum of Civilization
 
 Read:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to TBA)
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (page 117-228)
 
 
-## Tuesday, April 17: Textual Futures
+## Tuesday, April 17: Symphonies & Newspapers
 
 Read:
 
-+ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (to end of book)
++ Emily St. John Mandel, [*Station Eleven*](http://amzn.to/2hSefIP) (229-end)
 
 <del>+ Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)</del>
 
