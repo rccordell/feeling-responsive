@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Lab #11"
+subheadline: "Lab 11"
 title: "Electronic Texts"
 categories:
     - labs
