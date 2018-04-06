@@ -13,4 +13,4 @@ header:
 ---
 
 
-See [Jie Qi's (the creator Chibitronics' Circuit Stickers) Flickr feed](https://www.flickr.com/photos/jieq/) for ideas. 
+ 

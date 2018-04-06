@@ -298,13 +298,3 @@ Now, as we end our work, let's be sure to close our sessions on RStudio Server:
 ```{r}
 q()
 ```
-
-# Fieldbook Prompt
-
-For your lab 10 fieldbook, you should adapt the ideas above to create your own literary twitterbots (I'll leave it to you to intrepret "literary" as you please). Experiment with the form of your bot; have fun. In your fieldbook entry, you should reflect on this process of creation that blends the computational and the creative. The "poems" we created are simple substitution exercises, but we could easily imagine more complex programs that use ideas from collage, patische, and other modes of assemblage to create written works. 
-
-In [“Writing as Programming as Writing”](http://geoffreyrockwell.com/publications/u4.4.pdf)—which, unfortunately, we were not able to read for this class—Geoffrey Rockwell connects the question of whether coding is writing to Socrates’ dialogue with Phaedrus about the virtues and vices of writing itself:
-
-> we have a question which is suitable for this audience—a question which concerns code and whether code is in fact a form of textuality for which the rich tradition of the humanities around reading, dialectic, rhetoric, and reasoning are appropriate arts. Surely that is relevant to computing in the humanities—a discipline around the intersection of code and text—and, if we can determine the nature of code and text, we might then return to the issue of programming as writing. We could even agree, like Socrates and Phaedrus, that tomorrow we are going to reproach programmers who, like speech-writers, have forgotten wisdom for codes.
-
-After all we’ve read about coding in the past few weeks, where do you stand on this question? What relationship(s) do you see between coding and the activities we associate with humanistic study: writing, reading, discussion, and debate? What about between coding and artistic endeavor? Did engaging with more creative applications of coding toward generating art objects like our mad lib poetry (admittedly quite a simple kind of creative coding) change your perception of code? Do you see possibilities for creativity or critique in computation that you did not before? Is a poetry bot writing or creating or doing something else entirely? Beyond simple mad-libs style bots, what potential do you see for computer programs to contribute to culture?
