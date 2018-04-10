@@ -13,7 +13,7 @@ header:
 
 ---
 
-Choose one of the following passages from *Station Eleven*. Reflect on its themes in relationships to another specific section from the first sections of the book (up to page 115). 
+Choose one of the following passages from *Station Eleven*. Reflect on its themes in relation to another specific section from the first sections of the book (up to page 115). 
 
 1\. Really, all of the very short chapter 6, but specifically from page 32:  
 
