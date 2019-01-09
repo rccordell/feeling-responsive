@@ -12,7 +12,9 @@ header:
   caption_url: https://flic.kr/p/8rfzDR
 ---
 
-I've just handed out some books that I suspect you've never read before—though if you *have* read the book I handed to you, then let me know and we'll switch it out! Even though you've never read this book, however, I suspect you can learn a lot about it and its readers. 
+I've handed out some books that I suspect you've never read before—though if you *have* read the book I handed to you, then let me know and we'll switch it out! 
+
+Even though you've never read this book, I suspect you can learn a lot about it and its readers. 
 
 To do that, I want you to spend some time studying your book, though I don't want you to read it (not the main body of the text at least). Instead, pay attention to things like:
 

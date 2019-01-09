@@ -61,8 +61,8 @@ For this lab you will need a plain-text editor. These free editors are markdown-
 
 Read:
 
-+ Marshall McLuhan, “The Medium is the Message”
-+ Alan Liu, [“Imagining the New Media Encounter”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand)
++ Marshall McLuhan, "The Medium is the Message"
++ Alan Liu, ["Imagining the New Media Encounter"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand)
 
 -----
 
@@ -95,9 +95,9 @@ Read:
 
 Read:
 
-+ Bede, [“The Story of Cædmon”](http://www.heorot.dk/bede-caedmon.html)
++ Bede, ["The Story of Cædmon"](http://www.heorot.dk/bede-caedmon.html)
 + Ælfric, [Preface to his translation of Genesis](https://brandonwhawk.net/2014/07/30/aelfrics-preface-to-genesis-a-translation/).
-+ Geoffrey Chaucer, [“Chaucer’s Words to His Scrivener”](http://genius.com/Geoffrey-chaucer-chaucers-words-to-his-scrivener-annotated)
++ Geoffrey Chaucer, ["Chaucer’s Words to His Scrivener"](http://genius.com/Geoffrey-chaucer-chaucers-words-to-his-scrivener-annotated)
 + Excerpts from Johannes Trithemius, [*In Praise of Scribes*](http://misc.yarinareth.net/trithemius.html)
 
 Watch:
@@ -156,8 +156,7 @@ Read:
 Read:
 
 + James Gleick, *The Information*, chapter 3 (pg. 51-77)
-+ Ann Blair, "Introduction" from *Too Much To Know*
-
++ Ann Blair, "Introduction" from [*Too Much To Know*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8998962720001401?auth=SAML) (2010)
 
 Watch:
 
@@ -187,7 +186,7 @@ Read:
 
 Read (optional): 
 
-+ Lisa Gitelman, “Print Culture (Other Than Codex): Job Printing and Its Importance"
++ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance"
 
 Watch (Optional)
 
@@ -227,12 +226,12 @@ Read:
 
 Read:
 
-+ Frank Furedi, [“The Media’s First Moral Panic”](http://www.frankfuredi.com/article/the_medias_first_moral_panic)
-+ Anna North, [“When Novels Were Bad for You”](http://op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/?_r=0)
++ Frank Furedi, ["The Media’s First Moral Panic"](http://www.frankfuredi.com/article/the_medias_first_moral_panic)
++ Anna North, ["When Novels Were Bad for You"](http://op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/?_r=0)
 + 19th-Century Commentaries on Novel Reading:
-    + [“On Novel Reading”](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
-    + [“Devouring Books”](http://www.merrycoz.org/books/DEVOURNG.xhtml) (from the *American Annals of Education*, 1835)
-    + M.M. Backus, [“Novel Writers and Publishers”](http://www.merrycoz.org/books/PARLOR.xhtml) (from *Christian Parlor Magazine*, 1844)
+    + ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
+    + ["Devouring Books"](http://www.merrycoz.org/books/DEVOURNG.xhtml) (from the *American Annals of Education*, 1835)
+    + M.M. Backus, ["Novel Writers and Publishers"](http://www.merrycoz.org/books/PARLOR.xhtml) (from *Christian Parlor Magazine*, 1844)
 
 ## Friday, February 23: Format
 
